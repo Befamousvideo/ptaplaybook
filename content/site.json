@@ -1,441 +1,518 @@
 {
- "name": "PTA Playbook",
- "domain": "ptaplaybook.com",
- "tagline": "Fundraiser playbooks and school-app sanity for parents",
- "color": "#c2410c",
- "updated": "October 14, 2026",
- "description": "Free playbooks, templates and checklists for PTA/PTO volunteers and busy parents: run fundraisers, recruit volunteers, and tame school-app notifications.",
- "nav": [
-  {
-   "label": "PTA toolkit",
-   "href": "/pta"
-  },
-  {
-   "label": "School apps",
-   "href": "/apps"
-  },
-  {
-   "label": "Newsletter",
-   "href": "/newsletter"
-  },
-  {
-   "label": "Sponsor",
-   "href": "/sponsor"
-  }
- ],
- "footer": "PTA Playbook: practical help for PTA volunteers and school parents. No kids' names or photos, ever.",
- "newsletter": {
-  "title": "The PTA Playbook weekly",
-  "blurb": "A short Sunday email timed to the school calendar, with what's coming up and a ready-to-use template."
- },
- "sponsorSlot": "Reach PTA leaders and school parents. Sponsors are labeled and never change our comparisons.",
- "mainCta": {
-  "title": "Get the weekly playbook",
-  "text": "Seasonal checklists and templates delivered every Sunday.",
-  "button": "Join the newsletter",
-  "href": "/newsletter"
- },
- "home": {
-  "h1": "Run a great PTA year without drowning in school messages",
-  "lead": "Fundraiser playbooks, volunteer templates, and simple ways to cut school-app noise down to what matters.",
-  "buttons": [
-   {
-    "label": "PTA toolkit",
-    "href": "/pta"
-   },
-   {
-    "label": "Tame school apps",
-    "href": "/apps",
-    "secondary": true
-   }
-  ],
-  "sections": [
-   {
-    "group": "pta",
-    "title": "PTA toolkit"
-   },
-   {
-    "group": "apps",
-    "title": "Tame school apps"
-   },
-   {
-    "group": "guides",
-    "title": "Guides"
-   },
-   {
-    "group": "calendar",
-    "title": "This month"
-   }
-  ],
-  "faq": [
-   {
-    "q": "What's the easiest PTA fundraiser?",
-    "a": "A restaurant spirit night: a local restaurant donates a share of one evening's sales, and volunteers mostly just promote it."
-   },
-   {
-    "q": "How do I get fewer school notifications?",
-    "a": "Pick one channel per app, switch general posts to a digest where the app offers it, and keep instant alerts only for direct and urgent messages."
-   },
-   {
-    "q": "Is PTA Playbook free?",
-    "a": "Yes. Guides and templates are free. Premium template kits may come later."
-   }
-  ]
- },
- "pages": [
-  {
-   "path": "/apps/parentsquare",
-   "group": "apps",
-   "label": "App guide",
-   "title": "How to cut ParentSquare notifications down to what matters",
-   "summary": "ParentSquare lets you choose how you're notified (push, email or text) and offers a digest option, so general posts can arrive bundled instead of one at a time.",
-   "blocks": [
+  "name": "PTA Playbook",
+  "domain": "ptaplaybook.com",
+  "tagline": "Fundraiser playbooks and school-app sanity for parents",
+  "color": "#c2410c",
+  "updated": "October 15, 2026",
+  "description": "Free playbooks, templates and checklists for PTA/PTO volunteers and busy parents: run fundraisers, recruit volunteers, and tame school-app notifications.",
+  "nav": [
     {
-     "p": [
-      "Tip: set one family email that both parents read."
-     ]
-    }
-   ],
-   "steps": [
-    "Open your account settings.",
-    "Find notification preferences.",
-    "Choose digest delivery for general posts, and keep instant alerts only for urgent and direct messages.",
-    "Repeat for each child or school if you have several."
-   ],
-   "flag": "Generic guide — menu names and steps must be checked against the vendor's current help docs before publishing."
-  },
-  {
-   "path": "/apps/classdojo",
-   "group": "apps",
-   "label": "App guide",
-   "title": "ClassDojo for parents: keep messages, mute the noise",
-   "summary": "Keep direct teacher messages on push, and read class story posts on your own schedule.",
-   "blocks": [
-    {
-     "p": [
-      "Weekly habit: spend 10 minutes on Sunday scrolling the class story."
-     ]
-    }
-   ],
-   "steps": [
-    "Open your profile.",
-    "Go to notification settings.",
-    "Turn off push for story posts you don't need right away.",
-    "Keep direct messages on."
-   ],
-   "flag": "Generic guide — menu names and steps must be checked against the vendor's current help docs before publishing."
-  },
-  {
-   "path": "/apps/remind",
-   "group": "apps",
-   "label": "App guide",
-   "title": "Remind: choose text vs app, and stop double alerts",
-   "summary": "Double alerts often come from getting both texts and app notifications. Pick one channel.",
-   "blocks": [
-    {
-     "p": [
-      "If you still get duplicates, check whether each child's class is set the same way."
-     ]
-    }
-   ],
-   "steps": [
-    "Open account settings.",
-    "Go to notification preferences.",
-    "Choose app or SMS, not both."
-   ],
-   "flag": "Generic guide — menu names and steps must be checked against the vendor's current help docs before publishing."
-  },
-  {
-   "path": "/guides/one-family-school-inbox",
-   "group": "guides",
-   "label": "Guide",
-   "title": "Build one family school inbox in 20 minutes",
-   "summary": "Create one email address just for school, register it everywhere, filter it, share it with your co-parent, and review it weekly.",
-   "blocks": [],
-   "steps": [
-    "Create a free email address just for school (for example, lastname.school@…).",
-    "Register it in every school app and give it to each teacher.",
-    "In your main email, add a filter for school domains with the label “School”.",
-    "Share the inbox with your co-parent.",
-    "Every Sunday, scan it, add dates to the family calendar, and archive.",
-    "Anything with a deadline gets a calendar event with a two-day reminder."
-   ]
-  },
-  {
-   "path": "/pta/fundraisers/fun-run",
-   "group": "pta",
-   "label": "Fundraiser playbook",
-   "title": "School fun run playbook",
-   "summary": "An eight-week plan for a school fun run: approvals, roles, pledges, safety, day-of logistics and follow-up.",
-   "blocks": [
-    {
-     "p": [
-      "Money handling: use a two-person count for any cash, and follow your PTA's financial procedures."
-     ]
-    }
-   ],
-   "steps": [
-    "8 weeks out: get principal or district approval, pick a date and rain date, and choose a pledge platform.",
-    "6 weeks: recruit a lead and four committee roles (pledges, course and safety, volunteers, prizes and comms).",
-    "4 weeks: launch the pledge page, send the family letter, and open volunteer sign-up.",
-    "2 weeks: confirm the course, water, first aid and volunteer schedule.",
-    "Week of: send daily progress updates and post a class leaderboard.",
-    "Day of: run a check-in table, track laps per class, and photograph only kids with media consent.",
-    "After: send thank-yous within 48 hours, collect pledges within two weeks, and publish totals."
-   ]
-  },
-  {
-   "path": "/pta/fundraisers/restaurant-night",
-   "group": "pta",
-   "label": "Fundraiser playbook",
-   "title": "Restaurant spirit night playbook",
-   "summary": "The lowest-effort fundraiser: a local restaurant donates a share of one evening's sales.",
-   "blocks": [],
-   "steps": [
-    "Ask restaurants that already run giveback nights (many chains have an online request form).",
-    "Confirm the percentage and whether flyers or mentions at checkout are required.",
-    "Schedule it mid-week.",
-    "Promote it one week before, one day before, and on the day.",
-    "Thank the restaurant publicly.",
-    "Get the sales report and payment date in writing."
-   ],
-   "flag": "General guidance — confirm each restaurant's current giveback terms directly."
-  },
-  {
-   "path": "/pta/tools/compare/signupgenius-vs-cheddar-up",
-   "group": "pta",
-   "label": "Comparison",
-   "title": "SignUpGenius vs Cheddar Up for PTAs",
-   "summary": "SignUpGenius is mainly for volunteer and time-slot sign-ups. Cheddar Up is mainly for collecting payments and forms. Many PTAs use one of each.",
-   "blocks": [
-    {
-     "p": [
-      "Prices and fees are omitted until pulled from each vendor's pricing page with a date."
-     ]
+      "label": "PTA toolkit",
+      "href": "/pta"
     },
     {
-     "table": [
-      [
-       "Feature",
-       "SignUpGenius",
-       "Cheddar Up"
-      ],
-      [
-       "Primary use",
-       "Volunteer/time-slot sign-ups",
-       "Payments and forms"
-      ],
-      [
-       "Free tier",
-       "See vendor page",
-       "See vendor page"
-      ],
-      [
-       "Payment fees",
-       "See vendor page",
-       "See vendor page"
-      ],
-      [
-       "Reminders",
-       "See vendor page",
-       "See vendor page"
-      ]
-     ]
-    }
-   ],
-   "flag": "Comparison table must be filled from each vendor's current pricing and feature pages before publishing."
-  },
-  {
-   "path": "/pta/templates/volunteer-ask",
-   "group": "pta",
-   "label": "Template",
-   "title": "Volunteer request email that gets replies",
-   "summary": "A short, specific volunteer request with exact shifts and a sign-up link gets more replies than a general call for help.",
-   "blocks": [
-    {
-     "h": "Copy-paste template",
-     "pre": "Subject: 30 minutes on {date}? We need 6 helpers for {event}\n\nHi {School} families,\n\n{event} is on {date}. We need 6 people for 30-minute shifts ({times}). No experience needed; we'll tell you exactly what to do. Sign up here: {link}.\n\nCan't volunteer? Sharing this with one friend helps too. Thank you!\n\n— {Name}, {PTA role}"
-    }
-   ]
-  },
-  {
-   "path": "/pta/templates/thank-you",
-   "group": "pta",
-   "label": "Template",
-   "title": "Post-fundraiser thank-you note",
-   "summary": "Thank families with the amount raised, what it will fund, and what happens next.",
-   "blocks": [
-    {
-     "h": "Copy-paste template",
-     "pre": "Thank you! Because of you, {event} raised {amount} for {purpose}. {N} volunteers gave their time and {N} families took part.\n\nHere's what happens next: {how funds will be used, timeline}.\n\nWe'll share photos (with permission) on {channel}.\n\n— {PTA}"
-    }
-   ]
-  },
-  {
-   "path": "/calendar/october",
-   "group": "calendar",
-   "label": "Seasonal checklist",
-   "title": "October school-parent checklist",
-   "summary": "Things to get on the family calendar in October: conferences, fundraisers, costume policies, picture retakes and more.",
-   "blocks": [
-    {
-     "ul": [
-      "Conference sign-ups (they fill fast)",
-      "Fall fundraiser dates and pledge deadlines in the family calendar",
-      "Halloween and costume policy check",
-      "Picture retake day",
-      "Report card or progress report date",
-      "Winter break dates in your work calendar",
-      "Update emergency contacts",
-      "Check lost-and-found before items are donated"
-     ]
-    }
-   ]
-  }
- ],
- "static": [
-  {
-   "path": "/about",
-   "title": "About PTA Playbook",
-   "summary": "PTA Playbook is an Agentic Business site from StorenTech, researched and maintained by AI agents with human review.",
-   "blocks": [
-    {
-     "p": [
-      "Content is drafted by research agents from public sources, then checked before publishing. Every page shows a last-updated date and links to its sources where facts are stated.",
-      "StorenTech AI builds custom automations and software for businesses. Where a page offers to build something for you, that request goes to StorenTech."
-     ]
-    }
-   ]
-  },
-  {
-   "path": "/methodology",
-   "title": "How we research and update content",
-   "summary": "We collect public questions and examples daily, write answer-first pages, cite vendor documentation, and re-verify pages on a schedule.",
-   "blocks": [
-    {
-     "ul": [
-      "Sources: public forums, vendor help centers and pricing pages, official documentation.",
-      "No prices or statistics are stated without a linked source and date.",
-      "Pages are re-checked regularly; each shows its last-updated date.",
-      "Sponsors never influence editorial content and are always labeled."
-     ]
-    }
-   ]
-  },
-  {
-   "path": "/sponsor",
-   "title": "Sponsor PTA Playbook",
-   "summary": "Reach a focused audience through labeled sponsor slots. Every sponsor is reviewed and approved before any payment is taken.",
-   "blocks": [
-    {
-     "h": "Sponsor options (founding pricing)",
-     "ul": [
-      "Monthly sponsor slot — $79/month",
-      "Featured listing — $199"
-     ]
+      "label": "School apps",
+      "href": "/apps"
     },
     {
-     "p": [
-      "Online checkout is not open yet. To ask about sponsoring, use the contact option once it launches; all sponsors are approved manually."
-     ]
+      "label": "Newsletter",
+      "href": "/newsletter"
+    },
+    {
+      "label": "Sponsor",
+      "href": "/sponsor"
     }
-   ],
-   "cta": {
-    "title": "Interested in sponsoring?",
-    "text": "Sponsor checkout opens soon. Join the newsletter to be notified.",
-    "button": "Get notified",
+  ],
+  "footer": "PTA Playbook: practical help for PTA volunteers and school parents. No kids' names or photos, ever.",
+  "newsletter": {
+    "title": "The PTA Playbook weekly",
+    "blurb": "A short Sunday email timed to the school calendar, with what's coming up and a ready-to-use template."
+  },
+  "sponsorSlot": "Reach PTA leaders and school parents. Sponsors are labeled and never change our comparisons.",
+  "mainCta": {
+    "title": "Get the weekly playbook",
+    "text": "Seasonal checklists and templates delivered every Sunday.",
+    "button": "Join the newsletter",
     "href": "/newsletter"
-   }
   },
-  {
-   "path": "/newsletter",
-   "title": "The PTA Playbook newsletter",
-   "summary": "A short weekly email with the newest pages and practical ideas. Free; unsubscribe anytime.",
-   "blocks": [
-    {
-     "p": [
-      "Enter your email below to join. Free, and you can unsubscribe anytime."
-     ]
-    }
-   ],
-   "cta": false,
-   "showNewsletter": true
-  },
-  {
-   "path": "/privacy",
-   "title": "Privacy policy",
-   "summary": "Draft privacy policy pending review. We collect only what you submit and never sell personal information.",
-   "flag": "Draft — pending legal review before launch.",
-   "blocks": [
-    {
-     "ul": [
-      "We collect email addresses only when you subscribe (not yet active).",
-      "We use privacy-friendly analytics.",
-      "We never sell personal information.",
-      "Contact details will be published at launch."
-     ]
-    }
-   ],
-   "cta": false
-  },
-  {
-   "path": "/terms",
-   "title": "Terms of use",
-   "summary": "Draft terms pending review. Content is general information, not professional advice.",
-   "flag": "Draft — pending legal review before launch.",
-   "blocks": [
-    {
-     "p": [
-      "Content is provided for general information and may contain errors. Verify with official vendor documentation before acting."
-     ]
-    }
-   ],
-   "cta": false
-  },
-  {
-   "path": "/pta",
-   "title": "PTA toolkit",
-   "summary": "Fundraiser playbooks, tool comparisons and copy-paste templates for PTA and PTO volunteers.",
-   "blocks": [
-    {
-     "ul": [
-      "School fun run playbook",
-      "Restaurant spirit night playbook",
-      "SignUpGenius vs Cheddar Up for PTAs",
-      "Volunteer request email that gets replies",
-      "Post-fundraiser thank-you note"
-     ]
-    }
-   ]
-  },
-  {
-   "path": "/apps",
-   "title": "Tame school apps",
-   "summary": "Generic guides to cut ParentSquare, ClassDojo and Remind notifications down to what matters.",
-   "flag": "Generic guide — menu names and steps must be checked against the vendor's current help docs before publishing.",
-   "blocks": [
-    {
-     "ul": [
-      "How to cut ParentSquare notifications down to what matters",
-      "ClassDojo for parents: keep messages, mute the noise",
-      "Remind: choose text vs app, and stop double alerts"
-     ]
-    }
-   ]
-  },
-  {
-   "path": "/digest",
-   "title": "School email digest: join the waitlist",
-   "summary": "A planned daily digest of your school emails with action items and dates. Waitlist only; nothing is collected yet.",
-   "cta": false,
-   "form": {
-    "title": "Join the waitlist",
-    "fields": [
-     "Email"
+  "home": {
+    "h1": "Run a great PTA year without drowning in school messages",
+    "lead": "Fundraiser playbooks, volunteer templates, and simple ways to cut school-app noise down to what matters.",
+    "buttons": [
+      {
+        "label": "PTA toolkit",
+        "href": "/pta"
+      },
+      {
+        "label": "Tame school apps",
+        "href": "/apps",
+        "secondary": true
+      }
     ],
-    "button": "Waitlist opens soon",
-    "note": "For parents (adults) only. No emails are collected or processed yet."
-   }
-  }
- ]
+    "sections": [
+      {
+        "group": "pta",
+        "title": "PTA toolkit"
+      },
+      {
+        "group": "apps",
+        "title": "Tame school apps"
+      },
+      {
+        "group": "guides",
+        "title": "Guides"
+      },
+      {
+        "group": "calendar",
+        "title": "This month"
+      }
+    ],
+    "faq": [
+      {
+        "q": "What's the easiest PTA fundraiser?",
+        "a": "A restaurant spirit night: a local restaurant donates a share of one evening's sales, and volunteers mostly just promote it."
+      },
+      {
+        "q": "How do I get fewer school notifications?",
+        "a": "Pick one channel per app, switch general posts to a digest where the app offers it, and keep instant alerts only for direct and urgent messages."
+      },
+      {
+        "q": "Is PTA Playbook free?",
+        "a": "Yes. Guides and templates are free. Premium template kits may come later."
+      }
+    ]
+  },
+  "pages": [
+    {
+      "path": "/apps/parentsquare",
+      "group": "apps",
+      "label": "App guide",
+      "title": "How to cut ParentSquare notifications down to what matters",
+      "summary": "ParentSquare lets you set Posts to Instant or Digest per school, while urgent alerts and critical notices stay on. Use digest for everyday posts so you aren't interrupted all day.",
+      "blocks": [
+        {
+          "p": [
+            "Tip: set one family email that both parents read, and put notification preference order on that address.",
+            "ParentSquare help (district help desk mirror): Instant delivers posts as soon as possible; Digest delivers in the evening in the school's time zone; Off skips non-urgent post notifications. Urgent Alerts & Notices (attendance, urgent alerts, critical auto notices) stay enabled: https://gcasda.help/support/solutions/articles/48001243631-manage-parentsquare-notification-settings",
+            "Account settings overview: https://parentsquare1736363850.zendesk.com/hc/en-us/articles/39029028719117-Account-Settings-Overview"
+          ]
+        }
+      ],
+      "steps": [
+        "On the web: from Home, click your name → Manage Account → Notification Settings. On the app: menu (≡) → Account → Notifications.",
+        "Under Posts, turn on the channels you want (app, email, and/or text where offered), then choose Digest for everyday posts instead of Instant.",
+        "Keep Urgent Alerts & Notices available — those critical notices cannot be fully turned off, and Off for posts is still overridden for urgent alerts.",
+        "Under Direct Messages, keep instant delivery on the channel you actually read (often app or email) so teacher DMs aren't buried.",
+        "If you have several schools or children, repeat per school/district row.",
+        "If you have multiple emails or phones on the account, set preferred contact order so digests go to the family inbox you both check."
+      ],
+      "flag": "Steps verified against ParentSquare help materials on October 15, 2026; school districts may label menus differently."
+    },
+    {
+      "path": "/apps/classdojo",
+      "group": "apps",
+      "label": "App guide",
+      "title": "ClassDojo for parents: keep messages, mute the noise",
+      "summary": "Keep direct teacher messages on push, and read class story posts on your own schedule.",
+      "blocks": [
+        {
+          "p": [
+            "Weekly habit: spend 10 minutes on Sunday scrolling the class story."
+          ]
+        }
+      ],
+      "steps": [
+        "Open your profile.",
+        "Go to notification settings.",
+        "Turn off push for story posts you don't need right away.",
+        "Keep direct messages on."
+      ],
+      "flag": "Generic guide — menu names and steps must be checked against the vendor's current help docs before publishing."
+    },
+    {
+      "path": "/apps/remind",
+      "group": "apps",
+      "label": "App guide",
+      "title": "Remind: choose text vs app, and stop double alerts",
+      "summary": "Double alerts often come from getting both texts and app notifications. Pick one channel.",
+      "blocks": [
+        {
+          "p": [
+            "If you still get duplicates, check whether each child's class is set the same way."
+          ]
+        }
+      ],
+      "steps": [
+        "Open account settings.",
+        "Go to notification preferences.",
+        "Choose app or SMS, not both."
+      ],
+      "flag": "Generic guide — menu names and steps must be checked against the vendor's current help docs before publishing."
+    },
+    {
+      "path": "/guides/one-family-school-inbox",
+      "group": "guides",
+      "label": "Guide",
+      "title": "Build one family school inbox in 20 minutes",
+      "summary": "Create one email address just for school, register it everywhere, filter it, share it with your co-parent, and review it weekly.",
+      "blocks": [],
+      "steps": [
+        "Create a free email address just for school (for example, lastname.school@…).",
+        "Register it in every school app and give it to each teacher.",
+        "In your main email, add a filter for school domains with the label “School”.",
+        "Share the inbox with your co-parent.",
+        "Every Sunday, scan it, add dates to the family calendar, and archive.",
+        "Anything with a deadline gets a calendar event with a two-day reminder."
+      ]
+    },
+    {
+      "path": "/pta/fundraisers/fun-run",
+      "group": "pta",
+      "label": "Fundraiser playbook",
+      "title": "School fun run playbook",
+      "summary": "An eight-week plan for a school fun run: approvals, roles, pledges, safety, day-of logistics and follow-up.",
+      "blocks": [
+        {
+          "p": [
+            "Money handling: use a two-person count for any cash, and follow your PTA's financial procedures."
+          ]
+        }
+      ],
+      "steps": [
+        "8 weeks out: get principal or district approval, pick a date and rain date, and choose a pledge platform.",
+        "6 weeks: recruit a lead and four committee roles (pledges, course and safety, volunteers, prizes and comms).",
+        "4 weeks: launch the pledge page, send the family letter, and open volunteer sign-up.",
+        "2 weeks: confirm the course, water, first aid and volunteer schedule.",
+        "Week of: send daily progress updates and post a class leaderboard.",
+        "Day of: run a check-in table, track laps per class, and photograph only kids with media consent.",
+        "After: send thank-yous within 48 hours, collect pledges within two weeks, and publish totals."
+      ]
+    },
+    {
+      "path": "/pta/fundraisers/restaurant-night",
+      "group": "pta",
+      "label": "Fundraiser playbook",
+      "title": "Restaurant spirit night playbook",
+      "summary": "The lowest-effort fundraiser: a local restaurant donates a share of one evening's sales.",
+      "blocks": [],
+      "steps": [
+        "Ask restaurants that already run giveback nights (many chains have an online request form).",
+        "Confirm the percentage and whether flyers or mentions at checkout are required.",
+        "Schedule it mid-week.",
+        "Promote it one week before, one day before, and on the day.",
+        "Thank the restaurant publicly.",
+        "Get the sales report and payment date in writing."
+      ],
+      "flag": "General guidance — confirm each restaurant's current giveback terms directly."
+    },
+    {
+      "path": "/pta/tools/compare/signupgenius-vs-cheddar-up",
+      "group": "pta",
+      "label": "Comparison",
+      "title": "SignUpGenius vs Cheddar Up for PTAs",
+      "summary": "SignUpGenius is mainly for volunteer and time-slot sign-ups. Cheddar Up is mainly for collecting payments and forms. Many PTAs use one of each.",
+      "blocks": [
+        {
+          "p": [
+            "Prices and fees are omitted until pulled from each vendor's pricing page with a date."
+          ]
+        },
+        {
+          "table": [
+            [
+              "Feature",
+              "SignUpGenius",
+              "Cheddar Up"
+            ],
+            [
+              "Primary use",
+              "Volunteer/time-slot sign-ups",
+              "Payments and forms"
+            ],
+            [
+              "Free tier",
+              "See vendor page",
+              "See vendor page"
+            ],
+            [
+              "Payment fees",
+              "See vendor page",
+              "See vendor page"
+            ],
+            [
+              "Reminders",
+              "See vendor page",
+              "See vendor page"
+            ]
+          ]
+        }
+      ],
+      "flag": "Comparison table must be filled from each vendor's current pricing and feature pages before publishing."
+    },
+    {
+      "path": "/pta/templates/volunteer-ask",
+      "group": "pta",
+      "label": "Template",
+      "title": "Volunteer request email that gets replies",
+      "summary": "A short, specific volunteer request with exact shifts and a sign-up link gets more replies than a general call for help.",
+      "blocks": [
+        {
+          "h": "Copy-paste template",
+          "pre": "Subject: 30 minutes on {date}? We need 6 helpers for {event}\n\nHi {School} families,\n\n{event} is on {date}. We need 6 people for 30-minute shifts ({times}). No experience needed; we'll tell you exactly what to do. Sign up here: {link}.\n\nCan't volunteer? Sharing this with one friend helps too. Thank you!\n\n— {Name}, {PTA role}"
+        }
+      ]
+    },
+    {
+      "path": "/pta/templates/thank-you",
+      "group": "pta",
+      "label": "Template",
+      "title": "Post-fundraiser thank-you note",
+      "summary": "Thank families with the amount raised, what it will fund, and what happens next.",
+      "blocks": [
+        {
+          "h": "Copy-paste template",
+          "pre": "Thank you! Because of you, {event} raised {amount} for {purpose}. {N} volunteers gave their time and {N} families took part.\n\nHere's what happens next: {how funds will be used, timeline}.\n\nWe'll share photos (with permission) on {channel}.\n\n— {PTA}"
+        }
+      ]
+    },
+    {
+      "path": "/calendar/october",
+      "group": "calendar",
+      "label": "Seasonal checklist",
+      "title": "October school-parent checklist",
+      "summary": "Things to get on the family calendar in October: conferences, fundraisers, costume policies, picture retakes and more.",
+      "blocks": [
+        {
+          "ul": [
+            "Conference sign-ups (they fill fast)",
+            "Fall fundraiser dates and pledge deadlines in the family calendar",
+            "Halloween and costume policy check",
+            "Picture retake day",
+            "Report card or progress report date",
+            "Winter break dates in your work calendar",
+            "Update emergency contacts",
+            "Check lost-and-found before items are donated"
+          ]
+        }
+      ]
+    },
+    {
+      "path": "/pta/fundraisers/spirit-wear-store",
+      "group": "pta",
+      "label": "Fundraiser playbook",
+      "title": "Online spirit-wear store playbook (print-on-demand)",
+      "summary": "Sell school spirit wear through a print-on-demand store so you take orders online without holding inventory or sizing guesses in a closet.",
+      "blocks": [
+        {
+          "p": [
+            "Online spirit-wear / print-on-demand stores show up repeatedly in PTA fundraiser idea lists (for example https://www.apexleadershipco.com/resources/school-fundraiser-ideas and https://scanraise.com/blog/pta-fundraising-ideas)."
+          ]
+        }
+      ],
+      "steps": [
+        "Get board/principal approval for logo use and any required vendor paperwork.",
+        "Pick a print-on-demand vendor that handles storefront, printing and shipping (compare fees, minimums and sample quality).",
+        "Approve 3–6 designs (keep kid photos and last names off public product images).",
+        "Set the school cut of each item and a clear order window (for example 2–3 weeks).",
+        "Launch the store link via ParentSquare/email and classroom shares; pin sizing charts.",
+        "Promote once at launch, once mid-window, and once in the final 48 hours.",
+        "After the window closes, confirm fulfillment timelines with the vendor and thank families when tracking goes out.",
+        "Report net proceeds to the treasurer with the vendor payout statement."
+      ],
+      "flag": "General guidance — confirm each vendor's current fees, logo rules and payout timing before you promote."
+    },
+    {
+      "path": "/pta/fundraisers/book-fair",
+      "group": "pta",
+      "label": "Fundraiser playbook",
+      "title": "School book fair volunteer and logistics playbook",
+      "summary": "A book fair runs on early volunteer recruiting, clear shift roles, cash/card handling, and a media-consent rule so kids aren't named or tagged in promo photos.",
+      "blocks": [
+        {
+          "p": [
+            "Book-fair organizing guides stress recruiting volunteers well ahead of the fair week (often starting about 6–8 weeks out): https://www.volunteerbadge.com/blog/school-book-fair-organizing-guide",
+            "Book fairs also appear as staple school events in broader PTA fundraiser roundups such as https://www.apexleadershipco.com/resources/school-fundraiser-ideas"
+          ]
+        }
+      ],
+      "steps": [
+        "Confirm dates, vendor (for example Scholastic) and whether the fair is in-person, online or both with the school office.",
+        "About 6–8 weeks out: recruit a chair plus shift leads; use specific role asks (cashier, floater, setup, teardown) rather than a vague 'help needed' blast.",
+        "Build a SignUpGenius (or similar) with short shifts and a short how-to for each role.",
+        "Week before: confirm cash box / card reader, wishlist for classrooms/teachers, and preview night if you offer one.",
+        "During the fair: one person owns cash reconciliation each shift; keep student helpers off cash drawers.",
+        "Media rule: no kids' full names or tagged faces on public PTA posts unless you have current media consent on file — prefer product shots, tables and posters.",
+        "After: thank volunteers within a week, report proceeds, and note what to change next year."
+      ],
+      "flag": "General guidance — follow your school's vendor contract and media-consent policy."
+    },
+    {
+      "path": "/calendar/november",
+      "group": "calendar",
+      "label": "Seasonal checklist",
+      "title": "November school-parent checklist",
+      "summary": "After October's conferences and fall push, November is for wrap-ups, Thanksgiving week planning, early winter-break logistics, and a light spirit or restaurant night if October stayed quiet.",
+      "blocks": [
+        {
+          "ul": [
+            "Conference follow-ups and any teacher action items from October meetings",
+            "Thanksgiving week: early pickup, no-school days, and lunch/plan changes on the family calendar",
+            "Confirm winter break dates in your work calendar (and travel blackout days)",
+            "If October was a light community month, schedule a restaurant spirit night or spirit-wear push for November (fundraiser calendars often keep October lighter before winter drives — see the two-anchor calendar idea at https://www.read-a-thon.com/solutions/pta-fundraising-calendar)",
+            "Start a teacher-appreciation idea list for later in the year (don't wait until the week of)",
+            "Picture retakes or late fall photo day if your school runs one",
+            "Check lost-and-found before long weekends",
+            "Update after-school pickup and emergency contacts before holiday substitutes"
+          ]
+        }
+      ]
+    }
+  ],
+  "static": [
+    {
+      "path": "/about",
+      "title": "About PTA Playbook",
+      "summary": "PTA Playbook is an Agentic Business site from StorenTech, researched and maintained by AI agents with human review.",
+      "blocks": [
+        {
+          "p": [
+            "Content is drafted by research agents from public sources, then checked before publishing. Every page shows a last-updated date and links to its sources where facts are stated.",
+            "StorenTech AI builds custom automations and software for businesses. Where a page offers to build something for you, that request goes to StorenTech."
+          ]
+        }
+      ]
+    },
+    {
+      "path": "/methodology",
+      "title": "How we research and update content",
+      "summary": "We collect public questions and examples daily, write answer-first pages, cite vendor documentation, and re-verify pages on a schedule.",
+      "blocks": [
+        {
+          "ul": [
+            "Sources: public forums, vendor help centers and pricing pages, official documentation.",
+            "No prices or statistics are stated without a linked source and date.",
+            "Pages are re-checked regularly; each shows its last-updated date.",
+            "Sponsors never influence editorial content and are always labeled."
+          ]
+        }
+      ]
+    },
+    {
+      "path": "/sponsor",
+      "title": "Sponsor PTA Playbook",
+      "summary": "Reach a focused audience through labeled sponsor slots. Every sponsor is reviewed and approved before any payment is taken.",
+      "blocks": [
+        {
+          "h": "Sponsor options (founding pricing)",
+          "ul": [
+            "Monthly sponsor slot — $79/month",
+            "Featured listing — $199"
+          ]
+        },
+        {
+          "p": [
+            "Online checkout is not open yet. To ask about sponsoring, use the contact option once it launches; all sponsors are approved manually."
+          ]
+        }
+      ],
+      "cta": {
+        "title": "Interested in sponsoring?",
+        "text": "Sponsor checkout opens soon. Join the newsletter to be notified.",
+        "button": "Get notified",
+        "href": "/newsletter"
+      }
+    },
+    {
+      "path": "/newsletter",
+      "title": "The PTA Playbook newsletter",
+      "summary": "A short weekly email with the newest pages and practical ideas. Free; unsubscribe anytime.",
+      "blocks": [
+        {
+          "p": [
+            "Enter your email below to join. Free, and you can unsubscribe anytime."
+          ]
+        }
+      ],
+      "cta": false,
+      "showNewsletter": true
+    },
+    {
+      "path": "/privacy",
+      "title": "Privacy policy",
+      "summary": "Draft privacy policy pending review. We collect only what you submit and never sell personal information.",
+      "flag": "Draft — pending legal review before launch.",
+      "blocks": [
+        {
+          "ul": [
+            "We collect email addresses only when you subscribe (not yet active).",
+            "We use privacy-friendly analytics.",
+            "We never sell personal information.",
+            "Contact details will be published at launch."
+          ]
+        }
+      ],
+      "cta": false
+    },
+    {
+      "path": "/terms",
+      "title": "Terms of use",
+      "summary": "Draft terms pending review. Content is general information, not professional advice.",
+      "flag": "Draft — pending legal review before launch.",
+      "blocks": [
+        {
+          "p": [
+            "Content is provided for general information and may contain errors. Verify with official vendor documentation before acting."
+          ]
+        }
+      ],
+      "cta": false
+    },
+    {
+      "path": "/pta",
+      "title": "PTA toolkit",
+      "summary": "Fundraiser playbooks, tool comparisons and copy-paste templates for PTA and PTO volunteers — fun runs, restaurant nights, spirit wear, book fairs and more.",
+      "blocks": [
+        {
+          "ul": [
+            "School fun run playbook",
+            "Restaurant spirit night playbook",
+            "Online spirit-wear store playbook (print-on-demand)",
+            "School book fair volunteer and logistics playbook",
+            "SignUpGenius vs Cheddar Up for PTAs",
+            "Volunteer request email that gets replies",
+            "Post-fundraiser thank-you note"
+          ]
+        }
+      ]
+    },
+    {
+      "path": "/apps",
+      "title": "Tame school apps",
+      "summary": "Generic guides to cut ParentSquare, ClassDojo and Remind notifications down to what matters.",
+      "flag": "Generic guide — menu names and steps must be checked against the vendor's current help docs before publishing.",
+      "blocks": [
+        {
+          "ul": [
+            "How to cut ParentSquare notifications down to what matters",
+            "ClassDojo for parents: keep messages, mute the noise",
+            "Remind: choose text vs app, and stop double alerts"
+          ]
+        }
+      ]
+    },
+    {
+      "path": "/digest",
+      "title": "School email digest: join the waitlist",
+      "summary": "A planned daily digest of your school emails with action items and dates. Waitlist only; nothing is collected yet.",
+      "cta": false,
+      "form": {
+        "title": "Join the waitlist",
+        "fields": [
+          "Email"
+        ],
+        "button": "Waitlist opens soon",
+        "note": "For parents (adults) only. No emails are collected or processed yet."
+      }
+    }
+  ]
 }
