@@ -3,7 +3,7 @@
   "domain": "ptaplaybook.com",
   "tagline": "Fundraiser playbooks and school-app sanity for parents",
   "color": "#c2410c",
-  "updated": "October 15, 2026",
+  "updated": "October 16, 2026",
   "description": "Free playbooks, templates and checklists for PTA/PTO volunteers and busy parents: run fundraisers, recruit volunteers, and tame school-app notifications.",
   "nav": [
     {
@@ -363,6 +363,37 @@
             "Picture retakes or late fall photo day if your school runs one",
             "Check lost-and-found before long weekends",
             "Update after-school pickup and emergency contacts before holiday substitutes"
+          ]
+        }
+      ]
+    },
+    {
+      "path": "/pta/fundraisers/giving-tuesday",
+      "group": "pta",
+      "label": "Fundraiser playbook",
+      "title": "Giving Tuesday playbook for a PTA or PTO",
+      "summary": "Giving Tuesday falls on December 1, 2026, the Tuesday after Thanksgiving. A simple one-day online ask with a clear goal, a matching gift if you can get one, and three reminder messages is enough for most PTAs.",
+      "steps": [
+        "T-6 weeks: get board and principal approval, and confirm your PTA's nonprofit/tax status and how donations are receipted.",
+        "T-5 weeks: pick one concrete goal (for example, classroom libraries) and a dollar target.",
+        "T-4 weeks: ask a local business or family for a matching gift.",
+        "T-2 weeks: set up the donation page on the platform your PTA already uses, and test a $1 donation.",
+        "T-1 week: announce in the newsletter; schedule reminders for the morning, lunchtime and evening of Dec 1.",
+        "Day-of: post progress updates toward the goal.",
+        "Within 48 hours: thank every donor and share the total."
+      ],
+      "blocks": [
+        {
+          "h": "Money-handling notes",
+          "ul": [
+            "Follow your PTA's bylaws and treasurer procedures; two people should reconcile online donations against the platform report.",
+            "Check your state PTA guidance and school district rules before naming a business sponsor."
+          ]
+        },
+        {
+          "h": "Sources",
+          "p": [
+            "GivingTuesday — https://www.givingtuesday.org/"
           ]
         }
       ]
