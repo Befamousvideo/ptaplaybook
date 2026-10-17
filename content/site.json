@@ -3,7 +3,7 @@
   "domain": "ptaplaybook.com",
   "tagline": "Fundraiser playbooks and school-app sanity for parents",
   "color": "#c2410c",
-  "updated": "October 16, 2026",
+  "updated": "October 17, 2026",
   "description": "Free playbooks, templates and checklists for PTA/PTO volunteers and busy parents: run fundraisers, recruit volunteers, and tame school-app notifications.",
   "nav": [
     {
@@ -106,7 +106,8 @@
         "If you have several schools or children, repeat per school/district row.",
         "If you have multiple emails or phones on the account, set preferred contact order so digests go to the family inbox you both check."
       ],
-      "flag": "Steps verified against ParentSquare help materials on October 15, 2026; school districts may label menus differently."
+      "flag": "Steps verified against ParentSquare help materials on October 15, 2026; school districts may label menus differently.",
+      "updated": "2026-10-14"
     },
     {
       "path": "/apps/classdojo",
@@ -127,7 +128,8 @@
         "Turn off push for story posts you don't need right away.",
         "Keep direct messages on."
       ],
-      "flag": "Generic guide — menu names and steps must be checked against the vendor's current help docs before publishing."
+      "flag": "Generic guide — menu names and steps must be checked against the vendor's current help docs before publishing.",
+      "updated": "2026-10-14"
     },
     {
       "path": "/apps/remind",
@@ -147,7 +149,8 @@
         "Go to notification preferences.",
         "Choose app or SMS, not both."
       ],
-      "flag": "Generic guide — menu names and steps must be checked against the vendor's current help docs before publishing."
+      "flag": "Generic guide — menu names and steps must be checked against the vendor's current help docs before publishing.",
+      "updated": "2026-10-14"
     },
     {
       "path": "/guides/one-family-school-inbox",
@@ -163,7 +166,8 @@
         "Share the inbox with your co-parent.",
         "Every Sunday, scan it, add dates to the family calendar, and archive.",
         "Anything with a deadline gets a calendar event with a two-day reminder."
-      ]
+      ],
+      "updated": "2026-10-14"
     },
     {
       "path": "/pta/fundraisers/fun-run",
@@ -186,7 +190,8 @@
         "Week of: send daily progress updates and post a class leaderboard.",
         "Day of: run a check-in table, track laps per class, and photograph only kids with media consent.",
         "After: send thank-yous within 48 hours, collect pledges within two weeks, and publish totals."
-      ]
+      ],
+      "updated": "2026-10-14"
     },
     {
       "path": "/pta/fundraisers/restaurant-night",
@@ -203,7 +208,8 @@
         "Thank the restaurant publicly.",
         "Get the sales report and payment date in writing."
       ],
-      "flag": "General guidance — confirm each restaurant's current giveback terms directly."
+      "flag": "General guidance — confirm each restaurant's current giveback terms directly.",
+      "updated": "2026-10-14"
     },
     {
       "path": "/pta/tools/compare/signupgenius-vs-cheddar-up",
@@ -247,7 +253,8 @@
           ]
         }
       ],
-      "flag": "Comparison table must be filled from each vendor's current pricing and feature pages before publishing."
+      "flag": "Comparison table must be filled from each vendor's current pricing and feature pages before publishing.",
+      "updated": "2026-10-14"
     },
     {
       "path": "/pta/templates/volunteer-ask",
@@ -260,7 +267,8 @@
           "h": "Copy-paste template",
           "pre": "Subject: 30 minutes on {date}? We need 6 helpers for {event}\n\nHi {School} families,\n\n{event} is on {date}. We need 6 people for 30-minute shifts ({times}). No experience needed; we'll tell you exactly what to do. Sign up here: {link}.\n\nCan't volunteer? Sharing this with one friend helps too. Thank you!\n\n— {Name}, {PTA role}"
         }
-      ]
+      ],
+      "updated": "2026-10-14"
     },
     {
       "path": "/pta/templates/thank-you",
@@ -273,7 +281,8 @@
           "h": "Copy-paste template",
           "pre": "Thank you! Because of you, {event} raised {amount} for {purpose}. {N} volunteers gave their time and {N} families took part.\n\nHere's what happens next: {how funds will be used, timeline}.\n\nWe'll share photos (with permission) on {channel}.\n\n— {PTA}"
         }
-      ]
+      ],
+      "updated": "2026-10-14"
     },
     {
       "path": "/calendar/october",
@@ -294,7 +303,8 @@
             "Check lost-and-found before items are donated"
           ]
         }
-      ]
+      ],
+      "updated": "2026-10-14"
     },
     {
       "path": "/pta/fundraisers/spirit-wear-store",
@@ -319,7 +329,8 @@
         "After the window closes, confirm fulfillment timelines with the vendor and thank families when tracking goes out.",
         "Report net proceeds to the treasurer with the vendor payout statement."
       ],
-      "flag": "General guidance — confirm each vendor's current fees, logo rules and payout timing before you promote."
+      "flag": "General guidance — confirm each vendor's current fees, logo rules and payout timing before you promote.",
+      "updated": "2026-10-15"
     },
     {
       "path": "/pta/fundraisers/book-fair",
@@ -344,7 +355,8 @@
         "Media rule: no kids' full names or tagged faces on public PTA posts unless you have current media consent on file — prefer product shots, tables and posters.",
         "After: thank volunteers within a week, report proceeds, and note what to change next year."
       ],
-      "flag": "General guidance — follow your school's vendor contract and media-consent policy."
+      "flag": "General guidance — follow your school's vendor contract and media-consent policy.",
+      "updated": "2026-10-15"
     },
     {
       "path": "/calendar/november",
@@ -362,10 +374,12 @@
             "Start a teacher-appreciation idea list for later in the year (don't wait until the week of)",
             "Picture retakes or late fall photo day if your school runs one",
             "Check lost-and-found before long weekends",
-            "Update after-school pickup and emergency contacts before holiday substitutes"
+            "Update after-school pickup and emergency contacts before holiday substitutes",
+            "Holiday food drive: if your PTA runs one, partner with the local food bank now (see the Holiday food drive playbook for a PTA or PTO)"
           ]
         }
-      ]
+      ],
+      "updated": "2026-10-15"
     },
     {
       "path": "/pta/fundraisers/giving-tuesday",
@@ -396,7 +410,97 @@
             "GivingTuesday — https://www.givingtuesday.org/"
           ]
         }
-      ]
+      ],
+      "updated": "2026-10-16"
+    },
+    {
+      "path": "/guides/parent-teacher-conference-prep",
+      "group": "guides",
+      "label": "Guide",
+      "title": "Parent-teacher conference prep: a 15-minute checklist",
+      "summary": "Before the meeting, look at recent grades and work, ask your child what's going well and what's hard, and write down your top three questions in order. In the meeting, share what you see at home, take notes, and agree on one next step and how you'll stay in touch.",
+      "steps": [
+        "A few days before: review recent grades, homework, tests and teacher messages in your school's portal or app.",
+        "Ask your child: How do you feel about school? What do you do well? What do you wish you had more help with?",
+        "Write your questions in order of importance, since slots are short. Good ones: Is my child meeting grade-level expectations? Can I see work where they did well and where they struggled? How are they doing socially? What can I do at home?",
+        "Note anything the teacher should know: interests, health issues, changes at home.",
+        "If you need an interpreter, ask the school ahead of time.",
+        "During: take notes, ask what terms or acronyms mean, and ask the best way to contact the teacher.",
+        "Before you leave: summarize the next steps out loud so you both agree.",
+        "After: send a short thank-you with any question you ran out of time for, and put follow-up dates on the family calendar."
+      ],
+      "blocks": [
+        {
+          "h": "If your child is struggling",
+          "p": [
+            "Ask how the school measures progress, what support or services are available, and whether to set a check-in date. A conference is different from an IEP meeting; ask the school how to request an evaluation if you think your child needs one."
+          ]
+        },
+        {
+          "h": "Sources",
+          "p": [
+            "DC Public Schools: Parent-Teacher Conference Checklist (PDF) — https://dcps.dc.gov/sites/default/files/dc/sites/dcps/publication/attachments/English---Parent-Teacher-Conference-Tips-for-Families.pdf",
+            "NYC Public Schools: Parent-Teacher Conferences — https://www.schools.nyc.gov/get-involved/families/parent-teacher-conferences",
+            "Nemours KidsHealth: Parent-Teacher Conferences — https://kidshealth.org/en/parents/parent-teacher-conferences.html",
+            "Understood: Parent-teacher conferences toolkit — https://www.understood.org/en/topics/parent-teacher-conferences"
+          ]
+        },
+        {
+          "h": "Related",
+          "ul": [
+            "October school-parent checklist",
+            "Build one family school inbox in 20 minutes"
+          ]
+        }
+      ],
+      "faq": [
+        {
+          "q": "How long is a typical parent-teacher conference?",
+          "a": "It varies by school, and slots are often short, which is why it helps to bring your questions in order of importance and set up a follow-up if you run out of time."
+        }
+      ],
+      "updated": "2026-10-17"
+    },
+    {
+      "path": "/pta/fundraisers/holiday-food-drive",
+      "group": "pta",
+      "label": "Community drive playbook",
+      "title": "Holiday food drive playbook for a PTA or PTO",
+      "summary": "Partner with your local food bank first and ask what they need most, then run a short, two-week drive with a clear list, labeled bins, a class challenge if your principal approves, and a drop-off plan agreed with the food bank.",
+      "steps": [
+        "T-5 weeks: get board and principal approval, and check district rules on collections and class competitions.",
+        "Find your local food bank with Feeding America's locator and ask what items they need, what they can't accept (often glass, opened or expired items), and how they want donations delivered.",
+        "T-3 weeks: set dates (two weeks is plenty), recruit 4–6 volunteers, and get boxes or bins labeled by item type.",
+        "T-2 weeks: announce with the food bank's most-needed list in the newsletter and school app; post one reminder a week.",
+        "During the drive: empty bins daily, check dates, and store items somewhere the custodian agrees to.",
+        "Delivery: drop off on the schedule the food bank gave you and get a receipt or weight total.",
+        "After: share the total and thank families, staff and the food bank."
+      ],
+      "blocks": [
+        {
+          "h": "Keep it simple",
+          "ul": [
+            "Optional: let families donate money directly to the food bank through its own website instead of collecting cash at school.",
+            "If you run a class challenge, keep the prize small and non-food (for example, extra recess, with the principal's OK).",
+            "Don't ask students to identify families who need help; privacy comes first."
+          ]
+        },
+        {
+          "h": "Sources",
+          "p": [
+            "Feeding America: Find your local food bank — https://www.feedingamerica.org/find-your-local-foodbank"
+          ]
+        },
+        {
+          "h": "Related",
+          "ul": [
+            "Giving Tuesday playbook for a PTA or PTO",
+            "Volunteer request email that gets replies",
+            "Post-fundraiser thank-you note"
+          ]
+        }
+      ],
+      "updated": "2026-10-17"
     }
   ],
   "static": [
