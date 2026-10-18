@@ -3,7 +3,7 @@
   "domain": "ptaplaybook.com",
   "tagline": "Fundraiser playbooks and school-app sanity for parents",
   "color": "#c2410c",
-  "updated": "October 17, 2026",
+  "updated": "October 18, 2026",
   "description": "Free playbooks, templates and checklists for PTA/PTO volunteers and busy parents: run fundraisers, recruit volunteers, and tame school-app notifications.",
   "nav": [
     {
@@ -300,7 +300,8 @@
             "Report card or progress report date",
             "Winter break dates in your work calendar",
             "Update emergency contacts",
-            "Check lost-and-found before items are donated"
+            "Check lost-and-found before items are donated",
+            "If your PTA runs a winter coat drive, contact the distribution partner this month (see the Winter coat and clothing drive playbook)"
           ]
         }
       ],
@@ -371,11 +372,12 @@
             "Thanksgiving week: early pickup, no-school days, and lunch/plan changes on the family calendar",
             "Confirm winter break dates in your work calendar (and travel blackout days)",
             "If October was a light community month, schedule a restaurant spirit night or spirit-wear push for November (fundraiser calendars often keep October lighter before winter drives — see the two-anchor calendar idea at https://www.read-a-thon.com/solutions/pta-fundraising-calendar)",
-            "Start a teacher-appreciation idea list for later in the year (don't wait until the week of)",
+            "Start Teacher Appreciation Week planning now (see the Teacher Appreciation Week planning checklist)—confirm next May's dates on National PTA/NEA and form a small committee",
             "Picture retakes or late fall photo day if your school runs one",
             "Check lost-and-found before long weekends",
             "Update after-school pickup and emergency contacts before holiday substitutes",
-            "Holiday food drive: if your PTA runs one, partner with the local food bank now (see the Holiday food drive playbook for a PTA or PTO)"
+            "Holiday food drive: if your PTA runs one, partner with the local food bank now (see the Holiday food drive playbook for a PTA or PTO)",
+            "Winter coat/clothing drive: partner with a local nonprofit or One Warm Coat before cold weather (see the Winter coat and clothing drive playbook)"
           ]
         }
       ],
@@ -494,6 +496,7 @@
         {
           "h": "Related",
           "ul": [
+            "Winter coat and clothing drive playbook for a PTA or PTO",
             "Giving Tuesday playbook for a PTA or PTO",
             "Volunteer request email that gets replies",
             "Post-fundraiser thank-you note"
@@ -501,6 +504,111 @@
         }
       ],
       "updated": "2026-10-17"
+    },
+    {
+      "path": "/pta/fundraisers/winter-coat-drive",
+      "group": "pta",
+      "label": "Community drive playbook",
+      "title": "Winter coat and clothing drive playbook for a PTA or PTO",
+      "summary": "Partner with a local nonprofit first and ask what sizes and items they need, then run a short fall/winter collection with labeled bins, clean wearable coats only, scheduled pickups, and a thank-you that shares the total.",
+      "steps": [
+        "T-6 weeks: get board and principal approval. Confirm district rules on on-campus collections and any student competitions.",
+        "Find a distribution partner before you place bins. Options include a local shelter, school counselor network, or a registered One Warm Coat drive that connects you to their Nonprofit Network. Ask which sizes are scarce, whether hats/gloves/scarves are wanted, and how/when they accept deliveries.",
+        "T-4 weeks: set a clear one-sentence goal and a short window (about 2–4 weeks). Recruit a coordinator, 2–3 bin checkers, and a delivery driver. Line up dry indoor storage the custodian approves.",
+        "T-2 weeks: announce in the newsletter and school app with the partner's wish list (clean, wearable coats; note what not to donate). Place labeled bins in high-traffic spots the office agrees to.",
+        "During the drive: empty bins on a fixed schedule, reject damaged or unsanitary items, and keep coats dry. Sort by size before delivery if your partner wants that.",
+        "Delivery: contact the partner, drop off on their schedule, and get a count or receipt. Recycle truly unwearable coats through a textile recycler rather than dumping them.",
+        "After: share the total with families, thank volunteers and the partner, and note what to change next year."
+      ],
+      "blocks": [
+        {
+          "h": "Keep it simple",
+          "ul": [
+            "Optional: list your drive on One Warm Coat's public map if you want community drop-offs beyond the school (up to their site limit per registration).",
+            "Don't ask students to identify families who need coats; privacy comes first. Let the partner handle distribution.",
+            "If you run a class challenge, keep prizes small and non-clothing (for example extra recess) with the principal's OK.",
+            "New coats are great when budgets allow; gently used clean coats are the usual ask."
+          ]
+        },
+        {
+          "h": "Sources",
+          "p": [
+            "One Warm Coat: Organizer Guide — https://www.onewarmcoat.org/organizer-resources/plan/organizer-guide/",
+            "One Warm Coat: home / find a drive — https://www.onewarmcoat.org/"
+          ]
+        },
+        {
+          "h": "Related",
+          "ul": [
+            "Holiday food drive playbook for a PTA or PTO",
+            "Giving Tuesday playbook for a PTA or PTO",
+            "Volunteer request email that gets replies",
+            "Post-fundraiser thank-you note"
+          ]
+        }
+      ],
+      "updated": "2026-10-18"
+    },
+    {
+      "path": "/guides/teacher-appreciation-week",
+      "group": "guides",
+      "label": "Guide",
+      "title": "Teacher Appreciation Week planning checklist for a PTA or PTO",
+      "summary": "Confirm the current year's National PTA and NEA dates early, form a small committee with a budget, ask staff how they prefer to be thanked, then run a simple one-idea-per-day week with thank-you notes, certificates and #ThankATeacher posts—no obligatory gift spend for families.",
+      "steps": [
+        "Confirm dates for the upcoming Teacher Appreciation Week on National PTA and NEA (dates shift by year). Put the week on the PTA calendar 3–4 months ahead.",
+        "Form a 3–5 person committee and set a budget the board approves. Decide what is PTA-funded vs optional classroom gifts so families never feel pressured to spend.",
+        "Ask teachers and staff (anonymous short form) what they actually want: notes from students, coffee/snack cart, duty coverage, supply restock, or quiet work time. Skip scented candles if allergies are a concern.",
+        "Download National PTA's free Celebration Toolkit (thank-you cards, certificates, flyers, coloring pages, social graphics) and adapt to your school colors.",
+        "Draft a one-activity-per-day plan (for example: student notes Monday, staff breakfast Tuesday, certificates Wednesday, student art Thursday, principal shout-outs Friday). Recruit volunteers with SignUpGenius or your school tool.",
+        "Message families two weeks out: how to participate, that gifts are optional, and where to drop notes. Coordinate with the principal so classroom time is protected.",
+        "During the week: post once a day with #ThankATeacher if your PTA uses social, and include specialists, aides, custodians and office staff—not only homeroom teachers.",
+        "After: send a short thank-you to volunteers, note what worked in the board folder, and capture ideas for next year."
+      ],
+      "blocks": [
+        {
+          "h": "Budget-friendly ideas",
+          "ul": [
+            "Student and family handwritten notes beat pricey gifts for many teachers.",
+            "Use National PTA certificates signed by the principal or PTA president.",
+            "Partner with a local coffee shop for a donated drink cart if your district allows it.",
+            "Offer 15-minute duty coverage so teachers can take a real break."
+          ]
+        },
+        {
+          "h": "Sources",
+          "p": [
+            "National PTA: Teacher Appreciation Week — https://www.pta.org/home/events/PTA-Teacher-Appreciation-Week",
+            "NEA: Teacher Appreciation Week — https://www.nea.org/TAW"
+          ]
+        },
+        {
+          "h": "Before you promote a toolkit offer",
+          "p": [
+            "National PTA's event page links a free Celebration Toolkit and may mention partner programs (for example Walmart Spark Good). Confirm current toolkit links and any third-party offer details on the National PTA page before you promote them to families."
+          ]
+        },
+        {
+          "h": "Related",
+          "ul": [
+            "Volunteer request email that gets replies",
+            "Post-fundraiser thank-you note",
+            "November school-parent checklist",
+            "Parent-teacher conference prep: a 15-minute checklist"
+          ]
+        }
+      ],
+      "faq": [
+        {
+          "q": "When is Teacher Appreciation Week?",
+          "a": "Dates change each year. As of this page's research, NEA listed May 4–8, 2026 (National Teacher Appreciation Day May 5), and National PTA listed May 2–8, 2027 for its next featured week. Always confirm the current year on National PTA and NEA before you print flyers."
+        },
+        {
+          "q": "Do families have to buy gifts?",
+          "a": "No. Plan so appreciation works even if families only write a note. Say clearly that gifts are optional and that the PTA is covering building-wide thanks."
+        }
+      ],
+      "updated": "2026-10-18"
     }
   ],
   "static": [
