@@ -3,7 +3,7 @@
   "domain": "ptaplaybook.com",
   "tagline": "Fundraiser playbooks and school-app sanity for parents",
   "color": "#c2410c",
-  "updated": "October 18, 2026",
+  "updated": "October 19, 2026",
   "description": "Free playbooks, templates and checklists for PTA/PTO volunteers and busy parents: run fundraisers, recruit volunteers, and tame school-app notifications.",
   "nav": [
     {
@@ -377,7 +377,8 @@
             "Check lost-and-found before long weekends",
             "Update after-school pickup and emergency contacts before holiday substitutes",
             "Holiday food drive: if your PTA runs one, partner with the local food bank now (see the Holiday food drive playbook for a PTA or PTO)",
-            "Winter coat/clothing drive: partner with a local nonprofit or One Warm Coat before cold weather (see the Winter coat and clothing drive playbook)"
+            "Winter coat/clothing drive: partner with a local nonprofit or One Warm Coat before cold weather (see the Winter coat and clothing drive playbook)",
+            "Preview December now: winter break dates, holiday drive deliveries and closure alerts (see the December school-parent checklist)"
           ]
         }
       ],
@@ -410,6 +411,12 @@
           "h": "Sources",
           "p": [
             "GivingTuesday — https://www.givingtuesday.org/"
+          ]
+        },
+        {
+          "h": "Related",
+          "ul": [
+            "December school-parent checklist"
           ]
         }
       ],
@@ -499,7 +506,8 @@
             "Winter coat and clothing drive playbook for a PTA or PTO",
             "Giving Tuesday playbook for a PTA or PTO",
             "Volunteer request email that gets replies",
-            "Post-fundraiser thank-you note"
+            "Post-fundraiser thank-you note",
+            "December school-parent checklist"
           ]
         }
       ],
@@ -543,7 +551,8 @@
             "Holiday food drive playbook for a PTA or PTO",
             "Giving Tuesday playbook for a PTA or PTO",
             "Volunteer request email that gets replies",
-            "Post-fundraiser thank-you note"
+            "Post-fundraiser thank-you note",
+            "December school-parent checklist"
           ]
         }
       ],
@@ -609,6 +618,62 @@
         }
       ],
       "updated": "2026-10-18"
+    },
+    {
+      "path": "/calendar/december",
+      "group": "calendar",
+      "label": "Seasonal checklist",
+      "title": "December school-parent checklist",
+      "summary": "December is short and busy: lock in winter break and early-release dates, make sure you will actually get snow-day and closure alerts, wrap up holiday drives and teacher thank-yous without pressure to spend, and send kids out dressed for the cold.",
+      "steps": [
+        "Put winter break, early-release days and the first day back on the family calendar from the district's official calendar, not a flyer.",
+        "Check that closure and delay alerts reach you: confirm your phone number and email with the school office, and set the school app (ParentSquare, Remind, ClassDojo or your district's app) to deliver urgent alerts instantly even if everything else is a digest.",
+        "Update pickup permissions and emergency contacts before substitutes and holiday schedules kick in.",
+        "Giving Tuesday is the Tuesday after US Thanksgiving (December 1 in 2026). If your PTA takes part, send the thank-you and the total raised in the first week of December.",
+        "Wrap up holiday food and coat drives: deliver to your partner organization before break, then share totals and thank volunteers.",
+        "Teacher and staff thank-yous: keep gifts optional and give families a no-cost option such as a handwritten note from the student.",
+        "Sweep the lost-and-found with your child before break, and return library books and borrowed devices if the school asks.",
+        "Winter clothes check: layers, a hat, mittens or gloves, and insulated boots, plus a dry change of clothes in the backpack for younger kids."
+      ],
+      "blocks": [
+        {
+          "h": "Cold-weather basics",
+          "ul": [
+            "The American Academy of Pediatrics notes children lose heat faster than adults because their bodies are smaller, and may not want to come inside when they're getting cold.",
+            "AAP guidance: several thin layers, insulated boots, mittens or gloves and a hat are essential; change out of wet clothes right away.",
+            "AAP generally advises avoiding outdoor play when temperatures or wind chills are below -15°F, because exposed skin begins to freeze within minutes.",
+            "For sledding, AAP says children under 12 should always be supervised, and sledding feet first or sitting up may prevent head injuries."
+          ]
+        },
+        {
+          "h": "Sources",
+          "p": [
+            "HealthyChildren.org (American Academy of Pediatrics): Playing Outside in Winter: Tips to Keep Kids Warm & Safe — https://www.healthychildren.org/English/safety-prevention/at-play/Pages/Winter-Safety.aspx"
+          ]
+        },
+        {
+          "h": "Related",
+          "ul": [
+            "Holiday food drive playbook for a PTA or PTO",
+            "Winter coat and clothing drive playbook for a PTA or PTO",
+            "Giving Tuesday playbook for a PTA or PTO",
+            "How to cut ParentSquare notifications down to what matters",
+            "Remind: choose text vs app, and stop double alerts",
+            "November school-parent checklist"
+          ]
+        }
+      ],
+      "faq": [
+        {
+          "q": "How do I make sure I get snow-day alerts but not every school post?",
+          "a": "Keep urgent and direct messages on instant delivery in your school app and switch general posts to a daily digest where the app offers it. Confirm the office has your current mobile number, since many districts send closure alerts by text or phone call."
+        },
+        {
+          "q": "Do I have to buy holiday gifts for teachers?",
+          "a": "No. Gifts are optional. A specific handwritten note from your child is often the most valued thank-you, and many PTAs cover a building-wide treat so families don't have to."
+        }
+      ],
+      "updated": "2026-10-19"
     }
   ],
   "static": [
