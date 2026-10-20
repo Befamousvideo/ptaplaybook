@@ -3,7 +3,7 @@
   "domain": "ptaplaybook.com",
   "tagline": "Fundraiser playbooks and school-app sanity for parents",
   "color": "#c2410c",
-  "updated": "October 19, 2026",
+  "updated": "October 20, 2026",
   "description": "Free playbooks, templates and checklists for PTA/PTO volunteers and busy parents: run fundraisers, recruit volunteers, and tame school-app notifications.",
   "nav": [
     {
@@ -301,11 +301,12 @@
             "Winter break dates in your work calendar",
             "Update emergency contacts",
             "Check lost-and-found before items are donated",
-            "If your PTA runs a winter coat drive, contact the distribution partner this month (see the Winter coat and clothing drive playbook)"
+            "If your PTA runs a winter coat drive, contact the distribution partner this month (see the Winter coat and clothing drive playbook)",
+            "Daylight saving time ends Sun Nov 1: start shifting bedtimes the last few nights of October (see Daylight saving time ends Nov 1: help your kids' sleep adjust)"
           ]
         }
       ],
-      "updated": "2026-10-14"
+      "updated": "2026-10-20"
     },
     {
       "path": "/pta/fundraisers/spirit-wear-store",
@@ -368,6 +369,7 @@
       "blocks": [
         {
           "ul": [
+            "Clocks fall back Sunday, Nov 1: ease bedtimes a few nights ahead (see Daylight saving time ends Nov 1: help your kids' sleep adjust)",
             "Conference follow-ups and any teacher action items from October meetings",
             "Thanksgiving week: early pickup, no-school days, and lunch/plan changes on the family calendar",
             "Confirm winter break dates in your work calendar (and travel blackout days)",
@@ -378,11 +380,19 @@
             "Update after-school pickup and emergency contacts before holiday substitutes",
             "Holiday food drive: if your PTA runs one, partner with the local food bank now (see the Holiday food drive playbook for a PTA or PTO)",
             "Winter coat/clothing drive: partner with a local nonprofit or One Warm Coat before cold weather (see the Winter coat and clothing drive playbook)",
-            "Preview December now: winter break dates, holiday drive deliveries and closure alerts (see the December school-parent checklist)"
+            "Preview December now: winter break dates, holiday drive deliveries and closure alerts (see the December school-parent checklist)",
+            "Cold and flu season: know your school's sick-day and return rules (see When to keep your child home sick from school (and when they can go back))"
+          ]
+        },
+        {
+          "h": "Related",
+          "ul": [
+            "Daylight saving time ends Nov 1: help your kids' sleep adjust",
+            "When to keep your child home sick from school (and when they can go back)"
           ]
         }
       ],
-      "updated": "2026-10-15"
+      "updated": "2026-10-20"
     },
     {
       "path": "/pta/fundraisers/giving-tuesday",
@@ -659,7 +669,8 @@
             "Giving Tuesday playbook for a PTA or PTO",
             "How to cut ParentSquare notifications down to what matters",
             "Remind: choose text vs app, and stop double alerts",
-            "November school-parent checklist"
+            "November school-parent checklist",
+            "When to keep your child home sick from school (and when they can go back)"
           ]
         }
       ],
@@ -674,6 +685,135 @@
         }
       ],
       "updated": "2026-10-19"
+    },
+    {
+      "path": "/guides/daylight-saving-time-sleep",
+      "group": "guides",
+      "label": "Guide",
+      "title": "Daylight saving time ends Nov 1: help your kids' sleep adjust",
+      "seoTitle": "Fall back Nov 1, 2026: a kids' sleep plan for parents",
+      "summary": "Clocks fall back one hour at 2 a.m. on Sunday, November 1, 2026. Ease kids in by moving bedtime, wake time and meals 15–20 minutes later for a few nights beforehand, keep early mornings dim until wake-up time, and hold the bedtime routine steady. Most kids settle within a week or two.",
+      "steps": [
+        "Put \"Clocks fall back: Sun Nov 1, 2 a.m.\" on the family calendar. Hawaii and most of Arizona don't change their clocks.",
+        "For a few nights before (from about Wed Oct 28), move bedtime, wake time and dinner 15–20 minutes later each night. For little ones, the AAP suggests nudging naps and bedtime a few minutes a day starting about a week ahead.",
+        "Teen already short on sleep? Skip the later shift and let them use the extra hour. The AASM says people with chronic sleep loss benefit from that \"extra\" hour.",
+        "Saturday evening, set the clocks back and go to bed at your normal bedtime.",
+        "For early risers, keep the room dark and lights low until the new wake-up time, then get outside in daylight during the day.",
+        "Screens away at least an hour before bed, and charge phones outside the bedroom.",
+        "Keep the same short bedtime routine every night. If sleep is still off after about two weeks, talk with your pediatrician."
+      ],
+      "blocks": [
+        {
+          "h": "How much sleep kids need (AASM)",
+          "ul": [
+            "Ages 3–5: 10–13 hours per 24 hours, including naps",
+            "Ages 6–12: 9–12 hours a night",
+            "Teens 13–18: 8–10 hours a night"
+          ]
+        },
+        {
+          "h": "Why the fall change still disrupts kids",
+          "p": [
+            "Children's Hospital of Philadelphia notes that for kids a 7 a.m. wake-up feels like 8 a.m. after the change and an 8 p.m. bedtime feels like 9 p.m., so young early birds may wake earlier and crash before bedtime. CHOP says a consistent routine usually gets kids adjusted within a week or two, and the AAP says kids usually adjust within about a week."
+          ]
+        },
+        {
+          "h": "For PTAs",
+          "p": [
+            "Add a one-line reminder about the time change to your last October newsletter or school-app post, and remind families the bus and bell times don't change even though the clocks do."
+          ]
+        },
+        {
+          "h": "Sources",
+          "p": [
+            "NIST: Daylight Saving Time Rules (2026 dates) — https://www.nist.gov/pml/time-and-frequency-division/popular-links/daylight-saving-time-dst",
+            "Sleep Education (American Academy of Sleep Medicine): Daylight Saving Time — https://sleepeducation.org/resources/daylight-saving-time/",
+            "AASM: Help the student in your life hit reset on their bedtime routine this fall — https://aasm.org/help-the-student-in-your-life-hit-reset-on-their-bedtime-routine-this-fall/",
+            "HealthyChildren.org (American Academy of Pediatrics): Daylight Saving Time: Don't Lose Sleep Over It — https://www.healthychildren.org/English/healthy-living/sleep/Pages/daylight-saving-time-dont-lose-sleep-over-it.aspx",
+            "Children's Hospital of Philadelphia: 5 Ways to Help Kids Adjust to Daylight Saving Time — https://www.chop.edu/news/health-tip/5-ways-help-kids-adjust-daylight-saving-time"
+          ]
+        },
+        {
+          "h": "Related",
+          "ul": [
+            "November school-parent checklist",
+            "October school-parent checklist",
+            "When to keep your child home sick from school (and when they can go back)"
+          ]
+        }
+      ],
+      "faq": [
+        {
+          "q": "Should I give my child melatonin for the time change?",
+          "a": "Ask your pediatrician first. The AAP says to talk with your pediatrician before giving a child melatonin and to use it only for a short time."
+        },
+        {
+          "q": "Is it too late if I didn't start early?",
+          "a": "No. Keep the usual bedtime routine, use daylight during the day and dim light in the evening, and most kids adjust within a week or two."
+        }
+      ],
+      "updated": "2026-10-20"
+    },
+    {
+      "path": "/guides/when-to-keep-your-child-home-sick",
+      "group": "guides",
+      "label": "Guide",
+      "title": "When to keep your child home sick from school (and when they can go back)",
+      "seoTitle": "Sick day or school day? AAP and CDC guidance for parents",
+      "summary": "As a general rule, the AAP says to keep kids home if they've had a fever above 101°F in the past 24 hours, vomiting or diarrhea in the past 24 hours, or aren't well enough to take part in class. CDC school guidance says they can usually return once they've had no fever for 24 hours without fever-reducing medicine and are getting better overall. Your school's policy comes first.",
+      "steps": [
+        "Find your school's illness policy now, in the handbook or on the nurse's page. Fever cutoffs and return rules vary by district, so use your school's numbers when they differ.",
+        "On a sick morning, ask three questions: Fever above 101°F in the past 24 hours? Vomiting or diarrhea in the past 24 hours? Well enough to join in class? A yes to any of them means a home day.",
+        "Just a leftover runny nose or a slight headache? The AAP says that, depending on local attendance policy, kids can go to school if none of the three apply. Make sure the school can reach you during the day.",
+        "Going back: wait until there's been no fever for at least 24 hours without fever-reducing medicine and symptoms are getting better overall.",
+        "Report the absence the way your school asks (attendance line, app or email) and ask how to get any missed work.",
+        "Line up a backup caregiver before cold and flu season peaks.",
+        "Call your pediatrician with questions. For emergency warning signs such as trouble breathing or chest pain, get emergency care right away."
+      ],
+      "blocks": [
+        {
+          "h": "What CDC tells schools",
+          "ul": [
+            "Stay home with: a fever (including a fever with a new rash); vomiting more than twice in the past 24 hours; diarrhea that causes accidents, is bloody, or means more than two extra bowel movements in 24 hours; draining skin sores that can't be covered; or respiratory symptoms that are getting worse or not improving.",
+            "In general, CDC says children with improving symptoms should be able to take part in school.",
+            "CDC also asks schools to think carefully before requiring a doctor's note for illness absences, since many common childhood illnesses can be managed at home."
+          ]
+        },
+        {
+          "h": "For PTAs",
+          "p": [
+            "Share a short version of your school's sick-day policy and how to report an absence in your November newsletter or school-app post. It saves the front office a lot of morning phone calls."
+          ]
+        },
+        {
+          "h": "Sources",
+          "p": [
+            "HealthyChildren.org (American Academy of Pediatrics): When to Keep Your Child Home Sick from School — https://www.healthychildren.org/English/ages-stages/gradeschool/school/Pages/When-to-Keep-Your-Child-Home-from-School.aspx",
+            "CDC: When Students or Staff are Sick — https://www.cdc.gov/children-and-school-preparedness/infection-prevention/when-sick.html",
+            "CDC: Preventing Spread of Respiratory Viruses When You're Sick — https://www.cdc.gov/respiratory-viruses/prevention/precautions-when-sick.html",
+            "This page is general information, not medical advice. Follow your school's policy and your pediatrician's advice."
+          ]
+        },
+        {
+          "h": "Related",
+          "ul": [
+            "November school-parent checklist",
+            "December school-parent checklist",
+            "Daylight saving time ends Nov 1: help your kids' sleep adjust"
+          ]
+        }
+      ],
+      "faq": [
+        {
+          "q": "Does my child need a doctor's note to go back?",
+          "a": "It depends on your school. CDC encourages schools to think carefully before requiring notes for illness absences, but follow your school's policy."
+        },
+        {
+          "q": "Can my child go back as soon as the fever breaks with medicine?",
+          "a": "No. CDC's guidance is no fever for at least 24 hours without fever-reducing medicine, with symptoms getting better overall."
+        }
+      ],
+      "updated": "2026-10-20"
     }
   ],
   "static": [
