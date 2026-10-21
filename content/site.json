@@ -3,7 +3,7 @@
   "domain": "ptaplaybook.com",
   "tagline": "Fundraiser playbooks and school-app sanity for parents",
   "color": "#c2410c",
-  "updated": "October 20, 2026",
+  "updated": "October 21, 2026",
   "description": "Free playbooks, templates and checklists for PTA/PTO volunteers and busy parents: run fundraisers, recruit volunteers, and tame school-app notifications.",
   "nav": [
     {
@@ -296,17 +296,26 @@
             "Conference sign-ups (they fill fast)",
             "Fall fundraiser dates and pledge deadlines in the family calendar",
             "Halloween and costume policy check",
+            "Halloween is Saturday, Oct 31: costume, street and treat-check basics (see Halloween night safety checklist for parents (Sat, Oct 31))",
             "Picture retake day",
             "Report card or progress report date",
             "Winter break dates in your work calendar",
             "Update emergency contacts",
             "Check lost-and-found before items are donated",
             "If your PTA runs a winter coat drive, contact the distribution partner this month (see the Winter coat and clothing drive playbook)",
-            "Daylight saving time ends Sun Nov 1: start shifting bedtimes the last few nights of October (see Daylight saving time ends Nov 1: help your kids' sleep adjust)"
+            "Daylight saving time ends Sun Nov 1: start shifting bedtimes the last few nights of October (see Daylight saving time ends Nov 1: help your kids' sleep adjust)",
+            "High school seniors: the 2027–28 FAFSA is open, so set up StudentAid.gov accounts and note your state deadline (see FAFSA 2027–28 is open: what parents of high school seniors should do now)"
+          ]
+        },
+        {
+          "h": "Related",
+          "ul": [
+            "Halloween night safety checklist for parents (Sat, Oct 31)",
+            "FAFSA 2027–28 is open: what parents of high school seniors should do now"
           ]
         }
       ],
-      "updated": "2026-10-20"
+      "updated": "2026-10-21"
     },
     {
       "path": "/pta/fundraisers/spirit-wear-store",
@@ -381,18 +390,20 @@
             "Holiday food drive: if your PTA runs one, partner with the local food bank now (see the Holiday food drive playbook for a PTA or PTO)",
             "Winter coat/clothing drive: partner with a local nonprofit or One Warm Coat before cold weather (see the Winter coat and clothing drive playbook)",
             "Preview December now: winter break dates, holiday drive deliveries and closure alerts (see the December school-parent checklist)",
-            "Cold and flu season: know your school's sick-day and return rules (see When to keep your child home sick from school (and when they can go back))"
+            "Cold and flu season: know your school's sick-day and return rules (see When to keep your child home sick from school (and when they can go back))",
+            "High school seniors: finish the 2027–28 FAFSA well before your state and college deadlines (see FAFSA 2027–28 is open: what parents of high school seniors should do now)"
           ]
         },
         {
           "h": "Related",
           "ul": [
             "Daylight saving time ends Nov 1: help your kids' sleep adjust",
-            "When to keep your child home sick from school (and when they can go back)"
+            "When to keep your child home sick from school (and when they can go back)",
+            "FAFSA 2027–28 is open: what parents of high school seniors should do now"
           ]
         }
       ],
-      "updated": "2026-10-20"
+      "updated": "2026-10-21"
     },
     {
       "path": "/pta/fundraisers/giving-tuesday",
@@ -738,7 +749,8 @@
           "ul": [
             "November school-parent checklist",
             "October school-parent checklist",
-            "When to keep your child home sick from school (and when they can go back)"
+            "When to keep your child home sick from school (and when they can go back)",
+            "Halloween night safety checklist for parents (Sat, Oct 31)"
           ]
         }
       ],
@@ -814,6 +826,143 @@
         }
       ],
       "updated": "2026-10-20"
+    },
+    {
+      "path": "/guides/halloween-safety-checklist",
+      "group": "guides",
+      "label": "Guide",
+      "title": "Halloween night safety checklist for parents (Sat, Oct 31)",
+      "seoTitle": "Halloween safety checklist for parents: AAP and FDA tips",
+      "summary": "Halloween 2026 falls on a Saturday. The AAP's checklist: bright, well-fitting costumes with makeup instead of masks, an adult with young kids and a group plan for older ones, crosswalks and well-lit streets, and checking every treat at home before anyone eats it. Plan ahead for food allergies.",
+      "steps": [
+        "Costumes: make sure costumes and shoes fit and are short enough not to trip on. Add reflective tape or glow sticks, look for \"flame resistant\" on labels, and consider face paint (patch-test it first) instead of a mask that blocks vision.",
+        "Skip decorative contact lenses unless an eye care professional has examined your child and written a prescription. The AAP notes they're a medical device.",
+        "Young kids: an adult goes along. Older kids: go in a group, agree on the route and a check-in time, and carry a flashlight.",
+        "Street rules: cross as a group at crosswalks, never between parked cars, stay on sidewalks and well-lit streets, and put phones away while walking.",
+        "Feed everyone a meal before heading out, so nobody snacks from the bag on the way.",
+        "At home, check every treat before eating. Throw out anything unwrapped, torn, discolored or with tiny pinholes. The FDA says not to eat anything that isn't commercially wrapped.",
+        "Little ones: remove choking hazards such as gum, peanuts, hard candy and small toys.",
+        "Food allergies: read every label, skip home-baked treats, and carry any prescribed epinephrine. Look for houses with a teal pumpkin, which signals non-food treats."
+      ],
+      "blocks": [
+        {
+          "h": "If you're handing out treats",
+          "ul": [
+            "Clear the porch and path of hoses, toys and wet leaves, check outdoor lights, and keep pets away from the door.",
+            "Use a flameless candle or flashlight in jack-o'-lanterns, and keep any lit pumpkin away from where visitors walk.",
+            "Offer a bowl of non-food treats (glow sticks, stickers, pencils) and add your address to FARE's Teal Pumpkin Project map so families managing food allergies can find you."
+          ]
+        },
+        {
+          "h": "Teen drivers",
+          "p": [
+            "The AAP says child pedestrian injuries are more likely on Halloween than on any other night, and suggests clear rules for teens who drive: slow down in neighborhoods, especially near driveways, alleys and parked cars."
+          ]
+        },
+        {
+          "h": "For PTAs",
+          "p": [
+            "Share your school's costume policy for any daytime parade or class party, and remind families that home-baked treats can be a problem for classmates with food allergies. A teal pumpkin at a school trunk-or-treat is an easy way to include everyone."
+          ]
+        },
+        {
+          "h": "Sources",
+          "p": [
+            "HealthyChildren.org (American Academy of Pediatrics): Halloween Fun & Safety Tips for Kids of All Ages — https://www.healthychildren.org/English/safety-prevention/all-around/Pages/Halloween-Safety-Tips.aspx",
+            "FDA: Halloween Food Safety Tips for Parents — https://www.fda.gov/food/buy-store-serve-safe-food/halloween-food-safety-tips-parents",
+            "FARE (Food Allergy Research & Education): Teal Pumpkin Project — https://www.foodallergy.org/our-initiatives/awareness-campaigns/teal-pumpkin-project"
+          ]
+        },
+        {
+          "h": "Related",
+          "ul": [
+            "October school-parent checklist",
+            "Daylight saving time ends Nov 1: help your kids' sleep adjust",
+            "November school-parent checklist"
+          ]
+        }
+      ],
+      "faq": [
+        {
+          "q": "What age can kids trick-or-treat without an adult?",
+          "a": "The AAP doesn't give an age. It says to always go with young children, and for older kids to go in a group, review their route and agree on a time to be home."
+        },
+        {
+          "q": "Is candy tampering common?",
+          "a": "The AAP says tampering is rare but can happen, so check treats at home and throw away anything spoiled, unwrapped or suspicious."
+        }
+      ],
+      "updated": "2026-10-21"
+    },
+    {
+      "path": "/guides/fafsa-2027-28-for-parents",
+      "group": "guides",
+      "label": "Guide",
+      "title": "FAFSA 2027–28 is open: what parents of high school seniors should do now",
+      "seoTitle": "FAFSA 2027–28 for parents of seniors: accounts, deadlines, tips",
+      "summary": "The 2027–28 FAFSA opened September 23, 2026 and covers college or trade school from July 1, 2027 to June 30, 2028. The student and each parent who must add information need their own StudentAid.gov account. State and college deadlines come much earlier than the federal one, and some aid runs out.",
+      "steps": [
+        "Create StudentAid.gov accounts now: one for your student and one for each parent who has to add information. Use StudentAid.gov's \"Who needs a StudentAid.gov account\" tool if you're not sure who that is. Each account needs a name exactly as it appears on the Social Security card, date of birth, email and Social Security number (if you have one).",
+        "Look up your state's deadline on StudentAid.gov's FAFSA deadlines page, plus each college's own deadline. Put the earliest one on the family calendar.",
+        "Expect the form to ask about 2025 taxes. The 2027–28 FAFSA uses tax information from two years before the award year, and most people can import federal tax information directly.",
+        "Have the other details handy: current balances of checking and savings accounts, cash over $1,000, child support received, and the value of any investments, businesses or farms (not counting retirement accounts).",
+        "Your student starts the form on the official .gov site and invites you as a contributor. Then you log in with your own account, add your section and sign.",
+        "List every college your student might attend, then check the FAFSA Submission Summary when it arrives. StudentAid.gov says most forms are processed immediately and some take one to three days."
+      ],
+      "blocks": [
+        {
+          "h": "Deadlines that matter",
+          "ul": [
+            "Federal: the 2027–28 FAFSA must be submitted by 11:59 p.m. Central time on June 30, 2028. That's far too late for most state and college aid.",
+            "States set their own deadlines, and some award aid until funds run out. For example, StudentAid.gov lists March 2, 2027 for most California state aid programs, and \"as soon as possible after Oct. 1, 2026\" for Illinois' Monetary Award Program.",
+            "Each college may set its own deadline and may define it differently (for example, the date your form is processed or the date the school receives your data). Ask each school."
+          ]
+        },
+        {
+          "h": "Watch out for",
+          "ul": [
+            "The FAFSA is free. If a website asks you to pay to fill it out, you're on the wrong site. The real form is on a .gov website.",
+            "Keep your records, but don't mail them to Federal Student Aid.",
+            "If your student submitted during the early testing period and it went through, StudentAid.gov says they don't need to submit again."
+          ]
+        },
+        {
+          "h": "For PTAs and PTSAs",
+          "p": [
+            "High school PTSAs can add a one-line FAFSA reminder (with the state deadline) to the November newsletter, and ask the counseling office whether it's hosting a FAFSA help night."
+          ]
+        },
+        {
+          "h": "Sources",
+          "p": [
+            "Federal Student Aid, Financial Aid Toolkit: 2027–28 FAFSA Form Now Available (Sep 23, 2026) — https://financialaidtoolkit.ed.gov/tk/announcement-detail.jsp?id=fafsa-updates",
+            "StudentAid.gov: Filling Out the FAFSA Form — https://studentaid.gov/apply-for-aid/fafsa/filling-out",
+            "StudentAid.gov: FAFSA Application Deadlines — https://studentaid.gov/apply-for-aid/fafsa/fafsa-deadlines",
+            "StudentAid.gov: FAFSA Help — https://studentaid.gov/apply-for-aid/fafsa/filling-out/help",
+            "This page is general information, not financial or tax advice. Check deadlines with your state agency and each college."
+          ]
+        },
+        {
+          "h": "Related",
+          "ul": [
+            "November school-parent checklist",
+            "October school-parent checklist",
+            "Parent-teacher conference prep: a 15-minute checklist"
+          ]
+        }
+      ],
+      "flag": "Dates and steps checked against StudentAid.gov and the Federal Student Aid toolkit on October 21, 2026. Recheck state deadlines each year.",
+      "faq": [
+        {
+          "q": "Do both parents need an account?",
+          "a": "Not always. Each person who's required to add information needs their own StudentAid.gov account. StudentAid.gov's \"Who's My FAFSA Parent?\" wizard tells you which parent to invite."
+        },
+        {
+          "q": "Does it cost anything?",
+          "a": "No. StudentAid.gov says there's no fee to fill out the FAFSA form."
+        }
+      ],
+      "updated": "2026-10-21"
     }
   ],
   "static": [
