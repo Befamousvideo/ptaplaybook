@@ -2,6 +2,7 @@
 // Neutral class/route names on purpose: ad blockers hide elements named "housead", aria-label="Advertisement" and /ad-click links.
 import { useEffect, useState } from "react";
 import { usePathname } from "next/navigation";
+import { trackCta } from "./analytics";
 import { BRANDS, SELF } from "./network";
 export default function HouseAd() {
   const path = usePathname() || "/";
@@ -17,6 +18,6 @@ export default function HouseAd() {
     <div className="netpick-row">{ad.img && <img src={ad.img} alt="" width="120" height="63" className="netpick-img" />}<div>
       <strong className="netpick-h">{ad.h}</strong>
       <p>{ad.line} <span className="muted small">— {ad.name}</span></p>
-      <a className="btn" href={ad.href} rel="sponsored noopener">{ad.btn} →</a></div></div>
+      <a className="btn" href={ad.href} rel="sponsored noopener" onClick={() => trackCta(ad.btn, "ad_slot")}>{ad.btn} →</a></div></div>
   </aside>);
 }

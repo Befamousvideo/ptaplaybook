@@ -1,13 +1,18 @@
 import site from "../content/site.json";
 import { Newsletter, Cta, Sponsor } from "./components";
+import { TrackedCta } from "./analytics";
+import { faqJsonLd, homeMetadata, jsonLdHtml } from "./seo";
+export const metadata = homeMetadata();
 export default function Home() {
   const h = site.home;
   const sections = h.sections.map(s => ({ ...s, items: site.pages.filter(p => p.group === s.group) }));
-  const faq = { "@context": "https://schema.org", "@type": "FAQPage", mainEntity: h.faq.map(f => ({ "@type": "Question", name: f.q, acceptedAnswer: { "@type": "Answer", text: f.a } })) };
+  const faq = faqJsonLd(h.faq);
   return (<>
-    <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(faq) }} />
+    {faq ? <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: jsonLdHtml(faq) }} /> : null}
     <section className="hero"><h1>{h.h1}</h1><p className="lead">{h.lead}</p>
-      <div className="row gap">{h.buttons.map(b => <a key={b.href} className={b.secondary ? "btn ghost" : "btn"} href={b.href}>{b.label}</a>)}</div></section>
+      <div className="row gap">{h.buttons.map(b => b.secondary
+        ? <a key={b.href} className="btn ghost" href={b.href}>{b.label}</a>
+        : <TrackedCta key={b.href} className="btn" href={b.href} label={b.label} location="hero">{b.label}</TrackedCta>)}</div></section>
     {sections.map(s => (<section key={s.group}><h2>{s.title}</h2>
       <div className="grid">{s.items.map(p => (<a key={p.path} className="card tile" href={p.path}>
         {p.label && <span className="tag">{p.label}</span>}<h3>{p.title}</h3><p>{p.summary}</p></a>))}</div></section>))}
