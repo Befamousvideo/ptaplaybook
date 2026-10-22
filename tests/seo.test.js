@@ -11,6 +11,7 @@ import {
   llmsText,
   origin,
   pageMetadata,
+  shareImage,
   siteJsonLd,
   sitemapEntries,
 } from "../app/seo.js";
@@ -58,12 +59,21 @@ test("each page metadata includes canonical, description, Open Graph, and Twitte
   assert.equal(home.alternates.canonical, "/");
   assert.equal(home.openGraph.url, "/");
   assert.equal(home.openGraph.siteName, site.name);
-  assert.equal(home.twitter.card, "summary");
+  assert.equal(home.twitter.card, "summary_large_image");
   assert.equal(home.twitter.title.absolute, homeTitle);
+  assert.deepEqual(home.openGraph.images, [shareImage]);
+  assert.deepEqual(home.twitter.images, [shareImage]);
+  assert.equal(shareImage.width, 1200);
+  assert.equal(shareImage.height, 630);
+  assert.equal(shareImage.alt, homeTitle);
+  assert.equal(shareImage.alt.includes(site.tagline), true);
   const sample = pageMetadata({ title: "Advertise", description: advertiseDescription, path: "/advertise", type: "website" });
   assert.equal(sample.title, "Advertise");
   assert.equal(sample.openGraph.title.absolute, `Advertise | ${site.name}`);
   assert.equal(sample.twitter.description, advertiseDescription);
+  assert.equal(sample.twitter.card, "summary_large_image");
+  assert.deepEqual(sample.openGraph.images, [shareImage]);
+  assert.deepEqual(sample.twitter.images, [shareImage]);
   assert.equal(sample.alternates.types["text/plain"], "/llms.txt");
   const policy = pageMetadata({ title: "Ad Policy", description: adPolicyDescription, path: "/advertise/policy" });
   assert.ok(policy.description.length > 0 && policy.description.length <= 160);

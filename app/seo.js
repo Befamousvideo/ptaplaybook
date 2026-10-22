@@ -4,6 +4,12 @@ import { allPages, pageDateIso } from "./site-data.js";
 export const homeTitle = `${site.name} — ${site.tagline}`;
 export const origin = `https://${site.domain}`;
 export const SITEMAP_URL = `${origin}/sitemap.xml`;
+export const shareImage = {
+  url: "/opengraph-image",
+  width: 1200,
+  height: 630,
+  alt: homeTitle,
+};
 
 export const advertiseDescription = `Advertise on ${site.name}: labeled, reviewed ads with simple founding pricing.`;
 export const adPolicyDescription = `What ${site.name} will and won't advertise.`;
@@ -31,8 +37,14 @@ export function pageMetadata({ title, description, path, type = "website", absol
       url: path,
       type,
       siteName: site.name,
+      images: [shareImage],
     },
-    twitter: { card: "summary", title: { absolute: socialTitle }, description: desc },
+    twitter: {
+      card: "summary_large_image",
+      title: { absolute: socialTitle },
+      description: desc,
+      images: [shareImage],
+    },
   };
 }
 

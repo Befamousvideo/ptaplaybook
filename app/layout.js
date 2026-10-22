@@ -3,7 +3,7 @@ import Script from "next/script";
 import site from "../content/site.json";
 import { AnalyticsRouteChange } from "./analytics";
 import { gaInlineSnippet, gaMeasurementId, gaScriptSrc } from "./analytics-core";
-import { homeTitle, jsonLdHtml, siteJsonLd } from "./seo";
+import { homeTitle, jsonLdHtml, shareImage, siteJsonLd } from "./seo";
 
 const gaId = gaMeasurementId();
 
@@ -12,8 +12,8 @@ export const metadata = {
   title: { default: homeTitle, template: `%s | ${site.name}` },
   description: site.description,
   alternates: { canonical: "/", types: { "application/rss+xml": "/rss.xml", "text/plain": "/llms.txt" } },
-  openGraph: { siteName: site.name, type: "website", title: homeTitle, description: site.description, url: "/" },
-  twitter: { card: "summary", title: homeTitle, description: site.description },
+  openGraph: { siteName: site.name, type: "website", title: homeTitle, description: site.description, url: "/", images: [shareImage] },
+  twitter: { card: "summary_large_image", title: homeTitle, description: site.description, images: [shareImage] },
 };
 
 export default function RootLayout({ children }) {
