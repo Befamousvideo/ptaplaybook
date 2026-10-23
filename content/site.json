@@ -3,7 +3,7 @@
   "domain": "ptaplaybook.com",
   "tagline": "Fundraiser playbooks and school-app sanity for parents",
   "color": "#c2410c",
-  "updated": "October 22, 2026",
+  "updated": "October 23, 2026",
   "description": "Free playbooks, templates and checklists for PTA/PTO volunteers and busy parents: run fundraisers, recruit volunteers, and tame school-app notifications.",
   "nav": [
     {
@@ -660,7 +660,9 @@
         "Wrap up holiday food and coat drives: deliver to your partner organization before break, then share totals and thank volunteers.",
         "Teacher and staff thank-yous: keep gifts optional and give families a no-cost option such as a handwritten note from the student.",
         "Sweep the lost-and-found with your child before break, and return library books and borrowed devices if the school asks.",
-        "Winter clothes check: layers, a hat, mittens or gloves, and insulated boots, plus a dry change of clothes in the backpack for younger kids."
+        "Winter clothes check: layers, a hat, mittens or gloves, and insulated boots, plus a dry change of clothes in the backpack for younger kids.",
+        "Gift check: follow CPSC toy safety basics before wrapping (see Holiday gift check: toy safety rules from CPSC)",
+        "Giving a new device? Set up parental controls before you wrap it (see New phone, tablet or console for the holidays? Set up parental controls first)"
       ],
       "blocks": [
         {
@@ -687,7 +689,9 @@
             "How to cut ParentSquare notifications down to what matters",
             "Remind: choose text vs app, and stop double alerts",
             "November school-parent checklist",
-            "When to keep your child home sick from school (and when they can go back)"
+            "When to keep your child home sick from school (and when they can go back)",
+            "Holiday gift check: toy safety rules from CPSC",
+            "New phone, tablet or console for the holidays? Set up parental controls first"
           ]
         }
       ],
@@ -701,7 +705,7 @@
           "a": "No. Gifts are optional. A specific handwritten note from your child is often the most valued thank-you, and many PTAs cover a building-wide treat so families don't have to."
         }
       ],
-      "updated": "2026-10-19"
+      "updated": "2026-10-23"
     },
     {
       "path": "/guides/daylight-saving-time-sleep",
@@ -1091,6 +1095,133 @@
         }
       ],
       "updated": "2026-10-22"
+    },
+    {
+      "path": "/guides/holiday-toy-safety-check",
+      "group": "guides",
+      "label": "Guide",
+      "title": "Holiday gift check: toy safety rules from CPSC",
+      "seoTitle": "Holiday toy safety checklist for parents (CPSC guidance)",
+      "summary": "Before wrapping gifts, check the age label, keep small parts away from kids under 3 and deflated balloons from kids under 8, look for screw-secured battery compartments on anything with button or coin batteries, skip water beads entirely, and add a helmet to any riding toy. Buy from trusted sellers and check used items for recalls.",
+      "steps": [
+        "Read the age label and pick toys that fit the child's age and abilities. CPSC says toys that are a choking hazard for kids under 3 must carry an age label.",
+        "Keep small balls and toys with small parts away from children under 3, and deflated or broken balloons away from children under 8.",
+        "Anything with a button or coin battery (light-up toys, remotes, greeting cards, key fobs): make sure the battery compartment needs a screwdriver or tool to open. CPSC says a swallowed button battery can burn through a child's throat in as little as two hours.",
+        "Skip water beads. CPSC urges families to remove them from homes with children and urges schools and childcare to avoid them entirely.",
+        "Riding toys, scooters and new bikes: buy the helmet and safety gear at the same time, and make sure it's used every ride.",
+        "Buying online or secondhand? CPSC recommends buying from trusted sellers and checking CPSC.gov/Recalls for used items.",
+        "After gifts are opened, throw away plastic wrap and packaging right away."
+      ],
+      "blocks": [
+        {
+          "h": "In an emergency",
+          "ul": [
+            "Suspect a swallowed button battery? Go to the emergency room right away and call the National Battery Ingestion Hotline at 800-498-8666 or Poison Help at 800-222-1222.",
+            "Suspect a swallowed water bead? CPSC says to seek medical treatment right away. Poison Help is 800-222-1222, 24 hours a day.",
+            "Report an unsafe toy or an injury on SaferProducts.gov."
+          ]
+        },
+        {
+          "h": "For PTAs",
+          "p": [
+            "Running a toy drive or classroom gift swap? Ask for new, unopened toys with age labels, say no water beads, and set aside any donated item with loose button batteries or small magnets. A one-line reminder in the December newsletter with a link to CPSC's toy page is enough."
+          ]
+        },
+        {
+          "h": "Sources",
+          "p": [
+            "CPSC: Toys safety education center — https://www.cpsc.gov/Safety-Education/Safety-Education-Centers/Toys",
+            "CPSC: Button cell and coin batteries — https://www.cpsc.gov/Safety-Education/Safety-Education-Centers/Button-Cell-Coin-Battery-Information-Center",
+            "CPSC: Water beads information center — https://www.cpsc.gov/Safety-Education/Safety-Education-Centers/Water-Beads-Information-Center",
+            "CPSC: Unsafe holiday presents warning (Dec 2025) — https://www.cpsc.gov/Newsroom/News-Releases/2026/Dont-Be-Left-Out-in-the-Cold-This-Holiday-Season-with-Unsafe-Presents-Buy-from-Trusted-Sources",
+            "Poison Control (National Capital Poison Center): Don't toy around — https://www.poison.org/articles/foreign-body-ingestion-toys"
+          ]
+        },
+        {
+          "h": "Related",
+          "ul": [
+            "December school-parent checklist",
+            "November school-parent checklist",
+            "New phone, tablet or console for the holidays? Set up parental controls first"
+          ]
+        }
+      ],
+      "flag": "Checked against CPSC and Poison Control guidance on October 23, 2026.",
+      "faq": [
+        {
+          "q": "Are water beads OK for older kids?",
+          "a": "CPSC urges families to remove water beads from any home with children, because younger siblings can find and swallow spilled beads."
+        },
+        {
+          "q": "How do I know if a used toy was recalled?",
+          "a": "Search the product name at CPSC.gov/Recalls before giving it."
+        }
+      ],
+      "updated": "2026-10-23"
+    },
+    {
+      "path": "/guides/new-device-parental-controls",
+      "group": "guides",
+      "label": "Guide",
+      "title": "New phone, tablet or console for the holidays? Set up parental controls first",
+      "seoTitle": "Parental controls for a child's new iPhone, Android or console",
+      "summary": "Set up the child's own account and parental controls before the device is wrapped. On iPhone and iPad, use Family Sharing with a Child Account and Screen Time. On Android and Chromebook, use Google Family Link. Game consoles have their own family apps from Nintendo, Xbox and PlayStation.",
+      "steps": [
+        "Decide the house rules first: where the device charges at night, screen time on school nights, and who approves new apps.",
+        "iPhone or iPad: set up Family Sharing, create a Child Account for your child (Apple says each child should have their own Apple Account), then turn on Screen Time controls from your own device.",
+        "Apple's Ask to Buy lets you approve app downloads and purchases. Apple says it's on by default for children under 13 in many regions.",
+        "Android phone or Chromebook: use the Google Family Link app to create or supervise your child's Google Account, approve apps, and set daily limits and a bedtime.",
+        "Note: Google says Family Link can't supervise iPhones, iPads or non-Chromebook computers, and it can't manage Google Workspace for Education (school) accounts.",
+        "Game console: set it up with the console maker's family tools (Nintendo Switch Parental Controls, Xbox Family Settings, PlayStation Family Management) before the first login.",
+        "Turn the device on and test it with your child's account before the big day, so updates and setup aren't happening during the celebration."
+      ],
+      "blocks": [
+        {
+          "h": "Good to know",
+          "ul": [
+            "Apple says its newest Screen Time parental controls need every device in the Family Sharing group updated to the latest software. If not, you can keep using the previous controls or set them on the child's device.",
+            "Google says Family Link purchase approvals apply only to purchases made through Google Play billing.",
+            "Controls help, but they don't replace talking with your child about who they chat with and what to do if something feels wrong."
+          ]
+        },
+        {
+          "h": "For PTAs",
+          "p": [
+            "A short pre-break newsletter note (\"Giving a device? Set up parental controls before you wrap it\") with links to Apple's and Google's official pages helps families without endorsing any product."
+          ]
+        },
+        {
+          "h": "Sources",
+          "p": [
+            "Apple Support: Set up parental controls to manage your child's iPhone or iPad — https://support.apple.com/en-us/105121",
+            "Apple Support: Use Screen Time to manage your child's iPhone or iPad — https://support.apple.com/en-us/108806",
+            "Google For Families Help: Get started with Family Link — https://support.google.com/families/answer/7101025",
+            "Google For Families Help: Manage your child's screen time — https://support.google.com/families/answer/7103340",
+            "Nintendo: Nintendo Switch Parental Controls — https://www.nintendo.com/us/switch/parental-controls/",
+            "Xbox: Family Hub — https://www.xbox.com/en-US/family-hub",
+            "PlayStation: Parental controls — https://www.playstation.com/en-us/parental-controls/"
+          ]
+        },
+        {
+          "h": "Related",
+          "ul": [
+            "December school-parent checklist",
+            "Holiday gift check: toy safety rules from CPSC"
+          ]
+        }
+      ],
+      "flag": "Vendor guide: menu names and steps were checked against Apple, Google, Nintendo, Xbox and PlayStation help pages on October 23, 2026, and must be re-checked against the vendor's current help docs before each update. Settings change with new software versions.",
+      "faq": [
+        {
+          "q": "Can I use Google Family Link on my child's iPhone?",
+          "a": "No. Google says Family Link can't supervise iPhones or iPads. Use Apple's Screen Time and Family Sharing instead."
+        },
+        {
+          "q": "Should my child share my Apple Account?",
+          "a": "Apple says each child should have their own Apple Account in your Family Sharing group, not share one with another family member."
+        }
+      ],
+      "updated": "2026-10-23"
     }
   ],
   "static": [
