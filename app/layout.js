@@ -1,18 +1,33 @@
 import "./globals.css";
+import Script from "next/script";
 import site from "../content/site.json";
+import { AnalyticsRouteChange } from "./analytics";
+import { gaInlineSnippet, gaMeasurementId, gaScriptSrc } from "./analytics-core";
+import { homeTitle, jsonLdHtml, shareImage, siteJsonLd } from "./seo";
+
+const gaId = gaMeasurementId();
+
 export const metadata = {
   metadataBase: new URL(`https://${site.domain}`),
-  title: { default: `${site.name} — ${site.tagline}`, template: `%s | ${site.name}` },
+  title: { default: homeTitle, template: `%s | ${site.name}` },
   description: site.description,
   alternates: { canonical: "/", types: { "application/rss+xml": "/rss.xml", "text/plain": "/llms.txt" } },
-  openGraph: { siteName: site.name, type: "website", title: site.name, description: site.description },
+  openGraph: { siteName: site.name, type: "website", title: homeTitle, description: site.description, url: "/", images: [shareImage] },
+  twitter: { card: "summary_large_image", title: homeTitle, description: site.description, images: [shareImage] },
 };
+
 export default function RootLayout({ children }) {
-  const org = { "@context": "https://schema.org", "@type": "Organization", name: site.name, url: `https://${site.domain}`, parentOrganization: { "@type": "Organization", name: "StorenTech" } };
   return (
-    <html lang="en" style={{ "--accent": site.color }}>
+    <html lang="en" style={/** @type {any} */ ({ "--accent": site.color })}>
       <body>
-        <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(org) }} />
+        <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: jsonLdHtml(siteJsonLd()) }} />
+        {gaId ? (
+          <>
+            <script id="ga4-init" dangerouslySetInnerHTML={{ __html: gaInlineSnippet(gaId) }} />
+            <Script src={gaScriptSrc(gaId)} strategy="afterInteractive" />
+            <AnalyticsRouteChange />
+          </>
+        ) : null}
         <header className="hdr"><div className="wrap row">
           <a href="/" className="logo">{site.name}</a>
           <nav>{site.nav.map(n => <a key={n.href} href={n.href}>{n.label}</a>)}</nav>

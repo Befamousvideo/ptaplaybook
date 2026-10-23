@@ -1,7 +1,8 @@
 import site from "../../content/site.json";
 import AdOrderForm from "../AdOrderForm";
 import { PLANS, CATEGORIES } from "../ads-lib";
-export const metadata = { title: "Advertise", description: `Advertise on ${site.name}: labeled, reviewed ads with simple founding pricing.`, alternates: { canonical: "/advertise" } };
+import { advertiseDescription, pageMetadata } from "../seo";
+export const metadata = pageMetadata({ title: "Advertise", description: advertiseDescription, path: "/advertise", type: "website" });
 export default function Advertise() {
   const plans = Object.values(PLANS);
   return (<article>

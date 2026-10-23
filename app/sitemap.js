@@ -1,4 +1,3 @@
-import site from "../content/site.json";
-import { allPages, pageDateIso } from "./nav";
+import { sitemapEntries } from "./seo.js";
 export const dynamic = "force-static";
-export default function sitemap() { return [{ url: `https://${site.domain}/` }, ...allPages().map(p => ({ url: `https://${site.domain}${p.path}`, lastModified: pageDateIso(p) }))]; }
+export default function sitemap() { return sitemapEntries(); }

@@ -1,6 +1,7 @@
 import site from "../content/site.json";
 import NewsletterForm from "./NewsletterForm";
 import HouseAd from "./HouseAd";
+import { TrackedCta } from "./analytics";
 import { Li, Linked } from "./nav";
 export function Newsletter() {
   return (
@@ -13,7 +14,7 @@ export function Newsletter() {
 }
 export function Cta({ cta }) {
   if (!cta) return null;
-  return (<section className="card cta"><h2>{cta.title}</h2><p>{cta.text}</p><a className="btn" href={cta.href}>{cta.button}</a></section>);
+  return (<section className="card cta"><h2>{cta.title}</h2><p>{cta.text}</p><TrackedCta className="btn" href={cta.href} label={cta.button} location="cta_band">{cta.button}</TrackedCta></section>);
 }
 export function Sponsor() {
   return <HouseAd />;
