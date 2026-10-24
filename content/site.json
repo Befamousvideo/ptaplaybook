@@ -3,7 +3,7 @@
   "domain": "ptaplaybook.com",
   "tagline": "Fundraiser playbooks and school-app sanity for parents",
   "color": "#c2410c",
-  "updated": "October 23, 2026",
+  "updated": "October 24, 2026",
   "description": "Free playbooks, templates and checklists for PTA/PTO volunteers and busy parents: run fundraisers, recruit volunteers, and tame school-app notifications.",
   "nav": [
     {
@@ -393,7 +393,9 @@
             "Cold and flu season: know your school's sick-day and return rules (see When to keep your child home sick from school (and when they can go back))",
             "High school seniors: finish the 2027–28 FAFSA well before your state and college deadlines (see FAFSA 2027–28 is open: what parents of high school seniors should do now)",
             "Thanksgiving travel: check car seats and boosters before the trip (see Thanksgiving trip with kids: a 10-minute car seat and booster check)",
-            "Budget tight this season? Families can apply for free or reduced-price school meals any time of year (see Free or reduced-price school meals: you can apply any time of year)"
+            "Budget tight this season? Families can apply for free or reduced-price school meals any time of year (see Free or reduced-price school meals: you can apply any time of year)",
+            "Check attendance so far: two missed days a month adds up to chronic absence (see Missing two days a month adds up: what parents should know about chronic absence)",
+            "Report cards arriving? You can ask to review your child's school records and request corrections (see Your right to see your child's school records (FERPA), and how to fix a mistake)"
           ]
         },
         {
@@ -403,11 +405,13 @@
             "When to keep your child home sick from school (and when they can go back)",
             "FAFSA 2027–28 is open: what parents of high school seniors should do now",
             "Thanksgiving trip with kids: a 10-minute car seat and booster check",
-            "Free or reduced-price school meals: you can apply any time of year"
+            "Free or reduced-price school meals: you can apply any time of year",
+            "Missing two days a month adds up: what parents should know about chronic absence",
+            "Your right to see your child's school records (FERPA), and how to fix a mistake"
           ]
         }
       ],
-      "updated": "2026-10-22"
+      "updated": "2026-10-24"
     },
     {
       "path": "/pta/fundraisers/giving-tuesday",
@@ -483,7 +487,9 @@
           "h": "Related",
           "ul": [
             "October school-parent checklist",
-            "Build one family school inbox in 20 minutes"
+            "Build one family school inbox in 20 minutes",
+            "Your right to see your child's school records (FERPA), and how to fix a mistake",
+            "Missing two days a month adds up: what parents should know about chronic absence"
           ]
         }
       ],
@@ -821,7 +827,8 @@
           "ul": [
             "November school-parent checklist",
             "December school-parent checklist",
-            "Daylight saving time ends Nov 1: help your kids' sleep adjust"
+            "Daylight saving time ends Nov 1: help your kids' sleep adjust",
+            "Missing two days a month adds up: what parents should know about chronic absence"
           ]
         }
       ],
@@ -1222,6 +1229,128 @@
         }
       ],
       "updated": "2026-10-23"
+    },
+    {
+      "path": "/guides/chronic-absence-two-days-a-month",
+      "group": "guides",
+      "label": "Guide",
+      "title": "Missing two days a month adds up: what parents should know about chronic absence",
+      "seoTitle": "Chronic absence explained for parents: 10% of school days",
+      "summary": "Chronic absence means missing 10% or more of school days for any reason: excused, unexcused or suspensions. Attendance Works says that's about 18 days in most districts, or just two days a month. With fall colds, holiday travel and long weekends coming, now is a good time to check your child's attendance and plan ahead.",
+      "steps": [
+        "Look up your child's attendance so far this year in the school's parent portal or on the report card, and count excused and unexcused days together.",
+        "Do the math: two days a month by November is already on the path to chronic absence.",
+        "Plan holiday travel around the school calendar so trips don't add extra missed days before or after breaks.",
+        "Keep kids home when they're truly sick (see the sick-day guide), and send them back as soon as the school's return rules allow.",
+        "If absences are adding up because of health problems, transportation, anxiety or something else, talk with the teacher, school counselor or nurse early. Attendance Works says many absences are tied to barriers like these, not to not caring.",
+        "Ask what the school offers: make-up work, bus or walking-route help, health services, or an attendance plan."
+      ],
+      "blocks": [
+        {
+          "h": "What's confirmed (Attendance Works)",
+          "ul": [
+            "Chronic absence is missing 10% or more of school days due to absence for any reason, including excused absences, unexcused absences and suspensions.",
+            "Attendance Works says missing 10% of school, or about 18 days in most districts, hurts a student's academic performance. That's just two days a month.",
+            "It says chronic absence can make it harder to learn to read by third grade, achieve in middle school and graduate from high school, and that by 6th grade it becomes a leading indicator that a student will drop out of high school.",
+            "Federal data for the 2020-21 school year showed at least 14.7 million students nationwide were chronically absent, almost double the pre-COVID number of more than 8 million.",
+            "The federal Every Student Succeeds Act requires districts and states to collect and publicly report chronic absence data."
+          ]
+        },
+        {
+          "h": "For PTAs",
+          "p": [
+            "A friendly November newsletter note (\"Every day counts: two days a month adds up\") with the school's attendance contact and a reminder about holiday travel dates helps families without shaming anyone. Avoid singling out families or posting attendance lists."
+          ]
+        },
+        {
+          "h": "Sources",
+          "p": [
+            "Attendance Works: Chronic Absence, The Problem — https://www.attendanceworks.org/chronic-absence/the-problem/",
+            "Attendance Works: 10 Facts About School Attendance — https://www.attendanceworks.org/chronic-absence/the-problem/10-facts-about-school-attendance/"
+          ]
+        },
+        {
+          "h": "Related",
+          "ul": [
+            "November school-parent checklist",
+            "When to keep your child home sick from school (and when they can go back)",
+            "Parent-teacher conference prep: a 15-minute checklist"
+          ]
+        }
+      ],
+      "flag": "Checked against Attendance Works on October 24, 2026. Your district's attendance policy and definitions may differ.",
+      "faq": [
+        {
+          "q": "Do excused absences count?",
+          "a": "Yes. Attendance Works defines chronic absence as missing 10% of school days for any reason, excused or unexcused, plus suspensions."
+        },
+        {
+          "q": "Should I send my child to school sick to protect attendance?",
+          "a": "No. Follow your school's sick-day rules and keep sick kids home. The goal is to avoid extra days that aren't needed, like added travel days."
+        }
+      ],
+      "updated": "2026-10-24"
+    },
+    {
+      "path": "/guides/ferpa-see-your-childs-school-records",
+      "group": "guides",
+      "label": "Guide",
+      "title": "Your right to see your child's school records (FERPA), and how to fix a mistake",
+      "seoTitle": "FERPA for parents: see and correct your child's school records",
+      "summary": "Under FERPA, parents can ask to inspect and review their child's education records, and the school must allow it within 45 calendar days. If something is inaccurate or misleading, you can ask the school to correct it. Report card season is a good time to know these rights.",
+      "steps": [
+        "Write to the school (principal or registrar) asking to inspect and review your child's education records. Put the date on it and keep a copy.",
+        "Under FERPA, the school must give you the chance to inspect and review the records within a reasonable time, and no more than 45 calendar days after your request.",
+        "Schools generally don't have to give copies unless something keeps you from inspecting in person (for example, you live too far away).",
+        "If you find a factual error, ask in writing for it to be corrected and explain why. The school must consider the request and tell you its decision.",
+        "If the school says no, it must tell you about your right to a hearing. If the record still isn't changed, you can add your own statement to the record.",
+        "Grades, evaluations and discipline decisions themselves usually can't be changed through FERPA. Ask the teacher or school about their review process instead. For IEP disagreements, use the IDEA dispute options.",
+        "Check your school's annual FERPA notice for its \"directory information\" list (such as name, photo and grade level) and how to opt out if you don't want it shared."
+      ],
+      "blocks": [
+        {
+          "h": "Good to know",
+          "ul": [
+            "FERPA rights belong to both custodial and noncustodial parents unless a court order, legally binding document or state law says otherwise.",
+            "When a student turns 18 or enters college at any age, the rights transfer from the parent to the student.",
+            "FERPA applies to schools that receive U.S. Department of Education funding. Most private and faith-based K-12 schools don't, so it generally doesn't apply to them."
+          ]
+        },
+        {
+          "h": "For PTAs",
+          "p": [
+            "PTAs don't get access to student records. If your PTA wants a family directory, ask families directly for permission to include their contact details, rather than asking the school for the list."
+          ]
+        },
+        {
+          "h": "Sources",
+          "p": [
+            "U.S. Department of Education, Student Privacy Policy Office: What is FERPA? — https://studentprivacy.ed.gov/faq/what-ferpa",
+            "U.S. Department of Education: A Parent Guide to FERPA — https://studentprivacy.ed.gov/resources/parent-guide-family-educational-rights-and-privacy-act-ferpa",
+            "A Parent Guide to FERPA (PDF, SPPO-21-04) — https://studentprivacy.ed.gov/sites/default/files/resource_document/file/A%20parent%20guide%20to%20ferpa_508.pdf",
+            "This guide is general information, not legal advice."
+          ]
+        },
+        {
+          "h": "Related",
+          "ul": [
+            "November school-parent checklist",
+            "Parent-teacher conference prep: a 15-minute checklist"
+          ]
+        }
+      ],
+      "flag": "Checked against U.S. Department of Education Student Privacy Policy Office guidance on October 24, 2026. State laws and district policies can add rights.",
+      "faq": [
+        {
+          "q": "Can I get copies of my child's records?",
+          "a": "Schools generally only have to let you inspect and review records. They must make other arrangements, such as copies, if circumstances keep you from inspecting them, like living too far away."
+        },
+        {
+          "q": "Can I use FERPA to change a grade?",
+          "a": "Usually not. The Department of Education says FERPA isn't for changing substantive decisions like grades. It's for correcting records that are inaccurate or misleading."
+        }
+      ],
+      "updated": "2026-10-24"
     }
   ],
   "static": [
