@@ -1,6 +1,7 @@
 import "./globals.css";
 import site from "../content/site.json";
 import CookieConsent from "./CookieConsent";
+import GoogleAnalytics from "./GoogleAnalytics";
 import { CONSENT_DEFAULTS_SCRIPT } from "./consent-defaults";
 export const metadata = {
   metadataBase: new URL(`https://${site.domain}`),
@@ -27,6 +28,7 @@ export default function RootLayout({ children }) {
           <p className="muted">© 2026 {site.name}, a StorenTech company. Preview build — content under review.</p>
         </div></footer>
         <CookieConsent />
+        <GoogleAnalytics />
       </body>
     </html>
   );
