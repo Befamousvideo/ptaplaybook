@@ -395,8 +395,7 @@
             "Thanksgiving travel: check car seats and boosters before the trip (see Thanksgiving trip with kids: a 10-minute car seat and booster check)",
             "Budget tight this season? Families can apply for free or reduced-price school meals any time of year (see Free or reduced-price school meals: you can apply any time of year)",
             "Check attendance so far: two missed days a month adds up to chronic absence (see Missing two days a month adds up: what parents should know about chronic absence)",
-            "Report cards arriving? You can ask to review your child's school records and request corrections (see Your right to see your child's school records (FERPA), and how to fix a mistake)",
-            "No flu shot yet? CDC says it's not too late, and some kids under 9 need two doses four weeks apart (see Flu shots for kids this season: who needs one, two doses, and timing)"
+            "Report cards arriving? You can ask to review your child's school records and request corrections (see Your right to see your child's school records (FERPA), and how to fix a mistake)"
           ]
         },
         {
@@ -409,7 +408,6 @@
             "Free or reduced-price school meals: you can apply any time of year",
             "Missing two days a month adds up: what parents should know about chronic absence",
             "Your right to see your child's school records (FERPA), and how to fix a mistake",
-            "Flu shots for kids this season: who needs one, two doses, and timing",
             "Class holiday parties and food allergies: a PTA planning checklist"
           ]
         }
@@ -832,8 +830,7 @@
             "November school-parent checklist",
             "December school-parent checklist",
             "Daylight saving time ends Nov 1: help your kids' sleep adjust",
-            "Missing two days a month adds up: what parents should know about chronic absence",
-            "Flu shots for kids this season: who needs one, two doses, and timing"
+            "Missing two days a month adds up: what parents should know about chronic absence"
           ]
         }
       ],
@@ -1357,66 +1354,6 @@
         }
       ],
       "updated": "2026-10-24"
-    },
-    {
-      "path": "/guides/flu-vaccine-kids-2026-27",
-      "group": "guides",
-      "label": "Guide",
-      "title": "Flu shots for kids this season: who needs one, two doses, and timing",
-      "seoTitle": "Flu vaccine for kids 2026-27: CDC timing and two-dose rule",
-      "summary": "CDC recommends a flu vaccine every season for everyone 6 months and older, ideally by the end of October, and says it's not too late after that. Some children 6 months through 8 years need two doses four weeks apart, so if your child hasn't had theirs yet, now is the time to book.",
-      "steps": [
-        "Check whether your child has had a flu vaccine since this fall. Your pediatrician's portal or your pharmacy records will show it.",
-        "Ask whether your child needs two doses. CDC says some children 6 months through 8 years do, including those getting a flu vaccine for the first time, those who've had only one dose before, and those whose history is unknown. The doses are at least four weeks apart.",
-        "Book with your pediatrician, a clinic or a pharmacy that vaccinates children. Vaccines.gov can help you find locations.",
-        "Ask your provider whether the shot or the nasal spray is right for your child. CDC says the nasal spray is for ages 2 to 49 and isn't recommended for some people with certain conditions.",
-        "Plan ahead for holiday travel and gatherings: CDC says it takes about two weeks after vaccination for protection to build."
-      ],
-      "blocks": [
-        {
-          "h": "What's confirmed (CDC)",
-          "ul": [
-            "Everyone 6 months and older should get a flu vaccine every season, with rare exceptions.",
-            "Children younger than 5, especially those under 2, and children with certain chronic health conditions are at higher risk of serious flu complications.",
-            "Getting vaccinated by the end of October is ideal, but vaccination later in the season can still help.",
-            "CDC says flu vaccination can reduce flu illness, doctor visits and missed school days."
-          ]
-        },
-        {
-          "h": "For PTAs",
-          "p": [
-            "If your school or district hosts a flu clinic, a short newsletter note with the date, consent form link and the two-dose reminder for younger kids helps families. Point health questions to the school nurse or the family's doctor, and don't collect or share any family's vaccination status."
-          ]
-        },
-        {
-          "h": "Sources",
-          "p": [
-            "CDC: Flu and Children — https://www.cdc.gov/flu/highrisk/children.htm",
-            "CDC: Key Facts About Seasonal Flu Vaccine — https://www.cdc.gov/flu/vaccines/keyfacts.html",
-            "Vaccines.gov: Find vaccines near you — https://www.vaccines.gov/",
-            "This guide is general information, not medical advice. Ask your child's doctor what's right for your child."
-          ]
-        },
-        {
-          "h": "Related",
-          "ul": [
-            "November school-parent checklist",
-            "When to keep your child home sick from school (and when they can go back)"
-          ]
-        }
-      ],
-      "flag": "Checked against CDC guidance on October 25, 2026. Recommendations can change each season; confirm with your child's doctor.",
-      "faq": [
-        {
-          "q": "Is it too late to get a flu shot in November?",
-          "a": "No. CDC says the end of October is ideal, but getting vaccinated later in the season can still be beneficial."
-        },
-        {
-          "q": "Why does my younger child need two doses?",
-          "a": "CDC says some children 6 months through 8 years need two doses, at least four weeks apart, for example the first time they get a flu vaccine. Your child's doctor can tell you."
-        }
-      ],
-      "updated": "2026-10-25"
     },
     {
       "path": "/guides/class-holiday-party-food-allergies",
