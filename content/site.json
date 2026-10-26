@@ -3,7 +3,7 @@
   "domain": "ptaplaybook.com",
   "tagline": "Fundraiser playbooks and school-app sanity for parents",
   "color": "#c2410c",
-  "updated": "October 25, 2026",
+  "updated": "October 26, 2026",
   "description": "Free playbooks, templates and checklists for PTA/PTO volunteers and busy parents: run fundraisers, recruit volunteers, and tame school-app notifications.",
   "nav": [
     {
@@ -395,7 +395,9 @@
             "Thanksgiving travel: check car seats and boosters before the trip (see Thanksgiving trip with kids: a 10-minute car seat and booster check)",
             "Budget tight this season? Families can apply for free or reduced-price school meals any time of year (see Free or reduced-price school meals: you can apply any time of year)",
             "Check attendance so far: two missed days a month adds up to chronic absence (see Missing two days a month adds up: what parents should know about chronic absence)",
-            "Report cards arriving? You can ask to review your child's school records and request corrections (see Your right to see your child's school records (FERPA), and how to fix a mistake)"
+            "Report cards arriving? You can ask to review your child's school records and request corrections (see Your right to see your child's school records (FERPA), and how to fix a mistake)",
+            "Before holiday forms and new accounts pile up, consider a free credit freeze for kids under 16 (see Freeze your child's credit for free: a parent's step-by-step guide)",
+            "New AI apps over break? Link your teen's ChatGPT account and set quiet hours (see ChatGPT parental controls: link your teen's account and set quiet hours)"
           ]
         },
         {
@@ -408,11 +410,13 @@
             "Free or reduced-price school meals: you can apply any time of year",
             "Missing two days a month adds up: what parents should know about chronic absence",
             "Your right to see your child's school records (FERPA), and how to fix a mistake",
-            "Class holiday parties and food allergies: a PTA planning checklist"
+            "Class holiday parties and food allergies: a PTA planning checklist",
+            "Freeze your child's credit for free: a parent's step-by-step guide",
+            "ChatGPT parental controls: link your teen's account and set quiet hours"
           ]
         }
       ],
-      "updated": "2026-10-25"
+      "updated": "2026-10-26"
     },
     {
       "path": "/pta/fundraisers/giving-tuesday",
@@ -699,7 +703,9 @@
             "When to keep your child home sick from school (and when they can go back)",
             "Holiday gift check: toy safety rules from CPSC",
             "New phone, tablet or console for the holidays? Set up parental controls first",
-            "Class holiday parties and food allergies: a PTA planning checklist"
+            "Class holiday parties and food allergies: a PTA planning checklist",
+            "Freeze your child's credit for free: a parent's step-by-step guide",
+            "ChatGPT parental controls: link your teen's account and set quiet hours"
           ]
         }
       ],
@@ -713,7 +719,7 @@
           "a": "No. Gifts are optional. A specific handwritten note from your child is often the most valued thank-you, and many PTAs cover a building-wide treat so families don't have to."
         }
       ],
-      "updated": "2026-10-25"
+      "updated": "2026-10-26"
     },
     {
       "path": "/guides/daylight-saving-time-sleep",
@@ -1216,7 +1222,8 @@
           "h": "Related",
           "ul": [
             "December school-parent checklist",
-            "Holiday gift check: toy safety rules from CPSC"
+            "Holiday gift check: toy safety rules from CPSC",
+            "ChatGPT parental controls: link your teen's account and set quiet hours"
           ]
         }
       ],
@@ -1338,7 +1345,8 @@
           "h": "Related",
           "ul": [
             "November school-parent checklist",
-            "Parent-teacher conference prep: a 15-minute checklist"
+            "Parent-teacher conference prep: a 15-minute checklist",
+            "Freeze your child's credit for free: a parent's step-by-step guide"
           ]
         }
       ],
@@ -1417,6 +1425,143 @@
         }
       ],
       "updated": "2026-10-25"
+    },
+    {
+      "path": "/guides/freeze-your-childs-credit",
+      "group": "guides",
+      "label": "Guide",
+      "title": "Freeze your child's credit for free: a parent's step-by-step guide",
+      "seoTitle": "How to freeze a child's credit (under 16) at Equifax, Experian and TransUnion",
+      "summary": "Kids usually don't have credit reports, so someone using a child's Social Security number can go unnoticed for years. Since September 2018, federal law lets parents freeze a child's credit for free if the child is under 16. The freeze lasts until you lift it, and the FTC says to request it at all three credit bureaus.",
+      "steps": [
+        "Gather copies of your ID, proof of address, your child's birth certificate and your child's Social Security card. The FTC says the bureaus may ask for these.",
+        "Go to each bureau's minor freeze instructions (Equifax, Experian and TransUnion). Start from IdentityTheft.gov's credit bureau contacts page so you land on the real sites. The process for a child is different from an adult freeze, and you need to do all three.",
+        "Submit the request. If the bureau has no file on your child, CFPB and FTC say it will create a protected record just so it can be frozen. That record can't be used for credit.",
+        "Save each confirmation and the instructions for lifting the freeze in a safe place, with your child's other important papers.",
+        "Before you freeze, or if you're worried, ask each bureau for a manual search to see whether a credit report already exists under your child's Social Security number.",
+        "Lift the freeze when your child is older and ready to apply for credit, a job that checks credit, or an apartment. Teens who are 16 or 17 can request or remove a freeze themselves."
+      ],
+      "blocks": [
+        {
+          "h": "What's confirmed",
+          "ul": [
+            "FTC: If your child is under 16, you can request a free credit freeze, and it stays in place until you tell the credit bureaus to remove it.",
+            "FTC: Generally, a child under 18 won't have a credit report. If one exists, someone may be using your child's information.",
+            "FTC warning signs include bills or collection calls for accounts you didn't open, an IRS letter about your child's unpaid taxes, or being denied benefits because someone else is using your child's number.",
+            "CFPB: Freezing and unfreezing is free at the three nationwide credit reporting companies, and a freeze doesn't affect credit scores.",
+            "If your child's identity was misused, the FTC says to contact the companies involved, tell the three bureaus, freeze the credit and report it at IdentityTheft.gov."
+          ]
+        },
+        {
+          "h": "For PTAs",
+          "p": [
+            "A short newsletter note pointing families to the FTC's child identity theft page is a low-effort, high-value share, especially around the holidays, when families fill out a lot of forms. The FTC also suggests that when a school or program asks for a child's Social Security number, parents ask why it's needed, how it'll be protected, and whether another identifier or just the last four digits will do. PTAs shouldn't collect Social Security numbers for sign-ups or fundraisers."
+          ]
+        },
+        {
+          "h": "Sources",
+          "p": [
+            "FTC Consumer Advice: How To Protect Your Child From Identity Theft — https://consumer.ftc.gov/articles/how-protect-your-child-identity-theft",
+            "FTC Consumer Alert (March 2019): New protections available for minors under 16 — https://consumer.ftc.gov/consumer-alerts/2019/03/new-protections-available-minors-under-16",
+            "CFPB: How do I check to see if a child has a credit report? — https://www.consumerfinance.gov/ask-cfpb/how-do-i-check-to-see-if-a-child-has-a-credit-report-en-1865/",
+            "CFPB: What is a credit freeze or security freeze on my credit report? — https://www.consumerfinance.gov/ask-cfpb/what-is-a-credit-freeze-or-security-freeze-on-my-credit-report-en-1341/",
+            "IdentityTheft.gov: Credit bureau contacts — https://www.identitytheft.gov/CreditBureauContacts"
+          ]
+        },
+        {
+          "h": "Related",
+          "ul": [
+            "Your right to see your child's school records (FERPA), and how to fix a mistake",
+            "FAFSA 2027–28 is open: what parents of high school seniors should do now",
+            "December school-parent checklist"
+          ]
+        }
+      ],
+      "flag": "Checked against FTC and CFPB guidance on October 26, 2026. Each credit bureau's own minor-freeze steps and document requirements can change; follow the instructions on its site.",
+      "faq": [
+        {
+          "q": "Does freezing my child's credit cost anything?",
+          "a": "No. Federal law makes credit freezes free at Equifax, Experian and TransUnion, including for children under 16."
+        },
+        {
+          "q": "Will a freeze hurt my child's future credit?",
+          "a": "No. CFPB says a freeze doesn't affect credit scores. You lift it when your child is ready to apply for credit."
+        }
+      ],
+      "image": {
+        "src": "/images/parent-documents-kitchen-table.webp",
+        "alt": "A parent at a kitchen table sorting papers into a folder beside a laptop and a mug, with a child's backpack in the background",
+        "w": 1280,
+        "h": 720
+      },
+      "updated": "2026-10-26"
+    },
+    {
+      "path": "/guides/chatgpt-parental-controls",
+      "group": "guides",
+      "label": "Guide",
+      "title": "ChatGPT parental controls: link your teen's account and set quiet hours",
+      "seoTitle": "ChatGPT parental controls: how to link a teen account (2026 steps)",
+      "summary": "If your teen uses ChatGPT, you can link your account to theirs and manage settings like quiet hours, voice mode, image generation and whether their chats are used to train models. You can't read their conversations, and either of you can unlink. Here's how to set it up in about 10 minutes, based on OpenAI's help pages.",
+      "steps": [
+        "Talk with your teen first. Linking requires them to accept the invite, and OpenAI notifies the parent if a teen later unlinks.",
+        "On the web, open Settings from your profile menu, select Parental controls, then Add family member. Choose Use phone or Use email, enter your teen's details and select Send.",
+        "Your teen gets a text or email link to connect their account. Once they accept, select their name under Family members.",
+        "Set Quiet hours for times your teen can't use ChatGPT, for example school-night bedtimes. You can add more than one time block.",
+        "Review the other switches together: Reduce sensitive content (on by default), Voice Mode, Image generation, Reference saved memories, and Improve the model for everyone (whether their chats help train models).",
+        "Consider Study mode or Study hours if your teen uses ChatGPT for homework. OpenAI says study hours start new chats in study mode during the set times but don't block access.",
+        "Check that your safety notification contact details are right under Manage notifications."
+      ],
+      "blocks": [
+        {
+          "h": "What's confirmed (OpenAI Help Center)",
+          "ul": [
+            "Linking does not give a parent access to the teen's conversations, chat history or real-time activity.",
+            "One parent can link with several teens, but each teen can link to only one parent or guardian at a time.",
+            "Your teen can see which settings are on but can't change settings you manage while the accounts are linked.",
+            "OpenAI says linked accounts get extra content safeguards, and that in limited, serious situations it may send the parent a safety notification. Notifications don't include chat transcripts and aren't real-time monitoring.",
+            "When ChatGPT identifies the account holder as 18 or older, parental controls are removed and both people are notified."
+          ]
+        },
+        {
+          "h": "For PTAs",
+          "p": [
+            "A parent tech night or a newsletter link to this guide pairs well with the new-device parental controls checklist. Point families to OpenAI's own help page for current steps, and remind them that school-issued accounts and devices follow the district's rules, not home settings."
+          ]
+        },
+        {
+          "h": "Sources",
+          "p": [
+            "OpenAI Help Center: Managing parental controls in ChatGPT — https://help.openai.com/en/articles/12315553-managing-parental-controls-in-chatgpt",
+            "OpenAI: ChatGPT for Teens, safety and parental controls (parent resources) — https://chatgpt.com/parent-resources/"
+          ]
+        },
+        {
+          "h": "Related",
+          "ul": [
+            "New phone, tablet or console for the holidays? Set up parental controls first",
+            "December school-parent checklist"
+          ]
+        }
+      ],
+      "flag": "Vendor guide: steps checked against OpenAI's help pages on October 26, 2026. App menus and settings change often; confirm in the current OpenAI Help Center before sharing.",
+      "faq": [
+        {
+          "q": "Can I see what my teen asks ChatGPT?",
+          "a": "No. OpenAI says parental controls don't give access to conversations, chat history or real-time activity."
+        },
+        {
+          "q": "Can my teen turn parental controls off?",
+          "a": "Your teen can unlink the accounts, but OpenAI notifies the parent when that happens. While linked, your teen can't change the settings you manage."
+        }
+      ],
+      "image": {
+        "src": "/images/parent-teen-laptop-settings.webp",
+        "alt": "A parent and a teenager on a couch looking at a laptop together while the parent points at the screen",
+        "w": 1280,
+        "h": 720
+      },
+      "updated": "2026-10-26"
     }
   ],
   "static": [
