@@ -3,7 +3,7 @@
   "domain": "ptaplaybook.com",
   "tagline": "Fundraiser playbooks and school-app sanity for parents",
   "color": "#c2410c",
-  "updated": "October 26, 2026",
+  "updated": "October 27, 2026",
   "description": "Free playbooks, templates and checklists for PTA/PTO volunteers and busy parents: run fundraisers, recruit volunteers, and tame school-app notifications.",
   "nav": [
     {
@@ -397,7 +397,8 @@
             "Check attendance so far: two missed days a month adds up to chronic absence (see Missing two days a month adds up: what parents should know about chronic absence)",
             "Report cards arriving? You can ask to review your child's school records and request corrections (see Your right to see your child's school records (FERPA), and how to fix a mistake)",
             "Before holiday forms and new accounts pile up, consider a free credit freeze for kids under 16 (see Freeze your child's credit for free: a parent's step-by-step guide)",
-            "New AI apps over break? Link your teen's ChatGPT account and set quiet hours (see ChatGPT parental controls: link your teen's account and set quiet hours)"
+            "New AI apps over break? Link your teen's ChatGPT account and set quiet hours (see ChatGPT parental controls: link your teen's account and set quiet hours)",
+            "Holiday orders are arriving: remind the family not to tap links in delivery texts (see Fake package delivery texts: what parents and teens should know before the holidays)"
           ]
         },
         {
@@ -412,11 +413,12 @@
             "Your right to see your child's school records (FERPA), and how to fix a mistake",
             "Class holiday parties and food allergies: a PTA planning checklist",
             "Freeze your child's credit for free: a parent's step-by-step guide",
-            "ChatGPT parental controls: link your teen's account and set quiet hours"
+            "ChatGPT parental controls: link your teen's account and set quiet hours",
+            "Fake package delivery texts: what parents and teens should know before the holidays"
           ]
         }
       ],
-      "updated": "2026-10-26"
+      "updated": "2026-10-27"
     },
     {
       "path": "/pta/fundraisers/giving-tuesday",
@@ -705,7 +707,8 @@
             "New phone, tablet or console for the holidays? Set up parental controls first",
             "Class holiday parties and food allergies: a PTA planning checklist",
             "Freeze your child's credit for free: a parent's step-by-step guide",
-            "ChatGPT parental controls: link your teen's account and set quiet hours"
+            "ChatGPT parental controls: link your teen's account and set quiet hours",
+            "Fake package delivery texts: what parents and teens should know before the holidays"
           ]
         }
       ],
@@ -719,7 +722,7 @@
           "a": "No. Gifts are optional. A specific handwritten note from your child is often the most valued thank-you, and many PTAs cover a building-wide treat so families don't have to."
         }
       ],
-      "updated": "2026-10-26"
+      "updated": "2026-10-27"
     },
     {
       "path": "/guides/daylight-saving-time-sleep",
@@ -1223,7 +1226,8 @@
           "ul": [
             "December school-parent checklist",
             "Holiday gift check: toy safety rules from CPSC",
-            "ChatGPT parental controls: link your teen's account and set quiet hours"
+            "ChatGPT parental controls: link your teen's account and set quiet hours",
+            "Fake package delivery texts: what parents and teens should know before the holidays"
           ]
         }
       ],
@@ -1473,7 +1477,8 @@
           "ul": [
             "Your right to see your child's school records (FERPA), and how to fix a mistake",
             "FAFSA 2027–28 is open: what parents of high school seniors should do now",
-            "December school-parent checklist"
+            "December school-parent checklist",
+            "Fake package delivery texts: what parents and teens should know before the holidays"
           ]
         }
       ],
@@ -1562,6 +1567,74 @@
         "h": 720
       },
       "updated": "2026-10-26"
+    },
+    {
+      "path": "/guides/package-delivery-text-scams",
+      "group": "guides",
+      "label": "Guide",
+      "title": "Fake package delivery texts: what parents and teens should know before the holidays",
+      "seoTitle": "Package delivery text scams: how families can spot them (USPS, UPS, FedEx)",
+      "summary": "With holiday orders arriving, many families get texts saying a package is delayed, needs a fee or needs updated shipping details. The U.S. Postal Inspection Service says USPS won't text you a link unless you signed up for tracking on that package, and the FCC says not to click links or call numbers in unexpected delivery notices. Here's a quick family check, including for teens with their own phones.",
+      "steps": [
+        "Don't tap the link or reply, even to text STOP. Check the order on the store's site or app, or the carrier's official website, typed in yourself.",
+        "Look for the warning signs the FCC lists: pressure to act fast, a \"redelivery\" or customs fee, a request for card numbers, passwords or Social Security numbers, or payment only by gift card or crypto.",
+        "Report the text as junk in your messaging app, or forward it to 7726 (SPAM). For a fake USPS text, USPIS also asks you to email spam@uspis.gov with the copied message text (without clicking the link) and a screenshot.",
+        "If someone already entered information on the linked site, USPIS says to tell your bank or card company. Change any password that was typed in.",
+        "Talk to your kids, especially teens who order things or share a family account. Agree on a simple rule: no tapping delivery links; ask a parent or check the store app instead.",
+        "If an unexpected package with a QR code arrives addressed to your child or you, don't scan it. The FCC notes these \"brushing\" packages can lead to fake sites."
+      ],
+      "blocks": [
+        {
+          "h": "What's confirmed",
+          "ul": [
+            "USPIS: USPS won't send texts or emails without a customer first requesting the service with a tracking number, and those messages won't contain a link.",
+            "USPIS: Smishing texts try to get account usernames and passwords, Social Security numbers, birth dates, card numbers or PINs.",
+            "FCC: Package delivery scams may come as texts, emails, voicemails or fake \"missed delivery\" door tags with a number to call. A 10-digit call-back number can be international and costly to call.",
+            "FCC: FedEx and UPS say they don't ask for payment or personal information through unsolicited texts and email.",
+            "FCC: Scammers now also send texts claiming a package is \"stuck in customs\" until a tariff is paid."
+          ]
+        },
+        {
+          "h": "For PTAs",
+          "p": [
+            "A short newsletter blurb or a slide at a parent tech night before the holidays is enough. Link to the USPIS and FCC pages, and remind families that the PTA will never ask for payment or personal details by text link. If your PTA sells spirit wear or ships items, tell families how real order updates will arrive (for example, only from your store platform's email)."
+          ]
+        },
+        {
+          "h": "Sources",
+          "p": [
+            "U.S. Postal Inspection Service: Smishing, Package Tracking Text Scams — https://www.uspis.gov/news/scam-article/smishing-package-tracking-text-scams",
+            "FCC: How to Avoid Package Delivery Scams — https://www.fcc.gov/how-identify-and-avoid-package-delivery-scams",
+            "FTC: Report fraud — https://reportfraud.ftc.gov/"
+          ]
+        },
+        {
+          "h": "Related",
+          "ul": [
+            "New phone, tablet or console for the holidays? Set up parental controls first",
+            "Freeze your child's credit for free: a parent's step-by-step guide",
+            "December school-parent checklist"
+          ]
+        }
+      ],
+      "flag": "Checked against USPIS and FCC guidance on October 27, 2026. Carriers and retailers publish their own fraud pages; check each company's site for current details.",
+      "faq": [
+        {
+          "q": "Does USPS ever text a tracking link?",
+          "a": "USPIS says USPS only sends tracking texts if you requested them with a tracking number, and those texts won't contain a link."
+        },
+        {
+          "q": "What if my teen already clicked the link?",
+          "a": "If they entered card or bank details, contact your bank or card company right away and change any password they typed in. Report the text as junk or forward it to 7726."
+        }
+      ],
+      "image": {
+        "src": "/images/package-delivery-text-scams.webp",
+        "alt": "A parent on a front porch with autumn leaves frowning at a text on a phone, next to two plain cardboard delivery boxes, with a child's backpack hanging inside the doorway",
+        "w": 1280,
+        "h": 720
+      },
+      "updated": "2026-10-27"
     }
   ],
   "static": [
