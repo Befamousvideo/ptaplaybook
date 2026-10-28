@@ -3,7 +3,7 @@
   "domain": "ptaplaybook.com",
   "tagline": "Fundraiser playbooks and school-app sanity for parents",
   "color": "#c2410c",
-  "updated": "October 27, 2026",
+  "updated": "October 28, 2026",
   "description": "Free playbooks, templates and checklists for PTA/PTO volunteers and busy parents: run fundraisers, recruit volunteers, and tame school-app notifications.",
   "nav": [
     {
@@ -675,7 +675,8 @@
         "Sweep the lost-and-found with your child before break, and return library books and borrowed devices if the school asks.",
         "Winter clothes check: layers, a hat, mittens or gloves, and insulated boots, plus a dry change of clothes in the backpack for younger kids.",
         "Gift check: follow CPSC toy safety basics before wrapping (see Holiday gift check: toy safety rules from CPSC)",
-        "Giving a new device? Set up parental controls before you wrap it (see New phone, tablet or console for the holidays? Set up parental controls first)"
+        "Giving a new device? Set up parental controls before you wrap it (see New phone, tablet or console for the holidays? Set up parental controls first)",
+        "New games or devices for the holidays: link a parent account and set chat and spending limits (see Roblox parental controls: link your account and set chat, spending and screen time)"
       ],
       "blocks": [
         {
@@ -708,7 +709,8 @@
             "Class holiday parties and food allergies: a PTA planning checklist",
             "Freeze your child's credit for free: a parent's step-by-step guide",
             "ChatGPT parental controls: link your teen's account and set quiet hours",
-            "Fake package delivery texts: what parents and teens should know before the holidays"
+            "Fake package delivery texts: what parents and teens should know before the holidays",
+            "Roblox parental controls: link your account and set chat, spending and screen time"
           ]
         }
       ],
@@ -722,7 +724,7 @@
           "a": "No. Gifts are optional. A specific handwritten note from your child is often the most valued thank-you, and many PTAs cover a building-wide treat so families don't have to."
         }
       ],
-      "updated": "2026-10-27"
+      "updated": "2026-10-28"
     },
     {
       "path": "/guides/daylight-saving-time-sleep",
@@ -1227,7 +1229,8 @@
             "December school-parent checklist",
             "Holiday gift check: toy safety rules from CPSC",
             "ChatGPT parental controls: link your teen's account and set quiet hours",
-            "Fake package delivery texts: what parents and teens should know before the holidays"
+            "Fake package delivery texts: what parents and teens should know before the holidays",
+            "Roblox parental controls: link your account and set chat, spending and screen time"
           ]
         }
       ],
@@ -1545,7 +1548,8 @@
           "h": "Related",
           "ul": [
             "New phone, tablet or console for the holidays? Set up parental controls first",
-            "December school-parent checklist"
+            "December school-parent checklist",
+            "Roblox parental controls: link your account and set chat, spending and screen time"
           ]
         }
       ],
@@ -1635,6 +1639,78 @@
         "h": 720
       },
       "updated": "2026-10-27"
+    },
+    {
+      "path": "/guides/roblox-parental-controls",
+      "group": "guides",
+      "label": "Guide",
+      "title": "Roblox parental controls: link your account and set chat, spending and screen time",
+      "seoTitle": "Roblox parental controls 2026: linked parent account, chat, spending limits and screen time",
+      "summary": "If your child plays Roblox, the most useful thing you can do is link your own Roblox account to theirs. Roblox says a linked parent account lets you manage content, chat, spending and screen time from your own device and get emails about your child's activity. Here's how to set it up, what changes as your child gets older, and the settings worth checking before the holidays.",
+      "steps": [
+        "Link your account: on your child's account go to Settings, then Parental Controls, then Add parent. You'll sign in or create your own Roblox account and verify you're an adult with a government ID or credit card.",
+        "No account of your own? Roblox's Parent mode lets you approve requests on your child's device (with a 6-digit PIN), but it's still rolling out and doesn't include real-time alerts such as spending notifications.",
+        "Check your child's birthday in Parental Controls. Roblox uses age to decide which games and chat features they get.",
+        "Content: set the content maturity level (Minimal, Mild, Moderate) and block any specific games you don't want.",
+        "Chat: choose who your child can chat with. Many chat options need your child to complete an age check, and Roblox says users who haven't done one can't chat at all.",
+        "Spending: set a monthly spending limit and turn on spending notifications. Note that the limit doesn't affect gift card redemption.",
+        "Screen time: set a daily limit in 15-minute steps, and turn on weekly activity update emails.",
+        "Play a game together and show your child how to block and report someone."
+      ],
+      "blocks": [
+        {
+          "h": "What's confirmed (Roblox)",
+          "ul": [
+            "Roblox Kids accounts (ages 5 to 8) have all chat turned off; a linked parent can allow in-game chat where available. Roblox Select accounts (9 to 15) can chat with users in their age group and trusted friends, depending on age and region. The full Roblox experience is for age-checked users 16 and older.",
+            "Age checks use either a government ID or facial age estimation. Parents with a linked account can correct their child's age once after the first check.",
+            "From age 13, the child manages their own screen time limits and blocking, and spending limits no longer apply, though parents can still get spending notifications.",
+            "For teens 16 and older, parents only see notification, spending notification and activity update settings.",
+            "Children under 13 need a parent's permission to add a trusted friend.",
+            "Spending limits can be set from 0 to 10,000 in your local currency, reset at the end of each calendar month and may not apply on some consoles."
+          ]
+        },
+        {
+          "h": "For PTAs",
+          "p": [
+            "Before winter break, many kids get new devices or gift cards for games. A short newsletter note linking to Roblox's parent help pages, plus our new-device parental controls guide, is enough. Keep it neutral: the PTA isn't endorsing or rating the game, just helping families find the settings."
+          ]
+        },
+        {
+          "h": "Sources",
+          "p": [
+            "Roblox Support: Parental Controls Overview — https://en.help.roblox.com/hc/en-us/articles/30428310121620-Parental-Controls-Overview",
+            "Roblox Support: Parents: How to Link Your Account — https://en.help.roblox.com/hc/en-us/articles/30428321333140-Parents-How-to-Link-Your-Account",
+            "Roblox Newsroom: What Families Need to Know About Roblox's New Age-Based Protections (May 20, 2026) — https://about.roblox.com/newsroom/2026/05/what-families-should-know-roblox-kids-select"
+          ]
+        },
+        {
+          "h": "Related",
+          "ul": [
+            "New phone, tablet or console for the holidays? Set up parental controls first",
+            "ChatGPT parental controls: link your teen's account and set quiet hours",
+            "Fake package delivery texts: what parents and teens should know before the holidays",
+            "December school-parent checklist"
+          ]
+        }
+      ],
+      "flag": "Checked against Roblox's help center and newsroom on October 28, 2026. Roblox is rolling out features by region and changes settings often; check the vendor's current help pages before sharing.",
+      "faq": [
+        {
+          "q": "Do I need my own Roblox account?",
+          "a": "For the full controls and email alerts, yes: Roblox's linked parent account. Parent mode on your child's device works without one, but it's rolling out gradually and can't send real-time alerts."
+        },
+        {
+          "q": "Can my 12-year-old chat with adults?",
+          "a": "Roblox says Roblox Select users (9 to 15) chat with users in their age group and with trusted friends, where chat is available, and that children under 13 need a parent's permission to add a trusted friend."
+        }
+      ],
+      "image": {
+        "src": "/images/roblox-parental-controls.webp",
+        "alt": "A parent and a child on a living-room couch, the parent checking settings toggles on a phone while the child plays a blocky building game on a tablet",
+        "w": 1280,
+        "h": 720
+      },
+      "updated": "2026-10-28"
     }
   ],
   "static": [
