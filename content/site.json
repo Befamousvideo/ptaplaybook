@@ -3,7 +3,7 @@
   "domain": "ptaplaybook.com",
   "tagline": "Fundraiser playbooks and school-app sanity for parents",
   "color": "#c2410c",
-  "updated": "October 28, 2026",
+  "updated": "October 29, 2026",
   "description": "Free playbooks, templates and checklists for PTA/PTO volunteers and busy parents: run fundraisers, recruit volunteers, and tame school-app notifications.",
   "nav": [
     {
@@ -676,7 +676,8 @@
         "Winter clothes check: layers, a hat, mittens or gloves, and insulated boots, plus a dry change of clothes in the backpack for younger kids.",
         "Gift check: follow CPSC toy safety basics before wrapping (see Holiday gift check: toy safety rules from CPSC)",
         "Giving a new device? Set up parental controls before you wrap it (see New phone, tablet or console for the holidays? Set up parental controls first)",
-        "New games or devices for the holidays: link a parent account and set chat and spending limits (see Roblox parental controls: link your account and set chat, spending and screen time)"
+        "New games or devices for the holidays: link a parent account and set chat and spending limits (see Roblox parental controls: link your account and set chat, spending and screen time)",
+        "Teen on Instagram? Set up parent supervision, a daily limit and sleep mode (see Instagram Teen Accounts: set up parent supervision before the holidays)"
       ],
       "blocks": [
         {
@@ -710,7 +711,8 @@
             "Freeze your child's credit for free: a parent's step-by-step guide",
             "ChatGPT parental controls: link your teen's account and set quiet hours",
             "Fake package delivery texts: what parents and teens should know before the holidays",
-            "Roblox parental controls: link your account and set chat, spending and screen time"
+            "Roblox parental controls: link your account and set chat, spending and screen time",
+            "Instagram Teen Accounts: set up parent supervision before the holidays"
           ]
         }
       ],
@@ -724,7 +726,7 @@
           "a": "No. Gifts are optional. A specific handwritten note from your child is often the most valued thank-you, and many PTAs cover a building-wide treat so families don't have to."
         }
       ],
-      "updated": "2026-10-28"
+      "updated": "2026-10-29"
     },
     {
       "path": "/guides/daylight-saving-time-sleep",
@@ -1230,7 +1232,8 @@
             "Holiday gift check: toy safety rules from CPSC",
             "ChatGPT parental controls: link your teen's account and set quiet hours",
             "Fake package delivery texts: what parents and teens should know before the holidays",
-            "Roblox parental controls: link your account and set chat, spending and screen time"
+            "Roblox parental controls: link your account and set chat, spending and screen time",
+            "Instagram Teen Accounts: set up parent supervision before the holidays"
           ]
         }
       ],
@@ -1549,7 +1552,8 @@
           "ul": [
             "New phone, tablet or console for the holidays? Set up parental controls first",
             "December school-parent checklist",
-            "Roblox parental controls: link your account and set chat, spending and screen time"
+            "Roblox parental controls: link your account and set chat, spending and screen time",
+            "Instagram Teen Accounts: set up parent supervision before the holidays"
           ]
         }
       ],
@@ -1689,7 +1693,8 @@
             "New phone, tablet or console for the holidays? Set up parental controls first",
             "ChatGPT parental controls: link your teen's account and set quiet hours",
             "Fake package delivery texts: what parents and teens should know before the holidays",
-            "December school-parent checklist"
+            "December school-parent checklist",
+            "Instagram Teen Accounts: set up parent supervision before the holidays"
           ]
         }
       ],
@@ -1711,6 +1716,77 @@
         "h": 720
       },
       "updated": "2026-10-28"
+    },
+    {
+      "path": "/guides/instagram-teen-account-supervision",
+      "group": "guides",
+      "label": "Guide",
+      "title": "Instagram Teen Accounts: set up parent supervision before the holidays",
+      "seoTitle": "Instagram Teen Account supervision 2026: invites, approvals, daily limits and sleep mode",
+      "summary": "Teens on Instagram automatically get Teen Account settings, but parents get the most control by setting up supervision. Once it's on, a parent of a 13 to 15 year old approves any change that makes the account less protective, and can set a daily time limit and sleep mode hours. Here's how to set it up and what to check before winter break and new holiday devices.",
+      "steps": [
+        "Agree on it together. Instagram supervision needs both the teen and the parent to accept: either one sends an invite and the other accepts it.",
+        "Check eligibility: the teen must be 13 to 17 and the parent over 18. Only one parent can supervise a teen's account.",
+        "Send the supervision invite from Instagram, or have your teen send it to you. Invites expire after 7 days.",
+        "No Instagram app? A parent can use instagram.com in a desktop or mobile browser. Make sure your teen's app is updated.",
+        "In Family Center, open your teen's account and decide whether you approve setting changes or let your teen change them without you.",
+        "Under Their time spent, open Manage time limits and set a daily limit. Choose whether your teen gets a reminder or is blocked when they reach it.",
+        "Set sleep mode days and times for school nights, and choose reminder or block.",
+        "Revisit the settings together over winter break, when schedules change."
+      ],
+      "blocks": [
+        {
+          "h": "What's confirmed (Instagram Help Center)",
+          "ul": [
+            "Teens automatically get more protective Teen Account settings.",
+            "With supervision on, parents of teens 13 to 15 approve any change that makes privacy, who the teen can interact with, the content they see or time management tools less protective. Parents are notified when the teen asks.",
+            "If a parent approves a less-protective change, the teen can select that same setting again later without asking.",
+            "By default, Instagram reminds teens to close the app after 1 hour of use in a day, and reminds them to close it from 10 PM to 7 AM every day (sleep mode).",
+            "Parents can change the daily limit and sleep mode, and choose to remind or block. A blocked teen can request extra time for that day.",
+            "If a teen sends supervision invites to more than one person, the first to accept becomes the supervising parent. Parents and teens can't block each other while supervision is on."
+          ]
+        },
+        {
+          "h": "For PTAs",
+          "p": [
+            "Holiday break brings new phones and more free time. A short newsletter note pointing families to Instagram's Family Center help pages, alongside our new-device and ChatGPT guides, is enough. Keep it neutral: the PTA isn't telling families whether their kids should use Instagram, just where the settings are."
+          ]
+        },
+        {
+          "h": "Sources",
+          "p": [
+            "Instagram Help Center: Set up teen supervision on Instagram — https://help.instagram.com/472274307935829",
+            "Instagram Help Center: Supporting your child's Teen Account — https://help.instagram.com/1555818391956130"
+          ]
+        },
+        {
+          "h": "Related",
+          "ul": [
+            "New phone, tablet or console for the holidays? Set up parental controls first",
+            "ChatGPT parental controls: link your teen's account and set quiet hours",
+            "Roblox parental controls: link your account and set chat, spending and screen time",
+            "December school-parent checklist"
+          ]
+        }
+      ],
+      "flag": "Checked against Instagram's help center on October 29, 2026. Meta changes Teen Account features and settings often and some features vary by region; check the vendor's current help pages before sharing.",
+      "faq": [
+        {
+          "q": "Can both parents supervise?",
+          "a": "No. Instagram says only one parent can supervise a teen's account at a time."
+        },
+        {
+          "q": "Does my 16 or 17 year old need my approval to change settings?",
+          "a": "Instagram's help page describes the approval step for less-protective changes for teens 13 to 15. Teens 16 and 17 can also be supervised; check Instagram's help center for what parents can manage at that age."
+        }
+      ],
+      "image": {
+        "src": "/images/instagram-teen-account-supervision.webp",
+        "alt": "A mother and her teenage daughter at a kitchen table in the evening, the mother pointing to settings toggles on her phone while her daughter holds her own phone",
+        "w": 1280,
+        "h": 720
+      },
+      "updated": "2026-10-29"
     }
   ],
   "static": [
