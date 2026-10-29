@@ -1,5 +1,8 @@
 import "./globals.css";
 import site from "../content/site.json";
+import CookieConsent from "./CookieConsent";
+import GoogleAnalytics from "./GoogleAnalytics";
+import { CONSENT_DEFAULTS_SCRIPT } from "./consent-defaults";
 export const metadata = {
   metadataBase: new URL(`https://${site.domain}`),
   title: { default: `${site.name} — ${site.tagline}`, template: `%s | ${site.name}` },
@@ -12,6 +15,7 @@ export default function RootLayout({ children }) {
   return (
     <html lang="en" style={{ "--accent": site.color }}>
       <body>
+        <script dangerouslySetInnerHTML={{ __html: CONSENT_DEFAULTS_SCRIPT }} />
         <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(org) }} />
         <header className="hdr"><div className="wrap row">
           <a href="/" className="logo">{site.name}</a>
@@ -23,6 +27,8 @@ export default function RootLayout({ children }) {
           <p><a href="/about">About</a> · <a href="/methodology">Methodology</a> · <a href="/advertise">Advertise</a> · <a href="/newsletter">Newsletter</a> · <a href="/privacy">Privacy</a> · <a href="/terms">Terms</a> · <a href="/rss.xml">RSS</a></p>
           <p className="muted">© 2026 {site.name}, a StorenTech company. Preview build — content under review.</p>
         </div></footer>
+        <CookieConsent />
+        <GoogleAnalytics />
       </body>
     </html>
   );
