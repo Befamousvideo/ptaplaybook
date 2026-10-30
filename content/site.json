@@ -3,7 +3,7 @@
   "domain": "ptaplaybook.com",
   "tagline": "Fundraiser playbooks and school-app sanity for parents",
   "color": "#c2410c",
-  "updated": "October 29, 2026",
+  "updated": "October 30, 2026",
   "description": "Free playbooks, templates and checklists for PTA/PTO volunteers and busy parents: run fundraisers, recruit volunteers, and tame school-app notifications.",
   "nav": [
     {
@@ -677,7 +677,8 @@
         "Gift check: follow CPSC toy safety basics before wrapping (see Holiday gift check: toy safety rules from CPSC)",
         "Giving a new device? Set up parental controls before you wrap it (see New phone, tablet or console for the holidays? Set up parental controls first)",
         "New games or devices for the holidays: link a parent account and set chat and spending limits (see Roblox parental controls: link your account and set chat, spending and screen time)",
-        "Teen on Instagram? Set up parent supervision, a daily limit and sleep mode (see Instagram Teen Accounts: set up parent supervision before the holidays)"
+        "Teen on Instagram? Set up parent supervision, a daily limit and sleep mode (see Instagram Teen Accounts: set up parent supervision before the holidays)",
+        "Game console under the tree? Set play time, bedtime and spending limits before it's wrapped (see Nintendo Switch and Switch 2 parental controls: set them up before the holidays)"
       ],
       "blocks": [
         {
@@ -712,7 +713,8 @@
             "ChatGPT parental controls: link your teen's account and set quiet hours",
             "Fake package delivery texts: what parents and teens should know before the holidays",
             "Roblox parental controls: link your account and set chat, spending and screen time",
-            "Instagram Teen Accounts: set up parent supervision before the holidays"
+            "Instagram Teen Accounts: set up parent supervision before the holidays",
+            "Nintendo Switch and Switch 2 parental controls: set them up before the holidays"
           ]
         }
       ],
@@ -726,7 +728,7 @@
           "a": "No. Gifts are optional. A specific handwritten note from your child is often the most valued thank-you, and many PTAs cover a building-wide treat so families don't have to."
         }
       ],
-      "updated": "2026-10-29"
+      "updated": "2026-10-30"
     },
     {
       "path": "/guides/daylight-saving-time-sleep",
@@ -1233,7 +1235,8 @@
             "ChatGPT parental controls: link your teen's account and set quiet hours",
             "Fake package delivery texts: what parents and teens should know before the holidays",
             "Roblox parental controls: link your account and set chat, spending and screen time",
-            "Instagram Teen Accounts: set up parent supervision before the holidays"
+            "Instagram Teen Accounts: set up parent supervision before the holidays",
+            "Nintendo Switch and Switch 2 parental controls: set them up before the holidays"
           ]
         }
       ],
@@ -1553,7 +1556,8 @@
             "New phone, tablet or console for the holidays? Set up parental controls first",
             "December school-parent checklist",
             "Roblox parental controls: link your account and set chat, spending and screen time",
-            "Instagram Teen Accounts: set up parent supervision before the holidays"
+            "Instagram Teen Accounts: set up parent supervision before the holidays",
+            "Nintendo Switch and Switch 2 parental controls: set them up before the holidays"
           ]
         }
       ],
@@ -1694,7 +1698,8 @@
             "ChatGPT parental controls: link your teen's account and set quiet hours",
             "Fake package delivery texts: what parents and teens should know before the holidays",
             "December school-parent checklist",
-            "Instagram Teen Accounts: set up parent supervision before the holidays"
+            "Instagram Teen Accounts: set up parent supervision before the holidays",
+            "Nintendo Switch and Switch 2 parental controls: set them up before the holidays"
           ]
         }
       ],
@@ -1765,7 +1770,8 @@
             "New phone, tablet or console for the holidays? Set up parental controls first",
             "ChatGPT parental controls: link your teen's account and set quiet hours",
             "Roblox parental controls: link your account and set chat, spending and screen time",
-            "December school-parent checklist"
+            "December school-parent checklist",
+            "Nintendo Switch and Switch 2 parental controls: set them up before the holidays"
           ]
         }
       ],
@@ -1787,6 +1793,81 @@
         "h": 720
       },
       "updated": "2026-10-29"
+    },
+    {
+      "path": "/guides/nintendo-switch-parental-controls",
+      "group": "guides",
+      "label": "Guide",
+      "title": "Nintendo Switch and Switch 2 parental controls: set them up before the holidays",
+      "seoTitle": "Nintendo Switch 2 and Switch parental controls 2026: play time, bedtime, chat and eShop spending",
+      "summary": "A Nintendo Switch or Switch 2 is on a lot of holiday lists. Nintendo's free Parental Controls app lets you set daily play time and a bedtime alarm, restrict games by age rating, limit chat and get a monthly summary of play. Spending limits live in your Nintendo Account family group, not the app. Here's how to set both up, ideally before the box is wrapped.",
+      "steps": [
+        "Create your own Nintendo Account (you must be 18 or older) and add your child to your family group. Children's accounts are set as supervised; an older child already in the group can be set as supervised.",
+        "Download Nintendo's free Parental Controls app on your phone and link it to the console by following the app's steps. Restrictions take effect once the console connects to the internet.",
+        "Set a daily Play-Time Limit (anywhere from no limit up to 6 hours, and it can vary by day) and, if you like, a bedtime alarm. Choose Suspend Play When Time's Up if you want the game to stop rather than just alert.",
+        "Pick a restriction level (Teen, Pre-Teen or Child presets, based on ESRB ratings) or customize it. Because most settings apply to the whole console, set them for your youngest player.",
+        "Decide on communication: you can restrict communicating with others, and use the allow list to let specific games through.",
+        "Set a PIN (4 to 8 digits) so you can add time or change settings, and don't share it.",
+        "On the Nintendo Account website, open Family group, choose your child's account and tick Spending Restrictions to block purchases, plus Age-Based Content Restrictions for the eShop. Click Save changes.",
+        "On Switch 2, if your child is under 16, decide which friends they may GameChat with. Nintendo requires a parent's involvement, and each video chat needs your approval."
+      ],
+      "blocks": [
+        {
+          "h": "What's confirmed (Nintendo)",
+          "ul": [
+            "The Nintendo Switch Parental Controls app is free and works with both Nintendo Switch 2 and Nintendo Switch. Two parents or guardians can take part through Shared Parental Controls.",
+            "Play-time limits can sound an alarm or suspend the software when time is up, and parents can add time with the PIN. Extensions of 5, 15 or 30 minutes or 1 hour are available.",
+            "A bedtime alarm can be set between 4:00 PM and 11:45 PM, with play allowed again the next morning between 6:00 and 9:00 AM. Whichever limit comes first applies.",
+            "Restriction presets: Teen restricts games rated for 17+, Pre-Teen restricts 13+, and Child restricts games rated E10+ and above, based on ESRB ratings.",
+            "Parents get a monthly summary of play activity.",
+            "GameChat on Nintendo Switch 2 requires a parent's involvement for players under 16, who can only chat with friends the parent approves, and each video chat needs parent approval.",
+            "Nintendo eShop purchase restrictions are set on the Nintendo Account website by a parent/guardian account in the family group: Spending Restrictions disables purchases and auto-renewal on Switch 2, Switch and the Nintendo Store, and Age-Based Content Restrictions limits what shows in the eShop by age.",
+            "Settings carry over with System Transfer when moving from a Switch to a Switch 2."
+          ]
+        },
+        {
+          "h": "For PTAs",
+          "p": [
+            "Consoles are a common holiday gift, and setting limits before the first play is easier than taking them away later. A short newsletter note linking to Nintendo's parental controls page and our new-device guide is enough. Keep it neutral: the PTA isn't recommending a console, just where the settings are."
+          ]
+        },
+        {
+          "h": "Sources",
+          "p": [
+            "Nintendo: Nintendo Switch Parental Controls app — https://www.nintendo.com/us/mobile-apps/parental-controls/",
+            "Nintendo Support: Parental Controls settings for Nintendo Switch — https://en-americas-support.nintendo.com/app/answers/detail/a_id/22447",
+            "Nintendo Support: How to Set Nintendo eShop Restrictions — https://en-americas-support.nintendo.com/app/answers/detail/a_id/22444"
+          ]
+        },
+        {
+          "h": "Related",
+          "ul": [
+            "New phone, tablet or console for the holidays? Set up parental controls first",
+            "Roblox parental controls: link your account and set chat, spending and screen time",
+            "ChatGPT parental controls: link your teen's account and set quiet hours",
+            "Instagram Teen Accounts: set up parent supervision before the holidays",
+            "December school-parent checklist"
+          ]
+        }
+      ],
+      "flag": "Checked against Nintendo's parental controls page and support articles on October 30, 2026. Nintendo updates these features and menus often, and options vary by region; check the vendor's current help pages before sharing.",
+      "faq": [
+        {
+          "q": "Does the app block eShop purchases?",
+          "a": "No. Spending restrictions are set separately on the Nintendo Account website, in your family group, by a parent or guardian account."
+        },
+        {
+          "q": "Can my child still play when the timer runs out?",
+          "a": "By default the console alerts them. Turn on Suspend Play When Time's Up if you want the game to stop."
+        }
+      ],
+      "image": {
+        "src": "/images/nintendo-switch-parental-controls.webp",
+        "alt": "A father on the living room couch checking settings on his phone while his young son plays a handheld game console beside him, with a lit holiday tree in the background",
+        "w": 1280,
+        "h": 720
+      },
+      "updated": "2026-10-30"
     }
   ],
   "static": [
