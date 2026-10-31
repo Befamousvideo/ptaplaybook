@@ -3,7 +3,7 @@
   "domain": "ptaplaybook.com",
   "tagline": "Fundraiser playbooks and school-app sanity for parents",
   "color": "#c2410c",
-  "updated": "October 30, 2026",
+  "updated": "October 31, 2026",
   "description": "Free playbooks, templates and checklists for PTA/PTO volunteers and busy parents: run fundraisers, recruit volunteers, and tame school-app notifications.",
   "nav": [
     {
@@ -678,7 +678,8 @@
         "Giving a new device? Set up parental controls before you wrap it (see New phone, tablet or console for the holidays? Set up parental controls first)",
         "New games or devices for the holidays: link a parent account and set chat and spending limits (see Roblox parental controls: link your account and set chat, spending and screen time)",
         "Teen on Instagram? Set up parent supervision, a daily limit and sleep mode (see Instagram Teen Accounts: set up parent supervision before the holidays)",
-        "Game console under the tree? Set play time, bedtime and spending limits before it's wrapped (see Nintendo Switch and Switch 2 parental controls: set them up before the holidays)"
+        "Game console under the tree? Set play time, bedtime and spending limits before it's wrapped (see Nintendo Switch and Switch 2 parental controls: set them up before the holidays)",
+        "New tablet or phone? Set up YouTube supervision and a Shorts limit in Family Center (see YouTube for kids and teens: supervised accounts, YouTube Kids and Shorts limits)"
       ],
       "blocks": [
         {
@@ -714,7 +715,8 @@
             "Fake package delivery texts: what parents and teens should know before the holidays",
             "Roblox parental controls: link your account and set chat, spending and screen time",
             "Instagram Teen Accounts: set up parent supervision before the holidays",
-            "Nintendo Switch and Switch 2 parental controls: set them up before the holidays"
+            "Nintendo Switch and Switch 2 parental controls: set them up before the holidays",
+            "YouTube for kids and teens: supervised accounts, YouTube Kids and Shorts limits"
           ]
         }
       ],
@@ -728,7 +730,7 @@
           "a": "No. Gifts are optional. A specific handwritten note from your child is often the most valued thank-you, and many PTAs cover a building-wide treat so families don't have to."
         }
       ],
-      "updated": "2026-10-30"
+      "updated": "2026-10-31"
     },
     {
       "path": "/guides/daylight-saving-time-sleep",
@@ -1236,7 +1238,8 @@
             "Fake package delivery texts: what parents and teens should know before the holidays",
             "Roblox parental controls: link your account and set chat, spending and screen time",
             "Instagram Teen Accounts: set up parent supervision before the holidays",
-            "Nintendo Switch and Switch 2 parental controls: set them up before the holidays"
+            "Nintendo Switch and Switch 2 parental controls: set them up before the holidays",
+            "YouTube for kids and teens: supervised accounts, YouTube Kids and Shorts limits"
           ]
         }
       ],
@@ -1557,7 +1560,8 @@
             "December school-parent checklist",
             "Roblox parental controls: link your account and set chat, spending and screen time",
             "Instagram Teen Accounts: set up parent supervision before the holidays",
-            "Nintendo Switch and Switch 2 parental controls: set them up before the holidays"
+            "Nintendo Switch and Switch 2 parental controls: set them up before the holidays",
+            "YouTube for kids and teens: supervised accounts, YouTube Kids and Shorts limits"
           ]
         }
       ],
@@ -1699,7 +1703,8 @@
             "Fake package delivery texts: what parents and teens should know before the holidays",
             "December school-parent checklist",
             "Instagram Teen Accounts: set up parent supervision before the holidays",
-            "Nintendo Switch and Switch 2 parental controls: set them up before the holidays"
+            "Nintendo Switch and Switch 2 parental controls: set them up before the holidays",
+            "YouTube for kids and teens: supervised accounts, YouTube Kids and Shorts limits"
           ]
         }
       ],
@@ -1771,7 +1776,8 @@
             "ChatGPT parental controls: link your teen's account and set quiet hours",
             "Roblox parental controls: link your account and set chat, spending and screen time",
             "December school-parent checklist",
-            "Nintendo Switch and Switch 2 parental controls: set them up before the holidays"
+            "Nintendo Switch and Switch 2 parental controls: set them up before the holidays",
+            "YouTube for kids and teens: supervised accounts, YouTube Kids and Shorts limits"
           ]
         }
       ],
@@ -1846,7 +1852,8 @@
             "Roblox parental controls: link your account and set chat, spending and screen time",
             "ChatGPT parental controls: link your teen's account and set quiet hours",
             "Instagram Teen Accounts: set up parent supervision before the holidays",
-            "December school-parent checklist"
+            "December school-parent checklist",
+            "YouTube for kids and teens: supervised accounts, YouTube Kids and Shorts limits"
           ]
         }
       ],
@@ -1868,6 +1875,81 @@
         "h": 720
       },
       "updated": "2026-10-30"
+    },
+    {
+      "path": "/guides/youtube-supervised-accounts",
+      "group": "guides",
+      "label": "Guide",
+      "title": "YouTube for kids and teens: supervised accounts, YouTube Kids and Shorts limits",
+      "seoTitle": "YouTube parental controls 2026: YouTube Kids vs supervised kid and teen accounts, Shorts limits and bedtime reminders",
+      "summary": "New tablets and phones mean a lot of YouTube over the holidays. YouTube gives families three choices: the separate YouTube Kids app, a supervised kid account for children under 13, and an optional supervised teen account that parent and teen link together. Each lets you pick a content level and manage screen time, including a daily limit on scrolling Shorts. Here's how to choose and set it up in Family Center.",
+      "steps": [
+        "Pick the option that fits your child. YouTube Kids is a separate app with a smaller set of videos, where you can even handpick exactly what they watch. A supervised kid account (under 13) uses the main YouTube app with a content setting you choose. A supervised teen account is optional and lets you see channel activity and set limits.",
+        "For a child under 13 on your own device: sign in to the YouTube app, go to Settings > Family Center and choose Add a kid account. Your child doesn't need their own Google Account for this, though they do need one for YouTube Music.",
+        "For a child with their own device: create a Google Account for them first, then set up supervision from families.youtube.com, the Family Link app, or by signing in to YouTube on their device with their linked account and entering your password.",
+        "Choose a content setting: Older kids (generally 9+), Teens (generally 13+) or Older teens (generally 16+). Age-restricted videos stay unavailable to anyone under 18.",
+        "In Family Center, open your child's profile and go to Time management to set a daily Shorts feed limit and take-a-break or bedtime reminders.",
+        "For a teen: either of you can send an invitation in Family Center (Settings > Family Center > Invite a teen or Invite a parent). Both of you must agree, and either can turn supervision off later.",
+        "Talk with your teen about what you'll see: you get counts and channel info, such as uploads, live streams, comments and subscriptions, and email alerts when they post or go live, not their full watch history."
+      ],
+      "blocks": [
+        {
+          "h": "What's confirmed (YouTube Help)",
+          "ul": [
+            "YouTube Kids content settings are Preschool (4 and under), Younger (5 to 8) and Older (9 to 12), and parents can handpick the exact videos a child can watch.",
+            "Supervised kid accounts are parent-managed accounts for kids under 13 (or the relevant age where you live), with a parent-chosen content setting, and parents can block channels.",
+            "Teens with a supervised teen account are placed in a content setting by age, Teens for 13 to 15 and Older teens for 16 and 17, and only a linked parent can change it.",
+            "In Family Center, parents can set a daily Shorts feed limit. When it's reached, the Shorts feed is blocked for the rest of the day and the limit resets each morning.",
+            "Take-a-break and bedtime reminders can be set for supervised teens. The take-a-break timer resets if the teen closes the app, signs out, switches devices or pauses for more than 30 minutes, and doesn't run for offline videos or casting.",
+            "With a supervised teen account, parents can see the channels their teen owns or uploads to, and how many videos, live streams, comments and subscriptions they have. Email notifications are on by default and can be turned off.",
+            "Teen supervision needs both parent and teen to agree to link accounts, and either can turn it off at any time."
+          ]
+        },
+        {
+          "h": "For PTAs",
+          "p": [
+            "A short note in the December newsletter can point families to YouTube's Family Center and our new-device guide. Keep it neutral: the PTA isn't telling families which option to choose, just where the settings live."
+          ]
+        },
+        {
+          "h": "Sources",
+          "p": [
+            "YouTube Help: Understand your choices as a family — https://support.google.com/youtube/answer/10315420",
+            "YouTube Help: Set up supervised kid accounts — https://support.google.com/youtube/answer/10314074",
+            "YouTube Help: Supervised teen account — https://support.google.com/youtube/answer/15253498",
+            "YouTube Help: Teen supervision features in Family Center — https://support.google.com/youtube/answer/15190245"
+          ]
+        },
+        {
+          "h": "Related",
+          "ul": [
+            "New phone, tablet or console for the holidays? Set up parental controls first",
+            "Instagram Teen Accounts: set up parent supervision before the holidays",
+            "Roblox parental controls: link your account and set chat, spending and screen time",
+            "Nintendo Switch and Switch 2 parental controls: set them up before the holidays",
+            "ChatGPT parental controls: link your teen's account and set quiet hours",
+            "December school-parent checklist"
+          ]
+        }
+      ],
+      "flag": "Checked against YouTube's Help Center pages on October 31, 2026. YouTube changes these features, menus and age rules often, and options vary by country and device; check the vendor's current help pages before sharing.",
+      "faq": [
+        {
+          "q": "Can I see everything my teen watches?",
+          "a": "Not with a supervised teen account. YouTube shows parents channel activity, such as uploads, live streams, comment and subscription counts, and lets you set content and time limits."
+        },
+        {
+          "q": "Does my child need a Google Account?",
+          "a": "Not for YouTube Kids or a supervised kid account set up on a parent's device. A child using YouTube on their own device needs a Google Account linked to yours."
+        }
+      ],
+      "image": {
+        "src": "/images/youtube-supervised-accounts.webp",
+        "alt": "A parent and a young boy on a living room couch looking at a tablet together, the parent pointing to a settings screen beside a grid of colorful video thumbnails",
+        "w": 1280,
+        "h": 720
+      },
+      "updated": "2026-10-31"
     }
   ],
   "static": [
