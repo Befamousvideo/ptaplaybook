@@ -3,7 +3,7 @@
   "domain": "ptaplaybook.com",
   "tagline": "Fundraiser playbooks and school-app sanity for parents",
   "color": "#c2410c",
-  "updated": "October 31, 2026",
+  "updated": "November 1, 2026",
   "description": "Free playbooks, templates and checklists for PTA/PTO volunteers and busy parents: run fundraisers, recruit volunteers, and tame school-app notifications.",
   "nav": [
     {
@@ -679,7 +679,8 @@
         "New games or devices for the holidays: link a parent account and set chat and spending limits (see Roblox parental controls: link your account and set chat, spending and screen time)",
         "Teen on Instagram? Set up parent supervision, a daily limit and sleep mode (see Instagram Teen Accounts: set up parent supervision before the holidays)",
         "Game console under the tree? Set play time, bedtime and spending limits before it's wrapped (see Nintendo Switch and Switch 2 parental controls: set them up before the holidays)",
-        "New tablet or phone? Set up YouTube supervision and a Shorts limit in Family Center (see YouTube for kids and teens: supervised accounts, YouTube Kids and Shorts limits)"
+        "New tablet or phone? Set up YouTube supervision and a Shorts limit in Family Center (see YouTube for kids and teens: supervised accounts, YouTube Kids and Shorts limits)",
+        "Fortnite on the wish list? Set an Epic parental PIN for chat, friends and purchases before the box is opened (see Fortnite and Epic Games parental controls: Cabined Accounts, PIN, chat and spending)"
       ],
       "blocks": [
         {
@@ -716,7 +717,8 @@
             "Roblox parental controls: link your account and set chat, spending and screen time",
             "Instagram Teen Accounts: set up parent supervision before the holidays",
             "Nintendo Switch and Switch 2 parental controls: set them up before the holidays",
-            "YouTube for kids and teens: supervised accounts, YouTube Kids and Shorts limits"
+            "YouTube for kids and teens: supervised accounts, YouTube Kids and Shorts limits",
+            "Fortnite and Epic Games parental controls: Cabined Accounts, PIN, chat and spending"
           ]
         }
       ],
@@ -730,7 +732,7 @@
           "a": "No. Gifts are optional. A specific handwritten note from your child is often the most valued thank-you, and many PTAs cover a building-wide treat so families don't have to."
         }
       ],
-      "updated": "2026-10-31"
+      "updated": "2026-11-01"
     },
     {
       "path": "/guides/daylight-saving-time-sleep",
@@ -1239,7 +1241,8 @@
             "Roblox parental controls: link your account and set chat, spending and screen time",
             "Instagram Teen Accounts: set up parent supervision before the holidays",
             "Nintendo Switch and Switch 2 parental controls: set them up before the holidays",
-            "YouTube for kids and teens: supervised accounts, YouTube Kids and Shorts limits"
+            "YouTube for kids and teens: supervised accounts, YouTube Kids and Shorts limits",
+            "Fortnite and Epic Games parental controls: Cabined Accounts, PIN, chat and spending"
           ]
         }
       ],
@@ -1704,7 +1707,8 @@
             "December school-parent checklist",
             "Instagram Teen Accounts: set up parent supervision before the holidays",
             "Nintendo Switch and Switch 2 parental controls: set them up before the holidays",
-            "YouTube for kids and teens: supervised accounts, YouTube Kids and Shorts limits"
+            "YouTube for kids and teens: supervised accounts, YouTube Kids and Shorts limits",
+            "Fortnite and Epic Games parental controls: Cabined Accounts, PIN, chat and spending"
           ]
         }
       ],
@@ -1853,7 +1857,8 @@
             "ChatGPT parental controls: link your teen's account and set quiet hours",
             "Instagram Teen Accounts: set up parent supervision before the holidays",
             "December school-parent checklist",
-            "YouTube for kids and teens: supervised accounts, YouTube Kids and Shorts limits"
+            "YouTube for kids and teens: supervised accounts, YouTube Kids and Shorts limits",
+            "Fortnite and Epic Games parental controls: Cabined Accounts, PIN, chat and spending"
           ]
         }
       ],
@@ -1928,7 +1933,8 @@
             "Roblox parental controls: link your account and set chat, spending and screen time",
             "Nintendo Switch and Switch 2 parental controls: set them up before the holidays",
             "ChatGPT parental controls: link your teen's account and set quiet hours",
-            "December school-parent checklist"
+            "December school-parent checklist",
+            "Fortnite and Epic Games parental controls: Cabined Accounts, PIN, chat and spending"
           ]
         }
       ],
@@ -1950,6 +1956,81 @@
         "h": 720
       },
       "updated": "2026-10-31"
+    },
+    {
+      "path": "/guides/fortnite-epic-parental-controls",
+      "group": "guides",
+      "label": "Guide",
+      "title": "Fortnite and Epic Games parental controls: Cabined Accounts, PIN, chat and spending",
+      "seoTitle": "Fortnite parental controls 2026: Epic Cabined Accounts, parental PIN, chat, friend requests and spending limits",
+      "summary": "Fortnite is one of the games kids most often ask for over the holidays. Epic Games puts younger players in a limited \"Cabined Account\" until a parent gives consent, and lets parents set a 6-digit PIN that controls chat, friend requests, purchases and which experiences their child can play. Here's what's on by default and how to set it up before the new console or PC comes out of the box.",
+      "steps": [
+        "Know the starting point. If your child is under 13 (or your country's age of digital consent), Epic makes their account a Cabined Account, with voice and text chat, real-money purchases and some other features off until you consent.",
+        "Watch for Epic's parental consent email. If it didn't arrive, your child can resend it from Request Parental Permission in their Epic account.",
+        "Set a 6-digit Parental Controls PIN, either at epicgames.com/account/parental-controls while signed in to your child's account, or in Fortnite under SET UP PARENTAL CONTROLS. Use a PIN your child doesn't know.",
+        "Choose chat settings: who your child can voice and text chat with, or turn chat off.",
+        "Turn on the PIN requirement for friend requests if you want to approve who they add.",
+        "Set the PIN requirement for Epic purchases. Console store and Steam purchases are controlled by that platform's own parental controls, so set those too.",
+        "Pick the Fortnite content rating your child can play. Experiences rated above it need the PIN.",
+        "Turn on playtime report emails if you want a simple view of how much they're playing."
+      ],
+      "blocks": [
+        {
+          "h": "What's confirmed (Epic Games)",
+          "ul": [
+            "Cabined Accounts apply to players Epic determines are under 13, or under the age of digital consent in their country.",
+            "Until a parent consents, a Cabined Account has voice and text chat, real-money purchases, non-Epic games, personalized recommendations, marketing emails, Sign in with Epic and account linking, custom display names and SMS two-factor authentication turned off.",
+            "Parents manage controls with a 6-digit PIN, set on the Epic account's Parental Controls page or in Fortnite.",
+            "The PIN can be required to add friends and to make purchases through Epic. That purchase PIN doesn't cover console or Steam purchases, or spending V-Bucks a child already has.",
+            "Accounts for players under 13 have a daily spending limit set by Epic, which a parent can override with the PIN.",
+            "Fortnite experiences carry content ratings, and parents can limit play to a chosen rating, with the PIN needed for anything higher.",
+            "Parents can receive playtime reports by email."
+          ]
+        },
+        {
+          "h": "For PTAs",
+          "p": [
+            "A one-line note in the December newsletter can point families to Epic's parental controls page and our new-device guide. Keep it neutral: the PTA isn't judging the game, just showing where the settings are."
+          ]
+        },
+        {
+          "h": "Sources",
+          "p": [
+            "Epic Games Safety: Cabined Accounts — https://safety.epicgames.com/en-US/cabined-accounts",
+            "Epic Games Safety: Parental controls — https://safety.epicgames.com/parental-controls",
+            "Epic Games Help: How do I set up parental controls for Fortnite? — https://www.epicgames.com/help/en-US/c-Category_Fortnite/c-Fortnite_Accounts/how-do-i-set-up-parental-controls-for-fortnite-a000084812",
+            "Epic Games Help: How do I set up parental controls through the Epic Games account? — https://www.epicgames.com/help/c-202300000001645/c-202300000001750/how-do-i-set-up-parental-controls-through-the-epic-games-account-a202300000018215"
+          ]
+        },
+        {
+          "h": "Related",
+          "ul": [
+            "New phone, tablet or console for the holidays? Set up parental controls first",
+            "Roblox parental controls: link your account and set chat, spending and screen time",
+            "Nintendo Switch and Switch 2 parental controls: set them up before the holidays",
+            "YouTube for kids and teens: supervised accounts, YouTube Kids and Shorts limits",
+            "December school-parent checklist"
+          ]
+        }
+      ],
+      "flag": "Checked against Epic Games' safety and help pages on November 1, 2026. Epic changes these settings, limits and age rules often, and options vary by country and platform; check the vendor's current help pages before sharing.",
+      "faq": [
+        {
+          "q": "Does the Epic PIN stop purchases on PlayStation, Xbox or Switch?",
+          "a": "No. Purchases made through a console store or Steam follow that platform's own parental controls, so set those up too."
+        },
+        {
+          "q": "My child is over 13. Can I still set controls?",
+          "a": "Yes. Any account can have a Parental Controls PIN. The Cabined Account defaults only apply to younger players."
+        }
+      ],
+      "image": {
+        "src": "/images/epic-fortnite-parental-controls.webp",
+        "alt": "A mother sitting on a living room rug checking a settings screen on her phone while her son holds a game controller in front of a TV showing a colorful cartoon game, with a lit holiday tree behind them",
+        "w": 1280,
+        "h": 720
+      },
+      "updated": "2026-11-01"
     }
   ],
   "static": [
