@@ -3,7 +3,7 @@
   "domain": "ptaplaybook.com",
   "tagline": "Fundraiser playbooks and school-app sanity for parents",
   "color": "#c2410c",
-  "updated": "November 1, 2026",
+  "updated": "November 2, 2026",
   "description": "Free playbooks, templates and checklists for PTA/PTO volunteers and busy parents: run fundraisers, recruit volunteers, and tame school-app notifications.",
   "nav": [
     {
@@ -680,7 +680,8 @@
         "Teen on Instagram? Set up parent supervision, a daily limit and sleep mode (see Instagram Teen Accounts: set up parent supervision before the holidays)",
         "Game console under the tree? Set play time, bedtime and spending limits before it's wrapped (see Nintendo Switch and Switch 2 parental controls: set them up before the holidays)",
         "New tablet or phone? Set up YouTube supervision and a Shorts limit in Family Center (see YouTube for kids and teens: supervised accounts, YouTube Kids and Shorts limits)",
-        "Fortnite on the wish list? Set an Epic parental PIN for chat, friends and purchases before the box is opened (see Fortnite and Epic Games parental controls: Cabined Accounts, PIN, chat and spending)"
+        "Fortnite on the wish list? Set an Epic parental PIN for chat, friends and purchases before the box is opened (see Fortnite and Epic Games parental controls: Cabined Accounts, PIN, chat and spending)",
+        "New iPhone or iPad under the tree? Set up a Child Account and Ask to Buy before it's unwrapped (see iPhone and iPad parental controls: Screen Time, Ask to Buy and Ask to Browse)"
       ],
       "blocks": [
         {
@@ -718,7 +719,8 @@
             "Instagram Teen Accounts: set up parent supervision before the holidays",
             "Nintendo Switch and Switch 2 parental controls: set them up before the holidays",
             "YouTube for kids and teens: supervised accounts, YouTube Kids and Shorts limits",
-            "Fortnite and Epic Games parental controls: Cabined Accounts, PIN, chat and spending"
+            "Fortnite and Epic Games parental controls: Cabined Accounts, PIN, chat and spending",
+            "iPhone and iPad parental controls: Screen Time, Ask to Buy and Ask to Browse"
           ]
         }
       ],
@@ -732,7 +734,7 @@
           "a": "No. Gifts are optional. A specific handwritten note from your child is often the most valued thank-you, and many PTAs cover a building-wide treat so families don't have to."
         }
       ],
-      "updated": "2026-11-01"
+      "updated": "2026-11-02"
     },
     {
       "path": "/guides/daylight-saving-time-sleep",
@@ -1242,7 +1244,8 @@
             "Instagram Teen Accounts: set up parent supervision before the holidays",
             "Nintendo Switch and Switch 2 parental controls: set them up before the holidays",
             "YouTube for kids and teens: supervised accounts, YouTube Kids and Shorts limits",
-            "Fortnite and Epic Games parental controls: Cabined Accounts, PIN, chat and spending"
+            "Fortnite and Epic Games parental controls: Cabined Accounts, PIN, chat and spending",
+            "iPhone and iPad parental controls: Screen Time, Ask to Buy and Ask to Browse"
           ]
         }
       ],
@@ -1934,7 +1937,8 @@
             "Nintendo Switch and Switch 2 parental controls: set them up before the holidays",
             "ChatGPT parental controls: link your teen's account and set quiet hours",
             "December school-parent checklist",
-            "Fortnite and Epic Games parental controls: Cabined Accounts, PIN, chat and spending"
+            "Fortnite and Epic Games parental controls: Cabined Accounts, PIN, chat and spending",
+            "iPhone and iPad parental controls: Screen Time, Ask to Buy and Ask to Browse"
           ]
         }
       ],
@@ -2009,7 +2013,8 @@
             "Roblox parental controls: link your account and set chat, spending and screen time",
             "Nintendo Switch and Switch 2 parental controls: set them up before the holidays",
             "YouTube for kids and teens: supervised accounts, YouTube Kids and Shorts limits",
-            "December school-parent checklist"
+            "December school-parent checklist",
+            "iPhone and iPad parental controls: Screen Time, Ask to Buy and Ask to Browse"
           ]
         }
       ],
@@ -2031,6 +2036,79 @@
         "h": 720
       },
       "updated": "2026-11-01"
+    },
+    {
+      "path": "/guides/apple-screen-time-ask-to-buy",
+      "group": "guides",
+      "label": "Guide",
+      "title": "iPhone and iPad parental controls: Screen Time, Ask to Buy and Ask to Browse",
+      "seoTitle": "iPhone and iPad parental controls 2026: Apple Screen Time, Family Sharing, Ask to Buy and Ask to Browse",
+      "summary": "A new iPhone or iPad is one of the most common holiday gifts for kids. Apple's parental controls live in Screen Time and work best when your child has their own Child Account in your Family Sharing group. Then you can approve app downloads and purchases with Ask to Buy, approve websites with Ask to Browse, and set limits, all from your own phone. Set it up before the box is opened.",
+      "steps": [
+        "Set up Family Sharing on your own device if you haven't already.",
+        "Create a Child Account for your child, so they have their own Apple Account and aren't sharing yours or a sibling's. Add it to your Family Sharing group.",
+        "Update your devices. Apple's newest parental controls come with iOS 27 and iPadOS 27, and Apple has a guide to upgrading to them.",
+        "Make sure you (and any other parent or guardian) are in your child's contacts, so their approval requests can reach you.",
+        "Turn on Ask to Buy: on your iPhone or iPad, open Settings > Family > your child's name > Apps & Websites > Restrictions > Ask to Buy, then turn on Require Purchase Approval.",
+        "Choose website filtering: in the same Restrictions screen, tap Filtering under Websites and pick Limit Adult Websites, or Approved Websites Only to use Ask to Browse. Allow school websites ahead of time.",
+        "Review App Store settings and the rest of Screen Time, such as when your child can use the device and who they can communicate with.",
+        "If another adult should approve requests, the Family Sharing organizer can set them as a Parent/Guardian."
+      ],
+      "blocks": [
+        {
+          "h": "What's confirmed (Apple Support)",
+          "ul": [
+            "Screen Time parental controls cover which apps and websites your child can access, who they communicate with and when they can use their device.",
+            "Apple says your child should have their own Apple Account in your Family Sharing group, not share an account with anyone else.",
+            "Ask to Buy and Ask to Browse are on by default for children under 13, and Limit Adult Websites is on by default for children under 18. In some places Ask to Buy is on by default and can't be turned off for children under 18.",
+            "With Ask to Buy, your child must ask before downloading or buying an app or making an in-app purchase, regardless of the app's age rating.",
+            "Ask to Buy doesn't send a request when a child redownloads their own purchase, installs an update or uses a redemption code, so gift cards can be spent without a request.",
+            "If you dismiss a request or don't approve it within 24 hours, your child has to ask again. Missed requests can be found in Messages.",
+            "Parents can approve requests from an iPhone, iPad, Mac or Apple Watch."
+          ]
+        },
+        {
+          "h": "For PTAs",
+          "p": [
+            "A short line in the December newsletter can point families to Apple's parental controls page and our new-device guide. Keep it neutral and practical: where the settings are, not which devices kids should have."
+          ]
+        },
+        {
+          "h": "Sources",
+          "p": [
+            "Apple Support: Set up parental controls to manage your child's iPhone or iPad — https://support.apple.com/en-us/105121",
+            "Apple Support: Approve what your child can purchase and download with Ask to Buy — https://support.apple.com/en-us/105055"
+          ]
+        },
+        {
+          "h": "Related",
+          "ul": [
+            "New phone, tablet or console for the holidays? Set up parental controls first",
+            "YouTube for kids and teens: supervised accounts, YouTube Kids and Shorts limits",
+            "Fortnite and Epic Games parental controls: Cabined Accounts, PIN, chat and spending",
+            "ChatGPT parental controls: link your teen's account and set quiet hours",
+            "December school-parent checklist"
+          ]
+        }
+      ],
+      "flag": "Checked against Apple Support pages on November 2, 2026. Apple changes these settings with each software update, and defaults vary by country, region and the child's age; check Apple's current support pages before sharing.",
+      "faq": [
+        {
+          "q": "Can my child spend an App Store gift card without asking?",
+          "a": "Using a redemption code doesn't trigger an Ask to Buy request, according to Apple. Purchases made with the balance still follow your Ask to Buy settings, so check how they're set."
+        },
+        {
+          "q": "Do I need my own iPhone to manage this?",
+          "a": "Apple's steps use your own iPhone, iPad or Mac as the Family Sharing organizer or a parent/guardian."
+        }
+      ],
+      "image": {
+        "src": "/images/apple-screen-time-ask-to-buy.webp",
+        "alt": "A father at a kitchen table holding up a phone showing a settings screen while his daughter unwraps a new tablet from a white box, with wrapping paper on the table and a lit holiday tree behind them",
+        "w": 1280,
+        "h": 720
+      },
+      "updated": "2026-11-02"
     }
   ],
   "static": [
