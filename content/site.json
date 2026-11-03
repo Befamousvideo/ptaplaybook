@@ -3,7 +3,7 @@
   "domain": "ptaplaybook.com",
   "tagline": "Fundraiser playbooks and school-app sanity for parents",
   "color": "#c2410c",
-  "updated": "November 2, 2026",
+  "updated": "November 3, 2026",
   "description": "Free playbooks, templates and checklists for PTA/PTO volunteers and busy parents: run fundraisers, recruit volunteers, and tame school-app notifications.",
   "nav": [
     {
@@ -681,7 +681,8 @@
         "Game console under the tree? Set play time, bedtime and spending limits before it's wrapped (see Nintendo Switch and Switch 2 parental controls: set them up before the holidays)",
         "New tablet or phone? Set up YouTube supervision and a Shorts limit in Family Center (see YouTube for kids and teens: supervised accounts, YouTube Kids and Shorts limits)",
         "Fortnite on the wish list? Set an Epic parental PIN for chat, friends and purchases before the box is opened (see Fortnite and Epic Games parental controls: Cabined Accounts, PIN, chat and spending)",
-        "New iPhone or iPad under the tree? Set up a Child Account and Ask to Buy before it's unwrapped (see iPhone and iPad parental controls: Screen Time, Ask to Buy and Ask to Browse)"
+        "New iPhone or iPad under the tree? Set up a Child Account and Ask to Buy before it's unwrapped (see iPhone and iPad parental controls: Screen Time, Ask to Buy and Ask to Browse)",
+        "New Android tablet or Chromebook under the tree? Set up Google Family Link before it's unwrapped (see Google Family Link parental controls for Android and Chromebook holiday gifts)"
       ],
       "blocks": [
         {
@@ -720,7 +721,8 @@
             "Nintendo Switch and Switch 2 parental controls: set them up before the holidays",
             "YouTube for kids and teens: supervised accounts, YouTube Kids and Shorts limits",
             "Fortnite and Epic Games parental controls: Cabined Accounts, PIN, chat and spending",
-            "iPhone and iPad parental controls: Screen Time, Ask to Buy and Ask to Browse"
+            "iPhone and iPad parental controls: Screen Time, Ask to Buy and Ask to Browse",
+            "Google Family Link parental controls for Android and Chromebook holiday gifts"
           ]
         }
       ],
@@ -734,7 +736,7 @@
           "a": "No. Gifts are optional. A specific handwritten note from your child is often the most valued thank-you, and many PTAs cover a building-wide treat so families don't have to."
         }
       ],
-      "updated": "2026-11-02"
+      "updated": "2026-11-03"
     },
     {
       "path": "/guides/daylight-saving-time-sleep",
@@ -1245,7 +1247,8 @@
             "Nintendo Switch and Switch 2 parental controls: set them up before the holidays",
             "YouTube for kids and teens: supervised accounts, YouTube Kids and Shorts limits",
             "Fortnite and Epic Games parental controls: Cabined Accounts, PIN, chat and spending",
-            "iPhone and iPad parental controls: Screen Time, Ask to Buy and Ask to Browse"
+            "iPhone and iPad parental controls: Screen Time, Ask to Buy and Ask to Browse",
+            "Google Family Link parental controls for Android and Chromebook holiday gifts"
           ]
         }
       ],
@@ -1938,7 +1941,8 @@
             "ChatGPT parental controls: link your teen's account and set quiet hours",
             "December school-parent checklist",
             "Fortnite and Epic Games parental controls: Cabined Accounts, PIN, chat and spending",
-            "iPhone and iPad parental controls: Screen Time, Ask to Buy and Ask to Browse"
+            "iPhone and iPad parental controls: Screen Time, Ask to Buy and Ask to Browse",
+            "Google Family Link parental controls for Android and Chromebook holiday gifts"
           ]
         }
       ],
@@ -2087,7 +2091,8 @@
             "YouTube for kids and teens: supervised accounts, YouTube Kids and Shorts limits",
             "Fortnite and Epic Games parental controls: Cabined Accounts, PIN, chat and spending",
             "ChatGPT parental controls: link your teen's account and set quiet hours",
-            "December school-parent checklist"
+            "December school-parent checklist",
+            "Google Family Link parental controls for Android and Chromebook holiday gifts"
           ]
         }
       ],
@@ -2109,6 +2114,88 @@
         "h": 720
       },
       "updated": "2026-11-02"
+    },
+    {
+      "path": "/guides/google-family-link-parental-controls",
+      "group": "guides",
+      "label": "Guide",
+      "title": "Google Family Link parental controls for Android and Chromebook holiday gifts",
+      "seoTitle": "Google Family Link parental controls 2026: Android and Chromebook holiday setup",
+      "summary": "If an Android tablet, phone or Chromebook is under the tree, Google Family Link is the main way to supervise a child's Google Account on those devices. You can manage apps, Google Play content, screen time and Chrome filters from the Family Link app. Set it up before the gift is unwrapped, and know what Family Link does not cover.",
+      "steps": [
+        "Install the Family Link app on your own phone or tablet (Android 6.0+, iPhone/iPad on a supported iOS version, or a Chromebook that supports Android apps). You can also manage some settings at familylink.google.com.",
+        "Create a Google Account for your child under 13 (or the age that applies where you live), or add supervision to their existing Google Account, following Google's Family Link setup flow.",
+        "On the child's Android device (6.0+) or Chromebook (Chrome OS 71+), make sure they are signed in with that supervised Google Account.",
+        "In Family Link, open your child, then Controls > Google Play. Set content filters for apps and games, movies, TV and books, and review purchase approval settings.",
+        "Open Screen time > Time limits. Turn on Daily limit, set a weekly schedule, and optionally set bedtime or downtime so the device locks when time is up.",
+        "Open Controls > Google Chrome and Web. Choose Allow all sites, Try to block explicit sites, or Only allow approved sites, and add any school sites you want on the approved list.",
+        "Review account privacy settings under Controls > Account settings, and decide whether your child can change activity controls themselves.",
+        "Test: try installing a restricted app, opening a blocked site, and hitting the daily limit so you know requests and locks work before December mornings get busy."
+      ],
+      "blocks": [
+        {
+          "h": "What's confirmed (Google For Families Help)",
+          "ul": [
+            "Family Link can create a Google Account for a child under 13 (or the applicable age) or add supervision to an existing account.",
+            "Supervised devices for screen time and app management are Android (6.0+), Chromebooks on Chrome OS 71+, and compatible Fitbit devices for some features.",
+            "Parents can manage apps, Google Play maturity filters, screen time limits, location on Android or compatible Fitbit, and Chrome site filters.",
+            "When a daily limit locks the device, the child generally cannot use apps (except those you mark as unlimited) but can still make emergency calls on phones with a calling plan.",
+            "Incognito mode is turned off in Chrome when the child is signed in with a Family Link-managed account.",
+            "On Windows, Mac, Linux, iPhone and iPad, a child can sign out of Chrome or use another browser, and Family Link Chrome settings will not apply in those other profiles or browsers."
+          ]
+        },
+        {
+          "h": "Limits to state clearly",
+          "ul": [
+            "Family Link does not supervise iPhones, iPads, or computers other than Chromebooks.",
+            "Google Workspace for Education accounts cannot be managed by Family Link.",
+            "Family Link purchase approval settings only apply to purchases made through Google Play's billing system, not every app's own payment method.",
+            "Content restrictions do not remove restricted titles from every search result or direct link; Google notes filters are not perfect."
+          ]
+        },
+        {
+          "h": "For PTAs",
+          "p": [
+            "A short December newsletter line can point families with Android or Chromebook gifts to Google's Family Link setup page and this guide. Keep it practical: which devices Family Link covers, and that Apple devices need Apple's Screen Time instead."
+          ]
+        },
+        {
+          "h": "Sources",
+          "p": [
+            "Google For Families Help: Set up parental controls for your child — https://support.google.com/families/answer/16398726",
+            "Google For Families Help: Manage your child's Google Account with Family Link — https://support.google.com/families/answer/7103262",
+            "Google For Families Help: Manage your child's screen time — https://support.google.com/families/answer/7103340",
+            "Google For Families Help: Chrome & your child's Google Account — https://support.google.com/families/answer/7087030"
+          ]
+        },
+        {
+          "h": "Related",
+          "ul": [
+            "New phone, tablet or console for the holidays? Set up parental controls first",
+            "iPhone and iPad parental controls: Screen Time, Ask to Buy and Ask to Browse",
+            "YouTube for kids and teens: supervised accounts, YouTube Kids and Shorts limits",
+            "December school-parent checklist"
+          ]
+        }
+      ],
+      "flag": "Checked against Google For Families Help pages on November 3, 2026. Google changes Family Link menus and defaults by country and account type; confirm on Google's current support pages before sharing with families.",
+      "faq": [
+        {
+          "q": "Does Family Link work on an iPhone gift?",
+          "a": "No. Google says iPhones, iPads and non-Chromebook computers cannot be supervised with Family Link. Use Apple Screen Time and Family Sharing for those devices."
+        },
+        {
+          "q": "Will Ask to Buy-style approvals cover every in-app purchase?",
+          "a": "Family Link purchase approvals apply to Google Play billing. Purchases that go through another payment system inside an app may not be covered."
+        }
+      ],
+      "image": {
+        "src": "/images/google-family-link-parental-controls.webp",
+        "alt": "A parent and child at a kitchen table with a new Android tablet near a gift box, the parent holding a phone with a generic family controls settings screen and no brand logos",
+        "w": 1280,
+        "h": 720
+      },
+      "updated": "2026-11-03"
     }
   ],
   "static": [
