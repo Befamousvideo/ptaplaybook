@@ -3,7 +3,7 @@
   "domain": "ptaplaybook.com",
   "tagline": "Fundraiser playbooks and school-app sanity for parents",
   "color": "#c2410c",
-  "updated": "November 3, 2026",
+  "updated": "November 4, 2026",
   "description": "Free playbooks, templates and checklists for PTA/PTO volunteers and busy parents: run fundraisers, recruit volunteers, and tame school-app notifications.",
   "nav": [
     {
@@ -398,7 +398,8 @@
             "Report cards arriving? You can ask to review your child's school records and request corrections (see Your right to see your child's school records (FERPA), and how to fix a mistake)",
             "Before holiday forms and new accounts pile up, consider a free credit freeze for kids under 16 (see Freeze your child's credit for free: a parent's step-by-step guide)",
             "New AI apps over break? Link your teen's ChatGPT account and set quiet hours (see ChatGPT parental controls: link your teen's account and set quiet hours)",
-            "Holiday orders are arriving: remind the family not to tap links in delivery texts (see Fake package delivery texts: what parents and teens should know before the holidays)"
+            "Holiday orders are arriving: remind the family not to tap links in delivery texts (see Fake package delivery texts: what parents and teens should know before the holidays)",
+            "Holiday gaming PC or Xbox on the wish list? Preview Microsoft Family Safety setup now (see Microsoft Family Safety for Xbox and Windows holiday gifts)"
           ]
         },
         {
@@ -414,11 +415,12 @@
             "Class holiday parties and food allergies: a PTA planning checklist",
             "Freeze your child's credit for free: a parent's step-by-step guide",
             "ChatGPT parental controls: link your teen's account and set quiet hours",
-            "Fake package delivery texts: what parents and teens should know before the holidays"
+            "Fake package delivery texts: what parents and teens should know before the holidays",
+            "Microsoft Family Safety for Xbox and Windows holiday gifts"
           ]
         }
       ],
-      "updated": "2026-10-27"
+      "updated": "2026-11-04"
     },
     {
       "path": "/pta/fundraisers/giving-tuesday",
@@ -682,7 +684,8 @@
         "New tablet or phone? Set up YouTube supervision and a Shorts limit in Family Center (see YouTube for kids and teens: supervised accounts, YouTube Kids and Shorts limits)",
         "Fortnite on the wish list? Set an Epic parental PIN for chat, friends and purchases before the box is opened (see Fortnite and Epic Games parental controls: Cabined Accounts, PIN, chat and spending)",
         "New iPhone or iPad under the tree? Set up a Child Account and Ask to Buy before it's unwrapped (see iPhone and iPad parental controls: Screen Time, Ask to Buy and Ask to Browse)",
-        "New Android tablet or Chromebook under the tree? Set up Google Family Link before it's unwrapped (see Google Family Link parental controls for Android and Chromebook holiday gifts)"
+        "New Android tablet or Chromebook under the tree? Set up Google Family Link before it's unwrapped (see Google Family Link parental controls for Android and Chromebook holiday gifts)",
+        "New Xbox or Windows PC under the tree? Set up Microsoft Family Safety before it's unwrapped (see Microsoft Family Safety for Xbox and Windows holiday gifts)"
       ],
       "blocks": [
         {
@@ -722,7 +725,8 @@
             "YouTube for kids and teens: supervised accounts, YouTube Kids and Shorts limits",
             "Fortnite and Epic Games parental controls: Cabined Accounts, PIN, chat and spending",
             "iPhone and iPad parental controls: Screen Time, Ask to Buy and Ask to Browse",
-            "Google Family Link parental controls for Android and Chromebook holiday gifts"
+            "Google Family Link parental controls for Android and Chromebook holiday gifts",
+            "Microsoft Family Safety for Xbox and Windows holiday gifts"
           ]
         }
       ],
@@ -736,7 +740,7 @@
           "a": "No. Gifts are optional. A specific handwritten note from your child is often the most valued thank-you, and many PTAs cover a building-wide treat so families don't have to."
         }
       ],
-      "updated": "2026-11-03"
+      "updated": "2026-11-04"
     },
     {
       "path": "/guides/daylight-saving-time-sleep",
@@ -1248,7 +1252,8 @@
             "YouTube for kids and teens: supervised accounts, YouTube Kids and Shorts limits",
             "Fortnite and Epic Games parental controls: Cabined Accounts, PIN, chat and spending",
             "iPhone and iPad parental controls: Screen Time, Ask to Buy and Ask to Browse",
-            "Google Family Link parental controls for Android and Chromebook holiday gifts"
+            "Google Family Link parental controls for Android and Chromebook holiday gifts",
+            "Microsoft Family Safety for Xbox and Windows holiday gifts"
           ]
         }
       ],
@@ -1864,7 +1869,8 @@
             "Instagram Teen Accounts: set up parent supervision before the holidays",
             "December school-parent checklist",
             "YouTube for kids and teens: supervised accounts, YouTube Kids and Shorts limits",
-            "Fortnite and Epic Games parental controls: Cabined Accounts, PIN, chat and spending"
+            "Fortnite and Epic Games parental controls: Cabined Accounts, PIN, chat and spending",
+            "Microsoft Family Safety for Xbox and Windows holiday gifts"
           ]
         }
       ],
@@ -2092,7 +2098,8 @@
             "Fortnite and Epic Games parental controls: Cabined Accounts, PIN, chat and spending",
             "ChatGPT parental controls: link your teen's account and set quiet hours",
             "December school-parent checklist",
-            "Google Family Link parental controls for Android and Chromebook holiday gifts"
+            "Google Family Link parental controls for Android and Chromebook holiday gifts",
+            "Microsoft Family Safety for Xbox and Windows holiday gifts"
           ]
         }
       ],
@@ -2174,7 +2181,8 @@
             "New phone, tablet or console for the holidays? Set up parental controls first",
             "iPhone and iPad parental controls: Screen Time, Ask to Buy and Ask to Browse",
             "YouTube for kids and teens: supervised accounts, YouTube Kids and Shorts limits",
-            "December school-parent checklist"
+            "December school-parent checklist",
+            "Microsoft Family Safety for Xbox and Windows holiday gifts"
           ]
         }
       ],
@@ -2196,6 +2204,91 @@
         "h": 720
       },
       "updated": "2026-11-03"
+    },
+    {
+      "path": "/guides/microsoft-family-safety-xbox-windows",
+      "group": "guides",
+      "label": "Guide",
+      "title": "Microsoft Family Safety for Xbox and Windows holiday gifts",
+      "seoTitle": "Microsoft Family Safety parental controls 2026: Xbox and Windows holiday setup",
+      "summary": "If an Xbox console or Windows PC is under the tree, Microsoft Family Safety is the hub for screen time, content filters, spending limits and activity reporting on those devices. Create a family group, add your child, connect the console or PC, then set limits before the gift is unwrapped. Pair it with the Xbox Family Settings app on your phone for day-of approvals.",
+      "steps": [
+        "Sign in at account.microsoft.com/family and create or open your Microsoft family group as an organizer.",
+        "Invite or add your child as a family member with their own Microsoft account (or create a child account during setup).",
+        "Install the Microsoft Family Safety app on your phone from Google Play or the App Store so you can manage limits on the go.",
+        "On a Windows gift PC: add the child’s Microsoft account under Settings > Accounts > Family & other people, keep the child as a standard user (not administrator), and confirm the device appears under connected devices.",
+        "On an Xbox Series X|S or Xbox One: open the guide, add the child’s Microsoft account, and confirm the console shows as a connected device for that child.",
+        "At family.microsoft.com or in the Family Safety app, open your child and set screen time schedules for Windows and Xbox. Remind kids to sign out of Xbox when they stop playing—time counts while they stay signed in.",
+        "Turn on age-based filters for apps, games and web where available, and review Xbox privacy and online safety (multiplayer, chat, friends) at xbox.com/user/settings/privacy-and-safety or in the Xbox Family Settings app.",
+        "Enable Ask to Buy / spending controls and, if you use it, add spending money to the child’s Microsoft account so purchases need your approval.",
+        "Optional: install the Xbox Family Settings app (iOS 13+ / Android 8+) to approve screen-time and friend requests from your phone in real time.",
+        "Test before December: try launching a restricted game, hitting a screen-time limit, and sending an Ask to Buy request so you know the alerts work."
+      ],
+      "blocks": [
+        {
+          "h": "What's confirmed (Microsoft and Xbox help)",
+          "ul": [
+            "Microsoft says a family group connects people through Family Safety on Windows, Xbox or mobile, and organizers manage limits, permissions and activity reporting.",
+            "Screen time limits apply to connected Windows, Xbox and (for mobile screen time) Android devices in the family group, and can be set in the Family Safety app or at account.microsoft.com/family.",
+            "To enable screen time on Windows or Xbox, the child’s account must be connected to the family group; on Windows the child should be a standard user, not an administrator.",
+            "Xbox Family Settings app manages Xbox Series X|S and Xbox One activities from a parent’s phone, and can apply content and screen-time limits to Windows PCs when the child uses a Microsoft account with an Xbox profile in the family group.",
+            "App and game filters in Family Safety apply on Windows and Xbox; web and search filtering applies in supported browsers."
+          ]
+        },
+        {
+          "h": "Limits to state clearly",
+          "ul": [
+            "Xbox Family Settings does not extend its console controls to mobile gaming experiences.",
+            "Mobile screen time in Family Safety is described for Android devices, not as a full iPhone device lock equivalent to Apple Screen Time.",
+            "Family features may not work correctly if the child’s Windows account is an administrator.",
+            "Menus and available toggles can differ by country, account age and device firmware—confirm on Microsoft’s current support pages before sharing with families."
+          ]
+        },
+        {
+          "h": "For PTAs",
+          "p": [
+            "A short November or December newsletter line can point families expecting Xbox or Windows gifts to Microsoft’s Family Safety setup page and this guide. Mention that Apple devices still need Apple Screen Time, and Android phones may need Google Family Link."
+          ]
+        },
+        {
+          "h": "Sources",
+          "p": [
+            "Microsoft Support: Set up Microsoft Family Safety — https://support.microsoft.com/en-us/family-safety/set-up-microsoft-family-safety",
+            "Microsoft Support: How to connect a device to a Microsoft account — https://support.microsoft.com/en-us/account-billing/how-to-connect-a-device-to-a-microsoft-account-6f961c4e-3295-4db7-b209-2b4c2ca6779c",
+            "Microsoft Support: Set screen time limits across devices — https://support.microsoft.com/en-us/family-safety/set-screen-time-limits-across-devices",
+            "Xbox: Family Settings app — https://www.xbox.com/en-US/apps/family-settings-app",
+            "Xbox: Family hub overview — https://www.xbox.com/en-US/family-hub"
+          ]
+        },
+        {
+          "h": "Related",
+          "ul": [
+            "New phone, tablet or console for the holidays? Set up parental controls first",
+            "Google Family Link parental controls for Android and Chromebook holiday gifts",
+            "iPhone and iPad parental controls: Screen Time, Ask to Buy and Ask to Browse",
+            "Nintendo Switch and Switch 2 parental controls: set them up before the holidays",
+            "December school-parent checklist"
+          ]
+        }
+      ],
+      "flag": "Checked against Microsoft Family Safety and Xbox Family Settings help pages on November 4, 2026. Microsoft changes menus and defaults by country and account type; confirm on Microsoft’s current support pages before sharing with families.",
+      "faq": [
+        {
+          "q": "Does Family Safety replace Apple Screen Time on an iPhone gift?",
+          "a": "No. Use Apple Screen Time and Family Sharing for iPhone and iPad. Family Safety is the Microsoft/Xbox/Windows path; Google Family Link covers most Android and Chromebook gifts."
+        },
+        {
+          "q": "Do I need both Family Safety and the Xbox Family Settings app?",
+          "a": "Start with the family group at account.microsoft.com/family. Add the Xbox Family Settings phone app if you want real-time Ask to Buy, friend and screen-time approvals while kids play on the console."
+        }
+      ],
+      "image": {
+        "src": "/images/microsoft-family-safety-xbox-windows.webp",
+        "alt": "A parent and child on a couch with a new generic game-console gift box and a phone showing a simple family screen-time settings screen with no brand logos",
+        "w": 1280,
+        "h": 720
+      },
+      "updated": "2026-11-04"
     }
   ],
   "static": [
