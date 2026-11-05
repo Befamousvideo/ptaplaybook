@@ -3,7 +3,7 @@
   "domain": "ptaplaybook.com",
   "tagline": "Fundraiser playbooks and school-app sanity for parents",
   "color": "#c2410c",
-  "updated": "November 4, 2026",
+  "updated": "November 5, 2026",
   "description": "Free playbooks, templates and checklists for PTA/PTO volunteers and busy parents: run fundraisers, recruit volunteers, and tame school-app notifications.",
   "nav": [
     {
@@ -399,7 +399,8 @@
             "Before holiday forms and new accounts pile up, consider a free credit freeze for kids under 16 (see Freeze your child's credit for free: a parent's step-by-step guide)",
             "New AI apps over break? Link your teen's ChatGPT account and set quiet hours (see ChatGPT parental controls: link your teen's account and set quiet hours)",
             "Holiday orders are arriving: remind the family not to tap links in delivery texts (see Fake package delivery texts: what parents and teens should know before the holidays)",
-            "Holiday gaming PC or Xbox on the wish list? Preview Microsoft Family Safety setup now (see Microsoft Family Safety for Xbox and Windows holiday gifts)"
+            "Holiday gaming PC or Xbox on the wish list? Preview Microsoft Family Safety setup now (see Microsoft Family Safety for Xbox and Windows holiday gifts)",
+            "PS5 on the wish list? Preview PlayStation family parental controls, chat limits and spending now (see PlayStation PS5 parental controls before a holiday console gift)"
           ]
         },
         {
@@ -416,11 +417,12 @@
             "Freeze your child's credit for free: a parent's step-by-step guide",
             "ChatGPT parental controls: link your teen's account and set quiet hours",
             "Fake package delivery texts: what parents and teens should know before the holidays",
-            "Microsoft Family Safety for Xbox and Windows holiday gifts"
+            "Microsoft Family Safety for Xbox and Windows holiday gifts",
+            "PlayStation PS5 parental controls before a holiday console gift"
           ]
         }
       ],
-      "updated": "2026-11-04"
+      "updated": "2026-11-05"
     },
     {
       "path": "/pta/fundraisers/giving-tuesday",
@@ -685,7 +687,8 @@
         "Fortnite on the wish list? Set an Epic parental PIN for chat, friends and purchases before the box is opened (see Fortnite and Epic Games parental controls: Cabined Accounts, PIN, chat and spending)",
         "New iPhone or iPad under the tree? Set up a Child Account and Ask to Buy before it's unwrapped (see iPhone and iPad parental controls: Screen Time, Ask to Buy and Ask to Browse)",
         "New Android tablet or Chromebook under the tree? Set up Google Family Link before it's unwrapped (see Google Family Link parental controls for Android and Chromebook holiday gifts)",
-        "New Xbox or Windows PC under the tree? Set up Microsoft Family Safety before it's unwrapped (see Microsoft Family Safety for Xbox and Windows holiday gifts)"
+        "New Xbox or Windows PC under the tree? Set up Microsoft Family Safety before it's unwrapped (see Microsoft Family Safety for Xbox and Windows holiday gifts)",
+        "New PS5 under the tree? Set PlayStation family parental controls and a spending limit of $0 before it's unwrapped (see PlayStation PS5 parental controls before a holiday console gift)"
       ],
       "blocks": [
         {
@@ -726,7 +729,8 @@
             "Fortnite and Epic Games parental controls: Cabined Accounts, PIN, chat and spending",
             "iPhone and iPad parental controls: Screen Time, Ask to Buy and Ask to Browse",
             "Google Family Link parental controls for Android and Chromebook holiday gifts",
-            "Microsoft Family Safety for Xbox and Windows holiday gifts"
+            "Microsoft Family Safety for Xbox and Windows holiday gifts",
+            "PlayStation PS5 parental controls before a holiday console gift"
           ]
         }
       ],
@@ -740,7 +744,7 @@
           "a": "No. Gifts are optional. A specific handwritten note from your child is often the most valued thank-you, and many PTAs cover a building-wide treat so families don't have to."
         }
       ],
-      "updated": "2026-11-04"
+      "updated": "2026-11-05"
     },
     {
       "path": "/guides/daylight-saving-time-sleep",
@@ -1253,7 +1257,8 @@
             "Fortnite and Epic Games parental controls: Cabined Accounts, PIN, chat and spending",
             "iPhone and iPad parental controls: Screen Time, Ask to Buy and Ask to Browse",
             "Google Family Link parental controls for Android and Chromebook holiday gifts",
-            "Microsoft Family Safety for Xbox and Windows holiday gifts"
+            "Microsoft Family Safety for Xbox and Windows holiday gifts",
+            "PlayStation PS5 parental controls before a holiday console gift"
           ]
         }
       ],
@@ -1870,7 +1875,8 @@
             "December school-parent checklist",
             "YouTube for kids and teens: supervised accounts, YouTube Kids and Shorts limits",
             "Fortnite and Epic Games parental controls: Cabined Accounts, PIN, chat and spending",
-            "Microsoft Family Safety for Xbox and Windows holiday gifts"
+            "Microsoft Family Safety for Xbox and Windows holiday gifts",
+            "PlayStation PS5 parental controls before a holiday console gift"
           ]
         }
       ],
@@ -2099,7 +2105,8 @@
             "ChatGPT parental controls: link your teen's account and set quiet hours",
             "December school-parent checklist",
             "Google Family Link parental controls for Android and Chromebook holiday gifts",
-            "Microsoft Family Safety for Xbox and Windows holiday gifts"
+            "Microsoft Family Safety for Xbox and Windows holiday gifts",
+            "PlayStation PS5 parental controls before a holiday console gift"
           ]
         }
       ],
@@ -2182,7 +2189,8 @@
             "iPhone and iPad parental controls: Screen Time, Ask to Buy and Ask to Browse",
             "YouTube for kids and teens: supervised accounts, YouTube Kids and Shorts limits",
             "December school-parent checklist",
-            "Microsoft Family Safety for Xbox and Windows holiday gifts"
+            "Microsoft Family Safety for Xbox and Windows holiday gifts",
+            "PlayStation PS5 parental controls before a holiday console gift"
           ]
         }
       ],
@@ -2267,7 +2275,8 @@
             "Google Family Link parental controls for Android and Chromebook holiday gifts",
             "iPhone and iPad parental controls: Screen Time, Ask to Buy and Ask to Browse",
             "Nintendo Switch and Switch 2 parental controls: set them up before the holidays",
-            "December school-parent checklist"
+            "December school-parent checklist",
+            "PlayStation PS5 parental controls before a holiday console gift"
           ]
         }
       ],
@@ -2289,6 +2298,92 @@
         "h": 720
       },
       "updated": "2026-11-04"
+    },
+    {
+      "path": "/guides/playstation-ps5-parental-controls",
+      "group": "guides",
+      "label": "Guide",
+      "title": "PlayStation PS5 parental controls before a holiday console gift",
+      "seoTitle": "PlayStation PS5 parental controls 2026: family setup, spending and chat limits",
+      "summary": "If a PS5 is on the wish list, set up a PlayStation family, add your child’s account, then lock spending, communication, playtime and age levels before the box is opened. Use the PlayStation Family app for on-the-go approvals, set a console restriction passcode so settings cannot be changed, and keep the monthly spending limit at $0 unless you intentionally raise it.",
+      "steps": [
+        "Create or sign in to your adult PlayStation account, then set up a family as the family manager (Account Management > Family Management, or Settings > Family and Parental Controls on PS5).",
+        "Add your child as a child family member (web, PS5, or PlayStation Family app) and complete parental controls during setup. Child members cannot be removed from a family later.",
+        "Install the PlayStation Family app on your phone so you can manage playtime, spending and communication away from the console.",
+        "On PS5: Settings > Family and Parental Controls > Family Management > select the child > set parental controls (restriction level or customize age levels for games/apps, Blu-ray/DVD, PS VR/PS VR2, web browsing).",
+        "Set Communication and User-Generated Content to Restrict if you want to block text/voice chat with other players, sharing UGC, viewing others’ UGC, and linking select third-party communication apps (pre-written in-game messages may still be allowed).",
+        "Set Monthly Spending Limit (default is 0). Purchases on the child’s account pull from the family manager’s wallet—only raise the limit if you intend to allow Store spending.",
+        "Review Privacy Settings and choose whether Parent/Guardian or Child can change them; you get notified when the child adjusts settings they are allowed to change.",
+        "Prevent bypasses: set a PS5 Console Restriction passcode (default is 0000 until you change it), set login passcodes on adult accounts, and set User Creation and Guest Login to Not Allowed so a new unrestricted user cannot be created.",
+        "Optional: enable playtime controls and approve game or communication exception requests from the Family app, email, or PS5 notifications when your child asks.",
+        "Test before gift day: try launching an age-restricted title, hitting a spending limit of 0, sending a communication request, and confirming the restriction passcode still blocks settings changes."
+      ],
+      "blocks": [
+        {
+          "h": "What's confirmed (PlayStation help)",
+          "ul": [
+            "PlayStation says parental controls and spending limits work with family management and playtime controls, and you must create a family and add the child before setting controls.",
+            "On PS5, parental controls are under Settings > Family and Parental Controls > Family Management; the same account controls apply across devices when changed.",
+            "Communication and User-Generated Content > Restrict disables sending text/voice chat with other players (pre-written in-game messages allowed), sharing the child’s UGC, seeing others’ UGC, and linking select third-party communication services.",
+            "Monthly Spending Limit defaults to 0; child PlayStation Store purchases bill the family manager’s wallet.",
+            "A console restriction passcode (default 0000 until changed) and disabling new user creation/guest login help stop children from changing or bypassing parental controls. Forgetting the restriction passcode requires resetting the PS5."
+          ]
+        },
+        {
+          "h": "Limits to state clearly",
+          "ul": [
+            "Menus and available toggles can differ by country, account age and system software—confirm on PlayStation’s current support pages before sharing with families.",
+            "Third-party games and apps (for example chat inside some online games) may have their own age settings that are separate from PlayStation parental controls.",
+            "Appointed parents/guardians can change spending limits; family managers should coordinate so limits are not raised by surprise.",
+            "If you change parental controls while a child is playing, they may need to sign out and back in for changes to apply."
+          ]
+        },
+        {
+          "h": "For PTAs",
+          "p": [
+            "A short November or December newsletter line can point families expecting a PS5 gift to PlayStation’s family setup and parental controls pages, plus this guide. Mention that Xbox/Windows gifts still need Microsoft Family Safety, Nintendo needs the Switch parental controls app, and phones need Apple Screen Time or Google Family Link."
+          ]
+        },
+        {
+          "h": "Sources",
+          "p": [
+            "PlayStation Support: How to set parental controls on PlayStation consoles — https://www.playstation.com/en-us/support/account/ps5-parental-controls-spending-limits/",
+            "PlayStation Support: How to set up family accounts on PlayStation — https://www.playstation.com/en-us/support/account/playstation-family-account-set-up/",
+            "PlayStation Support: How to prevent your child from changing parental controls — https://www.playstation.com/en-us/support/account/prevent-parental-control-change/",
+            "PlayStation Family app overview — https://www.playstation.com/en-us/ps-family-app/"
+          ]
+        },
+        {
+          "h": "Related",
+          "ul": [
+            "New phone, tablet or console for the holidays? Set up parental controls first",
+            "Microsoft Family Safety for Xbox and Windows holiday gifts",
+            "Nintendo Switch and Switch 2 parental controls: set them up before the holidays",
+            "Google Family Link parental controls for Android and Chromebook holiday gifts",
+            "iPhone and iPad parental controls: Screen Time, Ask to Buy and Ask to Browse",
+            "November school-parent checklist",
+            "December school-parent checklist"
+          ]
+        }
+      ],
+      "flag": "Checked against PlayStation parental controls, family setup and console restriction help pages on November 5, 2026. PlayStation changes menus and defaults by country, account type and system software; confirm on PlayStation’s current support pages before sharing with families.",
+      "faq": [
+        {
+          "q": "Does the PlayStation Family app replace console setup?",
+          "a": "Use either. The app is convenient for spending, playtime and exception approvals from your phone; first-time family creation and console restriction passcodes are still worth doing on the PS5 or account website."
+        },
+        {
+          "q": "Will restricting communication block every game chat?",
+          "a": "It restricts PlayStation network communication and user-generated content features described by Sony. Some games have separate chat systems—check that game’s own parent guide as well."
+        }
+      ],
+      "image": {
+        "src": "/images/playstation-ps5-parental-controls.webp",
+        "alt": "A parent and teen in a living room setting up parental controls on a TV with a generic unbranded black game console and holiday gifts nearby, no logos",
+        "w": 1280,
+        "h": 720
+      },
+      "updated": "2026-11-05"
     }
   ],
   "static": [
