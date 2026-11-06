@@ -3,7 +3,7 @@
   "domain": "ptaplaybook.com",
   "tagline": "Fundraiser playbooks and school-app sanity for parents",
   "color": "#c2410c",
-  "updated": "November 5, 2026",
+  "updated": "November 6, 2026",
   "description": "Free playbooks, templates and checklists for PTA/PTO volunteers and busy parents: run fundraisers, recruit volunteers, and tame school-app notifications.",
   "nav": [
     {
@@ -400,7 +400,8 @@
             "New AI apps over break? Link your teen's ChatGPT account and set quiet hours (see ChatGPT parental controls: link your teen's account and set quiet hours)",
             "Holiday orders are arriving: remind the family not to tap links in delivery texts (see Fake package delivery texts: what parents and teens should know before the holidays)",
             "Holiday gaming PC or Xbox on the wish list? Preview Microsoft Family Safety setup now (see Microsoft Family Safety for Xbox and Windows holiday gifts)",
-            "PS5 on the wish list? Preview PlayStation family parental controls, chat limits and spending now (see PlayStation PS5 parental controls before a holiday console gift)"
+            "PS5 on the wish list? Preview PlayStation family parental controls, chat limits and spending now (see PlayStation PS5 parental controls before a holiday console gift)",
+            "Holiday gaming gift includes Discord? Preview Family Center connect, activity, spending and downtime now (see Discord Family Center parental controls before a holiday gaming gift)"
           ]
         },
         {
@@ -418,11 +419,12 @@
             "ChatGPT parental controls: link your teen's account and set quiet hours",
             "Fake package delivery texts: what parents and teens should know before the holidays",
             "Microsoft Family Safety for Xbox and Windows holiday gifts",
-            "PlayStation PS5 parental controls before a holiday console gift"
+            "PlayStation PS5 parental controls before a holiday console gift",
+            "Discord Family Center parental controls before a holiday gaming gift"
           ]
         }
       ],
-      "updated": "2026-11-05"
+      "updated": "2026-11-06"
     },
     {
       "path": "/pta/fundraisers/giving-tuesday",
@@ -688,7 +690,8 @@
         "New iPhone or iPad under the tree? Set up a Child Account and Ask to Buy before it's unwrapped (see iPhone and iPad parental controls: Screen Time, Ask to Buy and Ask to Browse)",
         "New Android tablet or Chromebook under the tree? Set up Google Family Link before it's unwrapped (see Google Family Link parental controls for Android and Chromebook holiday gifts)",
         "New Xbox or Windows PC under the tree? Set up Microsoft Family Safety before it's unwrapped (see Microsoft Family Safety for Xbox and Windows holiday gifts)",
-        "New PS5 under the tree? Set PlayStation family parental controls and a spending limit of $0 before it's unwrapped (see PlayStation PS5 parental controls before a holiday console gift)"
+        "New PS5 under the tree? Set PlayStation family parental controls and a spending limit of $0 before it's unwrapped (see PlayStation PS5 parental controls before a holiday console gift)",
+        "Discord on a new headset or gaming PC? Connect Family Center, set a spending cap (even $0) and screen downtime before the holiday rush (see Discord Family Center parental controls before a holiday gaming gift)"
       ],
       "blocks": [
         {
@@ -730,7 +733,8 @@
             "iPhone and iPad parental controls: Screen Time, Ask to Buy and Ask to Browse",
             "Google Family Link parental controls for Android and Chromebook holiday gifts",
             "Microsoft Family Safety for Xbox and Windows holiday gifts",
-            "PlayStation PS5 parental controls before a holiday console gift"
+            "PlayStation PS5 parental controls before a holiday console gift",
+            "Discord Family Center parental controls before a holiday gaming gift"
           ]
         }
       ],
@@ -744,7 +748,7 @@
           "a": "No. Gifts are optional. A specific handwritten note from your child is often the most valued thank-you, and many PTAs cover a building-wide treat so families don't have to."
         }
       ],
-      "updated": "2026-11-05"
+      "updated": "2026-11-06"
     },
     {
       "path": "/guides/daylight-saving-time-sleep",
@@ -1258,7 +1262,8 @@
             "iPhone and iPad parental controls: Screen Time, Ask to Buy and Ask to Browse",
             "Google Family Link parental controls for Android and Chromebook holiday gifts",
             "Microsoft Family Safety for Xbox and Windows holiday gifts",
-            "PlayStation PS5 parental controls before a holiday console gift"
+            "PlayStation PS5 parental controls before a holiday console gift",
+            "Discord Family Center parental controls before a holiday gaming gift"
           ]
         }
       ],
@@ -1724,7 +1729,8 @@
             "Instagram Teen Accounts: set up parent supervision before the holidays",
             "Nintendo Switch and Switch 2 parental controls: set them up before the holidays",
             "YouTube for kids and teens: supervised accounts, YouTube Kids and Shorts limits",
-            "Fortnite and Epic Games parental controls: Cabined Accounts, PIN, chat and spending"
+            "Fortnite and Epic Games parental controls: Cabined Accounts, PIN, chat and spending",
+            "Discord Family Center parental controls before a holiday gaming gift"
           ]
         }
       ],
@@ -1797,7 +1803,8 @@
             "Roblox parental controls: link your account and set chat, spending and screen time",
             "December school-parent checklist",
             "Nintendo Switch and Switch 2 parental controls: set them up before the holidays",
-            "YouTube for kids and teens: supervised accounts, YouTube Kids and Shorts limits"
+            "YouTube for kids and teens: supervised accounts, YouTube Kids and Shorts limits",
+            "Discord Family Center parental controls before a holiday gaming gift"
           ]
         }
       ],
@@ -1876,7 +1883,8 @@
             "YouTube for kids and teens: supervised accounts, YouTube Kids and Shorts limits",
             "Fortnite and Epic Games parental controls: Cabined Accounts, PIN, chat and spending",
             "Microsoft Family Safety for Xbox and Windows holiday gifts",
-            "PlayStation PS5 parental controls before a holiday console gift"
+            "PlayStation PS5 parental controls before a holiday console gift",
+            "Discord Family Center parental controls before a holiday gaming gift"
           ]
         }
       ],
@@ -1954,7 +1962,8 @@
             "December school-parent checklist",
             "Fortnite and Epic Games parental controls: Cabined Accounts, PIN, chat and spending",
             "iPhone and iPad parental controls: Screen Time, Ask to Buy and Ask to Browse",
-            "Google Family Link parental controls for Android and Chromebook holiday gifts"
+            "Google Family Link parental controls for Android and Chromebook holiday gifts",
+            "Discord Family Center parental controls before a holiday gaming gift"
           ]
         }
       ],
@@ -2030,7 +2039,8 @@
             "Nintendo Switch and Switch 2 parental controls: set them up before the holidays",
             "YouTube for kids and teens: supervised accounts, YouTube Kids and Shorts limits",
             "December school-parent checklist",
-            "iPhone and iPad parental controls: Screen Time, Ask to Buy and Ask to Browse"
+            "iPhone and iPad parental controls: Screen Time, Ask to Buy and Ask to Browse",
+            "Discord Family Center parental controls before a holiday gaming gift"
           ]
         }
       ],
@@ -2276,7 +2286,8 @@
             "iPhone and iPad parental controls: Screen Time, Ask to Buy and Ask to Browse",
             "Nintendo Switch and Switch 2 parental controls: set them up before the holidays",
             "December school-parent checklist",
-            "PlayStation PS5 parental controls before a holiday console gift"
+            "PlayStation PS5 parental controls before a holiday console gift",
+            "Discord Family Center parental controls before a holiday gaming gift"
           ]
         }
       ],
@@ -2362,7 +2373,8 @@
             "Google Family Link parental controls for Android and Chromebook holiday gifts",
             "iPhone and iPad parental controls: Screen Time, Ask to Buy and Ask to Browse",
             "November school-parent checklist",
-            "December school-parent checklist"
+            "December school-parent checklist",
+            "Discord Family Center parental controls before a holiday gaming gift"
           ]
         }
       ],
@@ -2384,6 +2396,94 @@
         "h": 720
       },
       "updated": "2026-11-05"
+    },
+    {
+      "path": "/guides/discord-family-center-parental-controls",
+      "group": "guides",
+      "label": "Guide",
+      "title": "Discord Family Center parental controls before a holiday gaming gift",
+      "seoTitle": "Discord Family Center parental controls 2026: connect, activity, spending and screen time",
+      "summary": "If Discord is part of a holiday gaming gift, set up Family Center before the account is in daily use. Family Center is opt-in: your teen connects you via QR code or invite. You can see a rolling 7-day activity summary (friends, DMs and calls, servers, purchases and gifts—not message contents), set sensitive-content and request controls, add a monthly spending cap (including $0), and schedule screen downtime with a 15-minute warning. Guardians cannot edit the teen’s friend list or servers.",
+      "steps": [
+        "On your device, open Discord’s Family Center for parents/guardians and start a connection. Your teen must opt in—Family Center is not forced from the parent side alone.",
+        "Have your teen scan the QR code or accept the invite on their Discord account to connect. One guardian can connect up to eight teens; confirm you are linking the correct account.",
+        "After connecting, open Activity to review the last 7 days: friends added, DM and voice/video call activity, servers joined, and purchase/gift activity. Message contents are not shown.",
+        "Review controls your teen’s connection allows: sensitive content blur or block, friend-request settings, server DM settings, message-request settings, and data/privacy options Discord exposes to guardians.",
+        "Set a monthly spending cap. You can set it to $0. Discord’s help notes the cap does not cover Nitro or other subscriptions—plan those separately if your teen already has them.",
+        "Optional: set a screen downtime schedule so Discord is limited during school nights or homework blocks. Discord gives a 15-minute warning before downtime starts.",
+        "Talk through what you can and cannot see: activity summaries yes, private message text no; you also cannot edit their friend list or remove servers for them from Family Center.",
+        "If the holiday gift is a new phone, console or PC, also finish that device’s parental controls (see related guides) so Discord is not the only layer.",
+        "Recheck after the first week of use: confirm the connection is still active, spending cap matches your plan, and downtime still fits the school calendar."
+      ],
+      "blocks": [
+        {
+          "h": "What's confirmed (Discord help)",
+          "ul": [
+            "Discord Family Center for parents and guardians (help updated September 22, 2026) is an opt-in connection via QR code or invite; the teen must agree to connect.",
+            "Activity shows a rolling last-7-days summary of friends, DMs/calls, servers, purchases and gifts—not the contents of messages.",
+            "Guardians can configure sensitive content blur/block, friend requests, server DMs, message requests and related data/privacy controls exposed in Family Center.",
+            "Monthly spending caps can be set to $0; Discord states the cap does not include Nitro or subscriptions.",
+            "Screen downtime schedules include a 15-minute warning before limits apply. A guardian can connect up to eight teens.",
+            "Guardians cannot edit the teen’s friend list or servers from Family Center."
+          ]
+        },
+        {
+          "h": "Limits to state clearly",
+          "ul": [
+            "Family Center only works after the teen opts in and stays connected—it is not a silent monitor.",
+            "Menus and available toggles can change by platform, age band and Discord’s current help pages—confirm on Discord Support before sharing with families.",
+            "In-game chat outside Discord (consoles, Roblox, Fortnite, etc.) needs those products’ own parental controls.",
+            "Spending caps do not replace bank/card controls or store gift-card limits on the device."
+          ]
+        },
+        {
+          "h": "For PTAs",
+          "p": [
+            "A short November or December newsletter line can point families expecting headsets, gaming PCs or phones to Discord’s Family Center help and this guide. Mention that consoles still need PlayStation, Xbox/Microsoft Family Safety or Nintendo controls, and that Roblox, Fortnite, Instagram and YouTube each have their own parent tools."
+          ]
+        },
+        {
+          "h": "Sources",
+          "p": [
+            "Discord Support: Family Center for Parents and Guardians — https://support.discord.com/hc/en-us/articles/14155043715735-Family-Center-for-Parents-and-Guardians",
+            "Discord Support: What is Family Center — https://support.discord.com/hc/en-us/articles/14155039712407-What-is-Family-Center",
+            "Discord Safety Center: Parents — https://discord.com/safety-parents"
+          ]
+        },
+        {
+          "h": "Related",
+          "ul": [
+            "New phone, tablet or console for the holidays? Set up parental controls first",
+            "PlayStation PS5 parental controls before a holiday console gift",
+            "Microsoft Family Safety for Xbox and Windows holiday gifts",
+            "Nintendo Switch and Switch 2 parental controls: set them up before the holidays",
+            "Fortnite and Epic Games parental controls: Cabined Accounts, PIN, chat and spending",
+            "Roblox parental controls: link your account and set chat, spending and screen time",
+            "Instagram Teen Accounts: set up parent supervision before the holidays",
+            "YouTube for kids and teens: supervised accounts, YouTube Kids and Shorts limits",
+            "November school-parent checklist",
+            "December school-parent checklist"
+          ]
+        }
+      ],
+      "flag": "Checked against Discord Family Center for Parents and Guardians, What is Family Center, and Discord Safety parents pages on November 6, 2026. Discord changes menus and defaults by platform and account type; confirm on Discord’s current support pages before sharing with families.",
+      "faq": [
+        {
+          "q": "Can I see what my teen typed in DMs?",
+          "a": "No. Family Center’s activity summary covers that DMs or calls happened in the last 7 days, not message contents."
+        },
+        {
+          "q": "Does a $0 spending cap stop Nitro?",
+          "a": "Discord’s help says the monthly spending cap does not include Nitro or subscriptions. Handle those separately if they matter for your family."
+        }
+      ],
+      "image": {
+        "src": "/images/discord-family-center-parental-controls.webp",
+        "alt": "A parent and teen at a kitchen table setting parental controls on a laptop with a game headset nearby and holiday wrapping supplies, no brand logos",
+        "w": 1280,
+        "h": 720
+      },
+      "updated": "2026-11-06"
     }
   ],
   "static": [
