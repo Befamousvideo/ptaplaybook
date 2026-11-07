@@ -3,7 +3,7 @@
   "domain": "ptaplaybook.com",
   "tagline": "Fundraiser playbooks and school-app sanity for parents",
   "color": "#c2410c",
-  "updated": "November 6, 2026",
+  "updated": "November 7, 2026",
   "description": "Free playbooks, templates and checklists for PTA/PTO volunteers and busy parents: run fundraisers, recruit volunteers, and tame school-app notifications.",
   "nav": [
     {
@@ -401,7 +401,8 @@
             "Holiday orders are arriving: remind the family not to tap links in delivery texts (see Fake package delivery texts: what parents and teens should know before the holidays)",
             "Holiday gaming PC or Xbox on the wish list? Preview Microsoft Family Safety setup now (see Microsoft Family Safety for Xbox and Windows holiday gifts)",
             "PS5 on the wish list? Preview PlayStation family parental controls, chat limits and spending now (see PlayStation PS5 parental controls before a holiday console gift)",
-            "Holiday gaming gift includes Discord? Preview Family Center connect, activity, spending and downtime now (see Discord Family Center parental controls before a holiday gaming gift)"
+            "Holiday gaming gift includes Discord? Preview Family Center connect, activity, spending and downtime now (see Discord Family Center parental controls before a holiday gaming gift)",
+            "Holiday gift card season: share the warning signs and where to report before teacher-gift collections start (see Holiday gift card scams: what families and PTA volunteers should know)"
           ]
         },
         {
@@ -420,11 +421,13 @@
             "Fake package delivery texts: what parents and teens should know before the holidays",
             "Microsoft Family Safety for Xbox and Windows holiday gifts",
             "PlayStation PS5 parental controls before a holiday console gift",
-            "Discord Family Center parental controls before a holiday gaming gift"
+            "Discord Family Center parental controls before a holiday gaming gift",
+            "Holiday gift card scams: what families and PTA volunteers should know"
           ]
         }
       ],
-      "updated": "2026-11-06"
+      "updated": "2026-11-07",
+      "seoTitle": "November school-parent checklist: Thanksgiving week to winter break"
     },
     {
       "path": "/pta/fundraisers/giving-tuesday",
@@ -458,7 +461,8 @@
         {
           "h": "Related",
           "ul": [
-            "December school-parent checklist"
+            "December school-parent checklist",
+            "Holiday gift card scams: what families and PTA volunteers should know"
           ]
         }
       ],
@@ -552,7 +556,8 @@
             "Volunteer request email that gets replies",
             "Post-fundraiser thank-you note",
             "December school-parent checklist",
-            "Free or reduced-price school meals: you can apply any time of year"
+            "Free or reduced-price school meals: you can apply any time of year",
+            "Holiday gift card scams: what families and PTA volunteers should know"
           ]
         }
       ],
@@ -691,7 +696,9 @@
         "New Android tablet or Chromebook under the tree? Set up Google Family Link before it's unwrapped (see Google Family Link parental controls for Android and Chromebook holiday gifts)",
         "New Xbox or Windows PC under the tree? Set up Microsoft Family Safety before it's unwrapped (see Microsoft Family Safety for Xbox and Windows holiday gifts)",
         "New PS5 under the tree? Set PlayStation family parental controls and a spending limit of $0 before it's unwrapped (see PlayStation PS5 parental controls before a holiday console gift)",
-        "Discord on a new headset or gaming PC? Connect Family Center, set a spending cap (even $0) and screen downtime before the holiday rush (see Discord Family Center parental controls before a holiday gaming gift)"
+        "Discord on a new headset or gaming PC? Connect Family Center, set a spending cap (even $0) and screen downtime before the holiday rush (see Discord Family Center parental controls before a holiday gaming gift)",
+        "Kids’ smartwatch under the tree? Check the model, carrier and Family Sharing first, then turn on Ask to Buy and Schooltime (see Apple Watch For Your Kids: set up a child’s watch before you wrap it)",
+        "Remind families: the PTA and school staff will never text asking you to buy gift cards (see Holiday gift card scams: what families and PTA volunteers should know)"
       ],
       "blocks": [
         {
@@ -734,7 +741,9 @@
             "Google Family Link parental controls for Android and Chromebook holiday gifts",
             "Microsoft Family Safety for Xbox and Windows holiday gifts",
             "PlayStation PS5 parental controls before a holiday console gift",
-            "Discord Family Center parental controls before a holiday gaming gift"
+            "Discord Family Center parental controls before a holiday gaming gift",
+            "Apple Watch For Your Kids: set up a child’s watch before you wrap it",
+            "Holiday gift card scams: what families and PTA volunteers should know"
           ]
         }
       ],
@@ -748,7 +757,8 @@
           "a": "No. Gifts are optional. A specific handwritten note from your child is often the most valued thank-you, and many PTAs cover a building-wide treat so families don't have to."
         }
       ],
-      "updated": "2026-11-06"
+      "updated": "2026-11-07",
+      "seoTitle": "December school-parent checklist: winter break, alerts and gifts"
     },
     {
       "path": "/guides/daylight-saving-time-sleep",
@@ -1263,7 +1273,8 @@
             "Google Family Link parental controls for Android and Chromebook holiday gifts",
             "Microsoft Family Safety for Xbox and Windows holiday gifts",
             "PlayStation PS5 parental controls before a holiday console gift",
-            "Discord Family Center parental controls before a holiday gaming gift"
+            "Discord Family Center parental controls before a holiday gaming gift",
+            "Apple Watch For Your Kids: set up a child’s watch before you wrap it"
           ]
         }
       ],
@@ -1514,7 +1525,8 @@
             "Your right to see your child's school records (FERPA), and how to fix a mistake",
             "FAFSA 2027–28 is open: what parents of high school seniors should do now",
             "December school-parent checklist",
-            "Fake package delivery texts: what parents and teens should know before the holidays"
+            "Fake package delivery texts: what parents and teens should know before the holidays",
+            "Holiday gift card scams: what families and PTA volunteers should know"
           ]
         }
       ],
@@ -1653,7 +1665,8 @@
           "ul": [
             "New phone, tablet or console for the holidays? Set up parental controls first",
             "Freeze your child's credit for free: a parent's step-by-step guide",
-            "December school-parent checklist"
+            "December school-parent checklist",
+            "Holiday gift card scams: what families and PTA volunteers should know"
           ]
         }
       ],
@@ -2116,7 +2129,8 @@
             "December school-parent checklist",
             "Google Family Link parental controls for Android and Chromebook holiday gifts",
             "Microsoft Family Safety for Xbox and Windows holiday gifts",
-            "PlayStation PS5 parental controls before a holiday console gift"
+            "PlayStation PS5 parental controls before a holiday console gift",
+            "Apple Watch For Your Kids: set up a child’s watch before you wrap it"
           ]
         }
       ],
@@ -2200,7 +2214,8 @@
             "YouTube for kids and teens: supervised accounts, YouTube Kids and Shorts limits",
             "December school-parent checklist",
             "Microsoft Family Safety for Xbox and Windows holiday gifts",
-            "PlayStation PS5 parental controls before a holiday console gift"
+            "PlayStation PS5 parental controls before a holiday console gift",
+            "Apple Watch For Your Kids: set up a child’s watch before you wrap it"
           ]
         }
       ],
@@ -2462,7 +2477,8 @@
             "Instagram Teen Accounts: set up parent supervision before the holidays",
             "YouTube for kids and teens: supervised accounts, YouTube Kids and Shorts limits",
             "November school-parent checklist",
-            "December school-parent checklist"
+            "December school-parent checklist",
+            "Apple Watch For Your Kids: set up a child’s watch before you wrap it"
           ]
         }
       ],
@@ -2484,6 +2500,168 @@
         "h": 720
       },
       "updated": "2026-11-06"
+    },
+    {
+      "path": "/guides/apple-watch-for-your-kids-setup",
+      "group": "guides",
+      "label": "Guide",
+      "title": "Apple Watch For Your Kids: set up a child’s watch before you wrap it",
+      "seoTitle": "Apple Watch For Your Kids (Family Setup): 2026 parent setup guide",
+      "summary": "Apple Watch For Your Kids (Apple’s new name for Family Setup) lets a child without an iPhone use a cellular Apple Watch to call, message and share location, managed from your iPhone. Before gifting, check the model and carrier, make sure the child is in your Family Sharing group, and plan the setup: Ask to Buy, shared contacts from your iCloud contacts, a Screen Time passcode and Schooltime. Some features are limited or unavailable on a watch set up this way.",
+      "steps": [
+        "Check the watch: Apple requires a cellular model. Apple’s support article lists Apple Watch Series 4 or later or SE with cellular; Apple’s child-safety guide lists SE or Series 6 or later. Check Apple’s current page for your exact model before you buy or wrap it.",
+        "Check your iPhone and account: you need an iPhone 6s or later on iOS 14 or later for the first setup, two-factor authentication on your Apple Account, and the organizer or parent/guardian role in Family Sharing.",
+        "Make sure your child has their own Apple Account (a Child Account) and is in your Family Sharing group. Add them first if not.",
+        "Check whether your carrier supports Apple Watch For Your Kids. A cellular plan isn’t required to finish setup but is needed for some features; you can skip and add cellular later in the Apple Watch app.",
+        "Turn on iCloud Contacts on your iPhone ahead of time, so you can pick the trusted contacts the watch will show.",
+        "Do the setup: erase the watch if it isn’t new, put it on your child, hold it near your iPhone, tap Set Up for a Family Member, pair, set a watch passcode, and choose your child.",
+        "Turn on Ask to Buy so you approve downloads and purchases on the watch.",
+        "Choose features on the following screens (for example Location Services for Find My, Siri and Messages in iCloud), then choose shared contacts, set a Screen Time passcode and turn on Schooltime.",
+        "Afterward, adjust settings from the Apple Watch app on your iPhone: All Watches → your child’s watch under Family Watches. Keep your iPhone nearby for updates—Apple’s guide says the setup iPhone must be within normal Bluetooth range (about 33 feet) to manage settings and update software."
+      ],
+      "blocks": [
+        {
+          "h": "What's confirmed (Apple Support)",
+          "ul": [
+            "Apple Watch For Your Kids was formerly called Family Setup. It lets a family member without their own iPhone make calls, send messages and share location from the watch (Apple Support article published October 27, 2026).",
+            "Requirements include a cellular Apple Watch, watchOS 7 or later, an iPhone 6s or later with iOS 14 or later for initial setup, Apple Accounts for parent and child with two-factor on the parent account, and Family Sharing with you as organizer or parent/guardian.",
+            "Setup offers Ask to Buy, cellular and Wi-Fi, optional features such as Location Services for Find My, shared contacts managed through Screen Time, a Screen Time passcode and Schooltime.",
+            "Some Apple Watch features that depend on a companion iPhone are not available, and Apple lists health, wallet and other features that are limited by age or unavailable. Apple Pay with a credit or debit card in Wallet is not available.",
+            "Apple Watch For Your Kids is not available in every country or region; Apple publishes the list."
+          ]
+        },
+        {
+          "h": "Limits to state clearly",
+          "ul": [
+            "Apple’s two pages list different minimum models (Series 4 vs Series 6). Go by Apple’s current page for your model and region.",
+            "Cellular plans, prices and carrier support vary; confirm with your carrier.",
+            "A watch is not a substitute for adult supervision, and location sharing only works while the watch has power and a connection.",
+            "Check your school’s rules for smartwatches in class; Schooltime helps, but schools set their own device policies."
+          ]
+        },
+        {
+          "h": "For PTAs",
+          "p": [
+            "A short December newsletter line can point families expecting a kids’ smartwatch to Apple’s setup page and this guide, alongside reminders about the school’s device policy. Families with Android phones should look at their watch maker’s own family setup instructions instead."
+          ]
+        },
+        {
+          "h": "Sources",
+          "p": [
+            "Apple Support: Set up Apple Watch for a family member — https://support.apple.com/en-us/109036",
+            "Apple Child Safety guide: Set up an Apple Watch for your kid — https://support.apple.com/guide/child-safety/jk2lp15vpt5r/web",
+            "Apple Legal: Apple Watch For Your Kids & Privacy — https://www.apple.com/legal/privacy/data/en/family-setup/"
+          ]
+        },
+        {
+          "h": "Related",
+          "ul": [
+            "iPhone and iPad parental controls: Screen Time, Ask to Buy and Ask to Browse",
+            "New phone, tablet or console for the holidays? Set up parental controls first",
+            "Google Family Link parental controls for Android and Chromebook holiday gifts",
+            "Discord Family Center parental controls before a holiday gaming gift",
+            "December school-parent checklist"
+          ]
+        }
+      ],
+      "flag": "Checked against Apple Support “Set up Apple Watch for a family member” (published Oct 27, 2026), Apple’s Child Safety guide and Apple’s privacy page on November 7, 2026. Apple’s pages disagree on the minimum watch model, and menus can change with watchOS/iOS updates; confirm on Apple’s current support pages before sharing with families.",
+      "faq": [
+        {
+          "q": "Does my child need an iPhone?",
+          "a": "No. That is the point of Apple Watch For Your Kids: you set up and manage the watch from your own iPhone."
+        },
+        {
+          "q": "Do I need a cellular plan?",
+          "a": "Apple says a plan isn’t required to set up the watch but is needed for some features. Check your carrier’s support and pricing."
+        }
+      ],
+      "image": {
+        "src": "/images/apple-watch-for-your-kids-setup.webp",
+        "alt": "A parent and child on a living room sofa setting up the child's new smartwatch with a phone, an open white gift box and holiday tree lights behind them, no brand logos",
+        "w": 1280,
+        "h": 720
+      },
+      "updated": "2026-11-07"
+    },
+    {
+      "path": "/guides/holiday-gift-card-scams",
+      "group": "guides",
+      "label": "Guide",
+      "title": "Holiday gift card scams: what families and PTA volunteers should know",
+      "seoTitle": "Holiday gift card scams 2026: warning signs and how to report",
+      "summary": "Gift cards are a favorite payment method for scammers because, once the code is shared, the money is hard to trace or get back. A federal banking regulator, the OCC, warns that no legitimate business or government agency will ask you to pay with gift cards. That includes urgent texts that look like they come from a principal, coach or PTA leader asking volunteers to “grab a few gift cards” for teachers. Here is what to watch for, how to buy cards safely and where to report.",
+      "steps": [
+        "Treat any request to pay with gift cards—or to buy cards and send photos of the codes—as a scam. That applies to fines, bills, tech support, a “family member in trouble,” and messages that seem to come from school or PTA leaders.",
+        "Verify through a known channel. If a message claims to be from the principal or PTA president, call or message them at the number in the school directory, not the number that texted you.",
+        "Buy cards from trusted retailers in person or directly online. Avoid third-party resale sites and unsolicited “discounted gift card” offers.",
+        "Before buying a card off a rack, check the packaging and the scratch-off area for tampering. Keep the receipt and card number.",
+        "Read the terms: expiration dates and fees. Register the card with the issuer if that’s offered.",
+        "If you already sent codes: contact the card issuer right away, give them the card number and receipt, and ask whether the balance can be frozen or refunded. Then report it.",
+        "Report at ReportFraud.ftc.gov (or call 1-877-FTC-HELP), file with the FBI’s IC3 for internet crimes, and tell your bank if you paid with a bank or credit card. Local police can take a report too.",
+        "For PTA gift-card thank-yous or raffles, use one documented purchasing process (treasurer approval, receipts) so volunteers know a sudden text request is never how it works."
+      ],
+      "blocks": [
+        {
+          "h": "What's confirmed",
+          "ul": [
+            "The OCC (a federal bank regulator) says scammers trick people into paying for services or fines with gift cards, or steal balances from legitimate cards, and that no legitimate business or government agency will ask for gift card payment.",
+            "OCC warning signs include tampered packaging or scratched-off codes, unsolicited offers of free or discounted gift cards, and prize promotions that ask for payment or personal information.",
+            "The OCC lists ReportFraud.ftc.gov and 1-877-FTC-HELP (1-877-382-4357), the FBI’s IC3, the card issuer, your bank, local police and the retailer or marketplace as places to report.",
+            "The FDIC notes gift cards are like cash, there is typically little recourse when a card is stolen or misused, and you should report quickly to the issuer and keep your receipt and card ID number."
+          ]
+        },
+        {
+          "h": "Limits to state clearly",
+          "ul": [
+            "Whether you get money back depends on the issuer and how fast you report; there is no guarantee.",
+            "This guide is general consumer information, not legal or financial advice."
+          ]
+        },
+        {
+          "h": "For PTAs",
+          "p": [
+            "Add one line to November and December newsletters: “The PTA and school staff will never text you asking to buy gift cards. If you get a message like that, verify using the directory number and report it.” Pair it with your fundraiser and teacher-gift plans so families know the real process."
+          ]
+        },
+        {
+          "h": "Sources",
+          "p": [
+            "Office of the Comptroller of the Currency (OCC): Holiday and Gift Card Scams — https://www.occ.gov/topics/consumers-and-communities/consumer-protection/fraud-resources/holiday-and-gift-card-scams.html",
+            "FDIC: What You Should Know About Gift Cards — https://www.fdic.gov/consumer-resource-center/2024-12/what-you-should-know-about-gift-cards",
+            "FTC: ReportFraud.ftc.gov — https://reportfraud.ftc.gov/",
+            "FBI Internet Crime Complaint Center (IC3) — https://www.ic3.gov/"
+          ]
+        },
+        {
+          "h": "Related",
+          "ul": [
+            "Fake package delivery texts: what parents and teens should know before the holidays",
+            "Freeze your child's credit for free: a parent's step-by-step guide",
+            "Giving Tuesday playbook for a PTA or PTO",
+            "Holiday food drive playbook for a PTA or PTO",
+            "November school-parent checklist",
+            "December school-parent checklist"
+          ]
+        }
+      ],
+      "flag": "Checked against the OCC Holiday and Gift Card Scams page, the FDIC gift card page, ReportFraud.ftc.gov and IC3 on November 7, 2026. Reporting steps and contact numbers can change; confirm on the agencies’ current pages before sharing with families.",
+      "faq": [
+        {
+          "q": "Our PTA buys gift cards for teacher appreciation. Is that a problem?",
+          "a": "No—buying gift cards as gifts is fine. The red flag is anyone asking you to buy cards and send the codes to pay for something or to “help out” urgently by text or email."
+        },
+        {
+          "q": "Can I get my money back?",
+          "a": "Sometimes, if you contact the card issuer quickly. Keep the receipt and card number, and report the scam to the FTC as well."
+        }
+      ],
+      "image": {
+        "src": "/images/holiday-gift-card-scams.webp",
+        "alt": "A parent at a kitchen counter frowning at a text message on a phone, with a rack of unbranded gift cards on the counter, a school backpack and a holiday wreath behind her, no brand logos",
+        "w": 1280,
+        "h": 720
+      },
+      "updated": "2026-11-07"
     }
   ],
   "static": [
