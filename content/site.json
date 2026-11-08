@@ -3,7 +3,7 @@
   "domain": "ptaplaybook.com",
   "tagline": "Fundraiser playbooks and school-app sanity for parents",
   "color": "#c2410c",
-  "updated": "November 7, 2026",
+  "updated": "November 8, 2026",
   "description": "Free playbooks, templates and checklists for PTA/PTO volunteers and busy parents: run fundraisers, recruit volunteers, and tame school-app notifications.",
   "nav": [
     {
@@ -402,7 +402,9 @@
             "Holiday gaming PC or Xbox on the wish list? Preview Microsoft Family Safety setup now (see Microsoft Family Safety for Xbox and Windows holiday gifts)",
             "PS5 on the wish list? Preview PlayStation family parental controls, chat limits and spending now (see PlayStation PS5 parental controls before a holiday console gift)",
             "Holiday gaming gift includes Discord? Preview Family Center connect, activity, spending and downtime now (see Discord Family Center parental controls before a holiday gaming gift)",
-            "Holiday gift card season: share the warning signs and where to report before teacher-gift collections start (see Holiday gift card scams: what families and PTA volunteers should know)"
+            "Holiday gift card season: share the warning signs and where to report before teacher-gift collections start (see Holiday gift card scams: what families and PTA volunteers should know)",
+            "Set up TikTok Family Pairing before holiday screen time jumps (see TikTok Family Pairing: set parental controls before holiday screen time jumps)",
+            "Share how your school sends weather and closure alerts, and remind families not to tap surprise links (see Fake school-closure and weather-alert texts: pause and verify before you tap)"
           ]
         },
         {
@@ -422,11 +424,13 @@
             "Microsoft Family Safety for Xbox and Windows holiday gifts",
             "PlayStation PS5 parental controls before a holiday console gift",
             "Discord Family Center parental controls before a holiday gaming gift",
-            "Holiday gift card scams: what families and PTA volunteers should know"
+            "Holiday gift card scams: what families and PTA volunteers should know",
+            "TikTok Family Pairing: set parental controls before holiday screen time jumps",
+            "Fake school-closure and weather-alert texts: pause and verify before you tap"
           ]
         }
       ],
-      "updated": "2026-11-07",
+      "updated": "2026-11-08",
       "seoTitle": "November school-parent checklist: Thanksgiving week to winter break"
     },
     {
@@ -698,7 +702,9 @@
         "New PS5 under the tree? Set PlayStation family parental controls and a spending limit of $0 before it's unwrapped (see PlayStation PS5 parental controls before a holiday console gift)",
         "Discord on a new headset or gaming PC? Connect Family Center, set a spending cap (even $0) and screen downtime before the holiday rush (see Discord Family Center parental controls before a holiday gaming gift)",
         "Kids’ smartwatch under the tree? Check the model, carrier and Family Sharing first, then turn on Ask to Buy and Schooltime (see Apple Watch For Your Kids: set up a child’s watch before you wrap it)",
-        "Remind families: the PTA and school staff will never text asking you to buy gift cards (see Holiday gift card scams: what families and PTA volunteers should know)"
+        "Remind families: the PTA and school staff will never text asking you to buy gift cards (see Holiday gift card scams: what families and PTA volunteers should know)",
+        "Teens home for winter break? Review TikTok Family Pairing screen time, Restricted Mode and messaging settings (see TikTok Family Pairing: set parental controls before holiday screen time jumps)",
+        "Unexpected school-closure or weather text? Confirm on the district website or app before you tap a link (see Fake school-closure and weather-alert texts: pause and verify before you tap)"
       ],
       "blocks": [
         {
@@ -743,7 +749,9 @@
             "PlayStation PS5 parental controls before a holiday console gift",
             "Discord Family Center parental controls before a holiday gaming gift",
             "Apple Watch For Your Kids: set up a child’s watch before you wrap it",
-            "Holiday gift card scams: what families and PTA volunteers should know"
+            "Holiday gift card scams: what families and PTA volunteers should know",
+            "TikTok Family Pairing: set parental controls before holiday screen time jumps",
+            "Fake school-closure and weather-alert texts: pause and verify before you tap"
           ]
         }
       ],
@@ -757,7 +765,7 @@
           "a": "No. Gifts are optional. A specific handwritten note from your child is often the most valued thank-you, and many PTAs cover a building-wide treat so families don't have to."
         }
       ],
-      "updated": "2026-11-07",
+      "updated": "2026-11-08",
       "seoTitle": "December school-parent checklist: winter break, alerts and gifts"
     },
     {
@@ -1274,7 +1282,8 @@
             "Microsoft Family Safety for Xbox and Windows holiday gifts",
             "PlayStation PS5 parental controls before a holiday console gift",
             "Discord Family Center parental controls before a holiday gaming gift",
-            "Apple Watch For Your Kids: set up a child’s watch before you wrap it"
+            "Apple Watch For Your Kids: set up a child’s watch before you wrap it",
+            "TikTok Family Pairing: set parental controls before holiday screen time jumps"
           ]
         }
       ],
@@ -1526,7 +1535,8 @@
             "FAFSA 2027–28 is open: what parents of high school seniors should do now",
             "December school-parent checklist",
             "Fake package delivery texts: what parents and teens should know before the holidays",
-            "Holiday gift card scams: what families and PTA volunteers should know"
+            "Holiday gift card scams: what families and PTA volunteers should know",
+            "Fake school-closure and weather-alert texts: pause and verify before you tap"
           ]
         }
       ],
@@ -1597,7 +1607,8 @@
             "Roblox parental controls: link your account and set chat, spending and screen time",
             "Instagram Teen Accounts: set up parent supervision before the holidays",
             "Nintendo Switch and Switch 2 parental controls: set them up before the holidays",
-            "YouTube for kids and teens: supervised accounts, YouTube Kids and Shorts limits"
+            "YouTube for kids and teens: supervised accounts, YouTube Kids and Shorts limits",
+            "TikTok Family Pairing: set parental controls before holiday screen time jumps"
           ]
         }
       ],
@@ -1666,7 +1677,8 @@
             "New phone, tablet or console for the holidays? Set up parental controls first",
             "Freeze your child's credit for free: a parent's step-by-step guide",
             "December school-parent checklist",
-            "Holiday gift card scams: what families and PTA volunteers should know"
+            "Holiday gift card scams: what families and PTA volunteers should know",
+            "Fake school-closure and weather-alert texts: pause and verify before you tap"
           ]
         }
       ],
@@ -1817,7 +1829,8 @@
             "December school-parent checklist",
             "Nintendo Switch and Switch 2 parental controls: set them up before the holidays",
             "YouTube for kids and teens: supervised accounts, YouTube Kids and Shorts limits",
-            "Discord Family Center parental controls before a holiday gaming gift"
+            "Discord Family Center parental controls before a holiday gaming gift",
+            "TikTok Family Pairing: set parental controls before holiday screen time jumps"
           ]
         }
       ],
@@ -1976,7 +1989,8 @@
             "Fortnite and Epic Games parental controls: Cabined Accounts, PIN, chat and spending",
             "iPhone and iPad parental controls: Screen Time, Ask to Buy and Ask to Browse",
             "Google Family Link parental controls for Android and Chromebook holiday gifts",
-            "Discord Family Center parental controls before a holiday gaming gift"
+            "Discord Family Center parental controls before a holiday gaming gift",
+            "TikTok Family Pairing: set parental controls before holiday screen time jumps"
           ]
         }
       ],
@@ -2130,7 +2144,8 @@
             "Google Family Link parental controls for Android and Chromebook holiday gifts",
             "Microsoft Family Safety for Xbox and Windows holiday gifts",
             "PlayStation PS5 parental controls before a holiday console gift",
-            "Apple Watch For Your Kids: set up a child’s watch before you wrap it"
+            "Apple Watch For Your Kids: set up a child’s watch before you wrap it",
+            "TikTok Family Pairing: set parental controls before holiday screen time jumps"
           ]
         }
       ],
@@ -2215,7 +2230,8 @@
             "December school-parent checklist",
             "Microsoft Family Safety for Xbox and Windows holiday gifts",
             "PlayStation PS5 parental controls before a holiday console gift",
-            "Apple Watch For Your Kids: set up a child’s watch before you wrap it"
+            "Apple Watch For Your Kids: set up a child’s watch before you wrap it",
+            "TikTok Family Pairing: set parental controls before holiday screen time jumps"
           ]
         }
       ],
@@ -2478,7 +2494,8 @@
             "YouTube for kids and teens: supervised accounts, YouTube Kids and Shorts limits",
             "November school-parent checklist",
             "December school-parent checklist",
-            "Apple Watch For Your Kids: set up a child’s watch before you wrap it"
+            "Apple Watch For Your Kids: set up a child’s watch before you wrap it",
+            "TikTok Family Pairing: set parental controls before holiday screen time jumps"
           ]
         }
       ],
@@ -2640,7 +2657,8 @@
             "Giving Tuesday playbook for a PTA or PTO",
             "Holiday food drive playbook for a PTA or PTO",
             "November school-parent checklist",
-            "December school-parent checklist"
+            "December school-parent checklist",
+            "Fake school-closure and weather-alert texts: pause and verify before you tap"
           ]
         }
       ],
@@ -2662,6 +2680,173 @@
         "h": 720
       },
       "updated": "2026-11-07"
+    },
+    {
+      "path": "/guides/tiktok-family-pairing-parental-controls",
+      "group": "guides",
+      "label": "Guide",
+      "title": "TikTok Family Pairing: set parental controls before holiday screen time jumps",
+      "seoTitle": "TikTok Family Pairing parental controls: 2026 parent setup guide",
+      "summary": "TikTok Family Pairing lets a parent or guardian link their account to a teen’s account and manage screen time, scheduled time away, Restricted Mode, keyword filters, comments, messages and privacy. TikTok also applies its own teen safeguards (ages 13–17), including a default daily screen-time limit and muted nighttime notifications. Set this up before holiday breaks, when teens often have more unstructured time on their phones.",
+      "steps": [
+        "Confirm your child meets TikTok’s age rules. TikTok’s Guardian’s Guide describes teen accounts as ages 13–17, with extra safeguards for ages 13–15. TikTok is not for children under 13.",
+        "Create or sign in to your own TikTok account on your phone, and make sure your teen is signed in on theirs.",
+        "On your phone, open TikTok, tap Profile, then the Menu button, then Settings and privacy, then Family Pairing. Choose the parent or guardian option and follow the linking steps TikTok shows; your teen confirms the link on their device.",
+        "Set a daily screen-time limit. TikTok says that for teens 13–17 this limit is on by default at 60 minutes (one hour). Family Pairing lets you change it from your account, apply one limit across the teen’s devices, and give a one-time passcode if you choose to let them continue after the limit.",
+        "Schedule time away for homework, bedtime or family meals—days and times when TikTok is unavailable. Your teen can send you a request to keep using the app during that window.",
+        "Review notification muting. TikTok says nighttime notification muting is on by default from 9 p.m. to 8 a.m. for ages 13–15 and from 10 p.m. to 8 a.m. for ages 16–17, and that those defaults override a custom schedule that overlaps them.",
+        "Turn on Restricted Mode if you want to limit content that may not be appropriate, and add keyword or hashtag filters for the For You feed (TikTok says it checks the words you choose against the post description).",
+        "Check privacy and interactions: whether the account is private, whether it can be suggested to others, who can comment, who can see liked videos, and who can send direct messages. TikTok says direct messaging is only available to registered accounts 16 and older.",
+        "Turn on activity notifications (for example if the accounts become unlinked) and look at the screen-time dashboard TikTok provides for the last four weeks.",
+        "If your teen uses TikTok in a browser as well as the app, also use your phone’s family tools (Apple Screen Time or Google Family Link) as a backstop—TikTok’s Family Pairing article points parents to those system controls for mobile and web limits."
+      ],
+      "blocks": [
+        {
+          "h": "What's confirmed (TikTok)",
+          "ul": [
+            "Family Pairing lets a parent or guardian link accounts with a teen and manage content, privacy and well-being settings, including screen time, scheduled time away, keyword filters, comment controls, who can message the teen, following/follower/blocked lists (where available), and an overview of privacy settings.",
+            "TikTok’s Guardian’s Guide lists default teen safeguards: accounts private by default; daily screen time set to 60 minutes; push notifications disabled from 9 p.m. (ages 13–15) or 10 p.m. (ages 16–17); “Suggest your account to others” off by default; teens cannot host LIVE; extra limits for ages 13–15 (no direct messages, tighter comments, no downloads, content not eligible for For You if the creator is under 16).",
+            "When you set a screen-time limit with Family Pairing, the teen needs a one-time passcode from you to keep using TikTok after the limit.",
+            "Restricted Mode and daily screen-time limits, according to TikTok’s Family Pairing help article, prevent the teen from logging out or switching accounts in the TikTok app.",
+            "Menus, defaults and feature availability can vary by age, device, country and app version."
+          ]
+        },
+        {
+          "h": "Limits to state clearly",
+          "ul": [
+            "Family Pairing is not a substitute for conversation or for device-level limits. A teen who installs another app or uses a friend’s phone is outside these settings.",
+            "Some features listed in TikTok’s help pages (for example certain interaction lists or the STEM feed) are not available everywhere.",
+            "Direct messages, LIVE, and shopping features have their own age rules; check TikTok’s current help pages for your child’s age.",
+            "This guide is not legal advice and is not a safety guarantee."
+          ]
+        },
+        {
+          "h": "For PTAs",
+          "p": [
+            "A short November or winter-break newsletter line can point families to TikTok’s Family Pairing help page and Guardian’s Guide, alongside your school’s own phone and social-media rules. Pair it with other parental-control guides rather than singling out one app."
+          ]
+        },
+        {
+          "h": "Sources",
+          "p": [
+            "TikTok Support: Family Pairing — https://support.tiktok.com/en/safety-hc/account-and-user-safety/family-pairing",
+            "TikTok Safety: Guardian’s Guide — https://www.tiktok.com/safety/en/guardians-guide",
+            "TikTok Support: For parents and guardians — https://support.tiktok.com/en/safety-hc/account-and-user-safety/for-parents-and-guardians"
+          ]
+        },
+        {
+          "h": "Related",
+          "ul": [
+            "Instagram Teen Accounts: set up parent supervision before the holidays",
+            "Discord Family Center parental controls before a holiday gaming gift",
+            "YouTube for kids and teens: supervised accounts, YouTube Kids and Shorts limits",
+            "ChatGPT parental controls: link your teen's account and set quiet hours",
+            "New phone, tablet or console for the holidays? Set up parental controls first",
+            "Google Family Link parental controls for Android and Chromebook holiday gifts",
+            "iPhone and iPad parental controls: Screen Time, Ask to Buy and Ask to Browse",
+            "November school-parent checklist",
+            "December school-parent checklist"
+          ]
+        }
+      ],
+      "flag": "Checked against TikTok’s Family Pairing help article, Guardian’s Guide and For parents and guardians page on November 8, 2026. TikTok changes menus, defaults and availability by age, region and app version; confirm the current steps on TikTok’s support pages before sharing with families.",
+      "faq": [
+        {
+          "q": "Does my teen already have some limits without Family Pairing?",
+          "a": "Yes. TikTok describes built-in teen safeguards such as a default screen-time limit and muted nighttime notifications. Family Pairing lets you review and tighten those settings from your own account."
+        },
+        {
+          "q": "What if my child is under 13?",
+          "a": "TikTok’s teen tools are described for ages 13–17. Children under 13 should not have a TikTok account; use the in-app reporting tools described in TikTok’s Guardian’s Guide if you find an underage account."
+        }
+      ],
+      "image": {
+        "src": "/images/tiktok-family-pairing-parental-controls.webp",
+        "alt": "A parent and teen sitting together at a kitchen table looking at a smartphone, with soft holiday string lights and a window in the background, no brand logos",
+        "w": 1280,
+        "h": 720
+      },
+      "updated": "2026-11-08"
+    },
+    {
+      "path": "/guides/school-closure-weather-alert-text-scams",
+      "group": "guides",
+      "label": "Guide",
+      "title": "Fake school-closure and weather-alert texts: pause and verify before you tap",
+      "seoTitle": "Fake school-closure and weather-alert texts: how families can verify",
+      "summary": "Schools and public agencies do send weather and closure notices—and scammers send look-alike texts and emails with urgent links. CISA, last revised January 26, 2026, warns people to be wary of texts and social posts related to severe weather and to confirm guidance with trusted local officials. The FCC tells consumers not to reply to texts or tap links from numbers they do not recognize, and to call back using an official number if someone claims to be from a company or agency. Pause, then check the school’s real app, website or directory number.",
+      "steps": [
+        "Treat an unexpected text about a school closure, delayed opening, early dismissal or weather emergency as unverified until you check a channel you already trust.",
+        "Do not tap the link, call the number inside the message, or reply YES/STOP/CONFIRM to an unknown sender. The FCC’s consumer guide says not to respond to texts or click links sent from numbers you do not recognize.",
+        "Verify on a channel you already use: the school or district website you type yourself, the official notification app you signed up for, or a phone number from the school directory or a prior trusted message—not a number that arrived in the suspicious text.",
+        "If the message claims to come from the district, principal, bus company or a government weather agency, use the same “hang up and call back on an official number” habit the FCC describes for calls.",
+        "Look at how your school normally writes: unexpected wording, a request for a login, a payment, a gift card, a “confirm your child’s pickup” form, or a shortened link are extra reasons to stop.",
+        "If you already tapped a link or shared information, change those passwords from a device you trust, tell the school office, contact your bank if you entered payment details, and report the message.",
+        "Report the text: forward it to 7726 (SPAM) if your mobile carrier supports that (the FCC says most carriers do—check with yours), file a complaint with the FCC, and report the scam at ReportFraud.ftc.gov. Internet-related crimes can also be reported to the FBI’s IC3.",
+        "For PTA and school communications, remind families in writing how official closures are sent (which app, which number, which website) so a random text is easier to spot."
+      ],
+      "blocks": [
+        {
+          "h": "What's confirmed",
+          "ul": [
+            "CISA’s “Avoid Scams After Disaster Strikes” alert (original date October 8, 2024; last revised January 26, 2026) says fraudulent emails and social messages with disaster-related subject lines, attachments or links are common after major natural disasters, and to be wary of social media pleas, texts or door-to-door solicitations related to severe weather. Confirm guidance with trusted sources such as local officials, FEMA and Ready.gov.",
+            "The FCC’s “Stop Unwanted Robocalls and Texts” guide (last updated February 27, 2026) says scammers create a false sense of urgency; do not respond to texts or click links from numbers you do not recognize; if someone claims to be from a company or government agency, hang up and call back using an official number from a statement or their website; and most mobile carriers let you forward spam texts to 7726 (SPAM).",
+            "The same FCC guide notes that certain autodialed calls about school closings are a recognized category of informational calls to landlines, which is why a fake closure or weather message can look routine. Legitimate emergency notices still should match the channel your school already told you to trust.",
+            "You can file unwanted-text complaints with the FCC and report scams to the FTC at ReportFraud.ftc.gov. The FBI’s Internet Crime Complaint Center (IC3) takes internet crime reports."
+          ]
+        },
+        {
+          "h": "Limits to state clearly",
+          "ul": [
+            "This is general consumer information, not legal advice, and not a promise you will recover money or accounts.",
+            "Official school alert systems differ. Ask your school how it sends closures, and use that—not a text you were not expecting—as the source of truth.",
+            "Some real school messages also arrive as texts. The test is whether you can confirm the same notice on the school’s known website, app or directory number."
+          ]
+        },
+        {
+          "h": "For PTAs",
+          "p": [
+            "Add one line to late-fall and winter newsletters: “The school and PTA will not text a surprise link for closures or weather pickup changes. Check the district site or app, or call the number in the directory.” Publish (or ask the school to publish) the exact official channels so families have something to compare a text against."
+          ]
+        },
+        {
+          "h": "Sources",
+          "p": [
+            "CISA: Avoid Scams After Disaster Strikes (revised January 26, 2026) — https://www.cisa.gov/news-events/alerts/2024/10/08/avoid-scams-after-disaster-strikes",
+            "FCC: Stop Unwanted Robocalls and Texts (updated February 27, 2026) — https://www.fcc.gov/consumers/guides/stop-unwanted-robocalls-and-texts",
+            "FTC: ReportFraud.ftc.gov — https://reportfraud.ftc.gov/",
+            "FBI Internet Crime Complaint Center (IC3) — https://www.ic3.gov/"
+          ]
+        },
+        {
+          "h": "Related",
+          "ul": [
+            "Fake package delivery texts: what parents and teens should know before the holidays",
+            "Holiday gift card scams: what families and PTA volunteers should know",
+            "Freeze your child's credit for free: a parent's step-by-step guide",
+            "November school-parent checklist",
+            "December school-parent checklist"
+          ]
+        }
+      ],
+      "flag": "Checked against CISA’s disaster-scam alert (revised January 26, 2026), the FCC robocall and robotext guide (updated February 27, 2026), ReportFraud.ftc.gov and IC3 on November 8, 2026. Reporting steps and carrier tools can change; confirm on the agencies’ current pages before sharing with families.",
+      "faq": [
+        {
+          "q": "Our school really does text about snow days. How do I tell a real one from a fake?",
+          "a": "Confirm the same notice on a channel you already trust: the district website you type yourself, the official app, or a directory phone number. A real closure should show up there. Do not rely on a link or callback number that arrived only in the unexpected text."
+        },
+        {
+          "q": "What if I already tapped the link?",
+          "a": "Do not enter more information. Change passwords for any account you use on that phone, tell the school office, contact your bank if you typed payment details, and report the message to 7726, the FCC and ReportFraud.ftc.gov."
+        }
+      ],
+      "image": {
+        "src": "/images/school-closure-weather-alert-text-scams.webp",
+        "alt": "A parent in a winter sweater standing in a kitchen, frowning at a phone, with snow outside the window and a child’s backpack on a nearby chair, no brand logos",
+        "w": 1280,
+        "h": 720
+      },
+      "updated": "2026-11-08"
     }
   ],
   "static": [
