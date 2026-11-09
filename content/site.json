@@ -3070,15 +3070,17 @@
     {
       "path": "/privacy",
       "title": "Privacy policy",
-      "summary": "Draft privacy policy pending review. We collect only what you submit and never sell personal information.",
-      "flag": "Draft — pending legal review before launch.",
+      "summary": "[PLACEHOLDER] Draft privacy policy pending review. We collect only what you submit and never sell personal information. Final copy arrives separately.",
+      "flag": "Draft — pending legal review. Placeholder copy.",
+      "effectiveDate": "[to be provided]",
+      "mailingAddress": "Mailing address: [to be provided]",
       "blocks": [
         {
           "ul": [
-            "We collect email addresses only when you subscribe (not yet active).",
-            "We use privacy-friendly analytics.",
-            "We never sell personal information.",
-            "Contact details will be published at launch."
+            "[PLACEHOLDER] We collect email addresses only when you subscribe or use the contact form.",
+            "[PLACEHOLDER] We use privacy-friendly analytics.",
+            "[PLACEHOLDER] We never sell personal information.",
+            "Questions: use the contact form at /contact. We do not publish an email address or phone number."
           ]
         }
       ],
@@ -3087,12 +3089,52 @@
     {
       "path": "/terms",
       "title": "Terms of use",
-      "summary": "Draft terms pending review. Content is general information, not professional advice.",
-      "flag": "Draft — pending legal review before launch.",
+      "summary": "[PLACEHOLDER] Draft terms pending review. Content is general information, not professional advice. Final copy arrives separately.",
+      "flag": "Draft — pending legal review. Placeholder copy.",
+      "mailingAddress": "Mailing address: [to be provided]",
       "blocks": [
         {
           "p": [
-            "Content is provided for general information and may contain errors. Verify with official vendor documentation before acting."
+            "[PLACEHOLDER] Content is provided for general information and may contain errors. Verify with official vendor documentation before acting.",
+            "Questions: use the contact form at /contact. We do not publish an email address or phone number."
+          ]
+        }
+      ],
+      "cta": false
+    },
+    {
+      "path": "/contact",
+      "title": "Contact",
+      "summary": "[PLACEHOLDER] Use this form to reach PTA Playbook. This is the only public contact method; we do not publish an email address or phone number.",
+      "flag": "Draft — placeholder copy. Final contact copy arrives separately.",
+      "mailingAddress": "Mailing address: [to be provided]",
+      "blocks": [
+        {
+          "p": [
+            "[PLACEHOLDER] Send a message with the form below. We read submissions and follow up when a reply is needed.",
+            "This page is form-only. There is no email or phone fallback."
+          ]
+        }
+      ],
+      "cta": false,
+      "form": {
+        "title": "Send a message",
+        "live": "contact",
+        "note": "We'll only use your details to respond to this message. We never sell your information."
+      }
+    },
+    {
+      "path": "/refund",
+      "title": "Refund policy",
+      "summary": "[PLACEHOLDER] Draft refund policy pending review. Final copy arrives separately.",
+      "flag": "Draft — pending legal review. Placeholder copy.",
+      "mailingAddress": "Mailing address: [to be provided]",
+      "blocks": [
+        {
+          "p": [
+            "[PLACEHOLDER] Guides and templates on this site are free, so there is nothing to refund for reading them.",
+            "[PLACEHOLDER] Paid advertising is covered by the Ad Policy: ads rejected before they run are not charged (or are fully refunded if already paid); ads removed while running are refunded for unused time; ads canceled after they start running are not refunded.",
+            "Questions: use the contact form at /contact. We do not publish an email address or phone number."
           ]
         }
       ],
@@ -3142,7 +3184,8 @@
           "Email"
         ],
         "button": "Waitlist opens soon",
-        "note": "For parents (adults) only. No emails are collected or processed yet."
+        "note": "For parents (adults) only. No emails are collected or processed yet.",
+        "privacyConsent": true
       }
     }
   ]

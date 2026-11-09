@@ -1,5 +1,6 @@
 import site from "../../content/site.json";
 import { notFound } from "next/navigation";
+import ContactForm from "../ContactForm";
 import { Newsletter, Cta, Sponsor, Block } from "../components";
 import { Linked } from "../nav";
 import { allPages, pageAt, childrenOf, matchTitle, Listing, pageDateIso, pageDateLabel } from "../nav";
@@ -29,13 +30,19 @@ export default async function Page({ params }) {
     <h1>{p.title}</h1>
     {p.image && <img className="hero" src={p.image.src} alt={p.image.alt} width={p.image.w} height={p.image.h} fetchPriority="high" />}
     {p.flag && <div className="flag">⚠️ {p.flag}</div>}
+    {p.effectiveDate && <p className="muted small">Effective date: {p.effectiveDate}</p>}
     <div className="tldr"><strong>Quick answer:</strong> {p.summary}</div>
     {p.group && <p className="muted small">Last updated {pageDateLabel(p)}</p>}
     {p.steps && <section><h2>Steps</h2><ol>{p.steps.map((s, i) => <li key={i}><Linked t={s} /></li>)}</ol></section>}
     {(p.blocks || []).filter(b => !(hasKids && (b.ul || b.ol) && !b.p && (b.ul || b.ol).every(t => matchTitle(t)))).map((b, i) => <Block key={i} b={b} />)}
+    {p.mailingAddress && <p className="mailing">{p.mailingAddress}</p>}
     {hasKids && <Listing path={p.path} />}
-    {p.form && <section className="card"><h2>{p.form.title}</h2>{p.form.fields.map(f => <label key={f}>{f}<input disabled placeholder={f} /></label>)}
-      <button className="btn" type="button" disabled>{p.form.button}</button><p className="muted small">{p.form.note}</p></section>}
+    {p.form && p.form.live === "contact" && <section className="card"><h2>{p.form.title}</h2><ContactForm />{p.form.note && <p className="muted small">{p.form.note}</p>}</section>}
+    {p.form && !p.form.live && <section className="card"><h2>{p.form.title}</h2>{(p.form.fields || []).map(f => <label key={f}>{f}<input disabled placeholder={f} /></label>)}
+      <button className="btn" type="button" disabled>{p.form.button}</button>
+      {p.form.note && <p className="muted small">{p.form.note}</p>}
+      {p.form.privacyConsent && <p className="muted small">By joining you agree we may email you. See our <a href="/privacy">privacy policy</a>.</p>}
+    </section>}
     {p.faq && <section><h2>FAQ</h2>{p.faq.map(f => <details key={f.q}><summary>{f.q}</summary><p>{f.a}</p></details>)}</section>}
     {p.group && <Sponsor />}
     {p.cta !== false && <Cta cta={p.cta || site.mainCta} />}
