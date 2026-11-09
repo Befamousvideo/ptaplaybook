@@ -27,7 +27,13 @@
   "mailingAddress": "P.O. Box 372, Corona Del Mar, CA 92625",
   "newsletter": {
     "title": "The PTA Playbook weekly",
-    "blurb": "A short Sunday email timed to the school calendar, with what's coming up and a ready-to-use template."
+    "blurb": "A short Sunday email timed to the school calendar, with what's coming up and a ready-to-use template.",
+    "emailFooter": [
+      "PTA Playbook, a StorenTech company",
+      "P.O. Box 372, Corona Del Mar, CA 92625",
+      "You received this email because you signed up for the PTA Playbook newsletter.",
+      "To stop receiving these emails, use the unsubscribe link in this message. The unsubscribe link stays available for at least 30 days after we send the message. We honor opt-out requests within 10 business days."
+    ]
   },
   "sponsorSlot": "Reach PTA leaders and school parents. Sponsors are labeled and never change our comparisons.",
   "mainCta": {
@@ -3078,8 +3084,7 @@
       "blocks": [
         {
           "p": [
-            "PTA Playbook is a StorenTech company. This policy describes the personal information we collect on this website and how we use it. It is written in plain language and is not a guarantee of legal compliance.",
-            "PTA Playbook is written for PTA volunteers and school parents. We do not publish kids’ names or photos."
+            "PTA Playbook is a StorenTech company. This policy describes the personal information we collect on this website and how we use it. It is written in plain language and is not a guarantee of legal compliance."
           ]
         },
         {
@@ -3119,7 +3124,7 @@
         {
           "h": "Newsletter email practices",
           "p": [
-            "Newsletter emails are sent by PTA Playbook, a StorenTech company. Each email includes this mailing address: P.O. Box 372, Corona Del Mar, CA 92625. Each email includes a way to unsubscribe. We honor opt-out requests within 10 business days. We do not use false sender information or misleading subject lines."
+            "Newsletter emails are sent by PTA Playbook, a StorenTech company. Each email includes this mailing address: P.O. Box 372, Corona Del Mar, CA 92625. Each email includes a way to unsubscribe. The unsubscribe link stays available for at least 30 days after we send the message. We honor opt-out requests within 10 business days. We do not use false sender information or misleading subject lines."
           ]
         },
         {
@@ -3130,9 +3135,14 @@
           "ul": [
             "Vercel, our website host, and Vercel Analytics and Vercel Speed Insights, which measure traffic and performance. Confirmed: the site is served by Vercel, and the site loads Vercel Analytics and Vercel Speed Insights scripts.",
             "Cloudflare Turnstile, which helps reduce spam on the advertise order form. Confirmed on that form: it loads Cloudflare’s Turnstile script. Turnstile was not clearly confirmed on the newsletter form alone.",
-            "Stripe, if and when a payment is taken. The advertise page says approved ads are billed through a Stripe payment link. We did not find a Stripe script on the pages we checked.",
+            "Stripe, if and when a payment is taken. The advertise page says approved ads are billed through a Stripe payment link. We did not find a Stripe script on the pages we checked. When a payment is taken, Stripe processes it; we do not collect your card details on this website.",
             "An email-delivery provider, if we use one to send newsletters or form notifications. We could not confirm the vendor from the live pages or scripts. Forms post to this site’s own /api routes. Resend was not found.",
             "HubSpot was not found in the live pages or scripts, and is not listed as a current recipient."
+          ]
+        },
+        {
+          "p": [
+            "If a card-network dispute is opened, we may also share relevant order information with the payment processor and the card network."
           ]
         },
         {
@@ -3145,9 +3155,19 @@
           ]
         },
         {
+          "h": "Children (VERIFY-C1)",
+          "p": [
+            "PTA Playbook is written for PTA volunteers and school parents. We do not publish kids’ names or photos.",
+            "This draft does not decide whether the site is directed to children under 13, is a mixed-audience service, or is a general-audience service for adults, or whether we have actual knowledge of collection from a child. That fit is still open (VERIFY-C1).",
+            "We do not knowingly collect personal information from children under 13. We do not ask children to submit personal information through our forms. If you believe a child under 13 has submitted information, use the [contact form](/contact) and we will delete it.",
+            "This is not a full children’s-site notice under 16 C.F.R. Part 312, which would also address verifiable parental consent, a parental review-and-deletion process for information collected from a child, operator contact details for parental inquiries, and a written children’s-data retention policy. Those items are not drafted here because whether COPPA applies has not been decided, and because visible page copy cannot include an email address or an invented phone number.",
+            "DECISION FOR VINCENT: Treat PTA Playbook as a general-audience site for adults and keep this short section, rather than a full COPPA children’s-site notice?"
+          ]
+        },
+        {
           "h": "How we announce changes",
           "p": [
-            "We will post the updated policy on this page and update the effective date. For material changes, we will also mention the change in a newsletter issue when we send one."
+            "We will post the updated policy on this page and update the effective date. For material changes, we will also mention the change in a newsletter issue when we send one. DECISION FOR VINCENT: keep this change-notice method?"
           ]
         },
         {
@@ -3157,9 +3177,20 @@
           ]
         },
         {
+          "h": "California privacy rights (VERIFY-1)",
+          "p": [
+            "We have not confirmed whether the California Consumer Privacy Act (CCPA), as amended, applies to us. That depends on revenue and data-volume thresholds that are not stated here. The official figures are listed separately and are not blended: Civil Code §1798.140 uses $25,000,000 as adjusted; the California Privacy Protection Agency posts the adjusted amount, effective January 1, 2025, as $26,625,000; the California Attorney General’s FAQ still says “over $25 million.”",
+            "We do not sell personal information. Based on the tools we could confirm on this site, we do not share personal information for cross-context behavioral advertising as those terms are defined under California law.",
+            "If CCPA applies, California residents may have the right to know what personal information we collect and how we use and share it; to delete it, with legal exceptions; to correct inaccurate information; to opt out of sale or sharing; to limit the use of sensitive personal information if we collect it for purposes that require that choice; and not to be discriminated against for exercising those rights.",
+            "To make a request, use the [contact form](/contact). You do not need an account. An authorized agent may submit a request on your behalf.",
+            "Notice at collection, if CCPA applies: we collect the categories of information listed under “Information we collect” above, and we use them for the purposes listed under “How we use it.”",
+            "DECISION FOR VINCENT: Keep this conditional CCPA section, clearly marked as applying if the law covers us?"
+          ]
+        },
+        {
           "h": "Payments and refunds",
           "p": [
-            "This site does not currently publish refund, cancellation, or dispute terms for a paid product. If PTA Playbook takes payments, we will add those terms. To ask a question now, use the [contact form](/contact)."
+            "Refund and cancellation terms for $79 and $199 advertising placements appear on the [advertise page](/advertise) and in the [Ad Policy](/advertise/policy), and are summarized in the [terms](/terms). If PTA Playbook later sells other paid products, we will add refund terms for those products."
           ]
         }
       ]
@@ -3191,21 +3222,25 @@
           "mailing": true
         },
         {
-          "h": "Payments and refunds",
+          "h": "Payments, refunds, cancellation, and disputes",
           "p": [
-            "This site does not currently publish refund, cancellation, or dispute terms for a paid product. If PTA Playbook takes payments, we will add those terms. To ask a question now, use the [contact form](/contact)."
+            "For $79 and $199 advertising placements, the refund and cancellation terms on the [advertise page](/advertise) and in the [Ad Policy](/advertise/policy) apply. Those placements are a one-time payment for a 30-day run, not a subscription, and they do not renew automatically. You only pay if we approve your ad and send you a Stripe payment link. Nothing is charged before that.",
+            "In short: if we reject your ad before it runs, you aren't charged, and if you somehow already paid, you get a full refund. If we remove a running ad, we refund the unused portion of your 30 days. If you cancel after your ad starts running, that payment is not refunded. We may reject any ad, or remove a running ad, at our discretion. The version of the Ad Policy at the time you order applies to your run.",
+            "When a payment is taken, Stripe processes it through that payment link. We do not collect your card details on this website. Prices are in US dollars.",
+            "If PTA Playbook later sells other paid products, we will add refund terms for those products.",
+            "To cancel, request a refund, or question a charge, use the [contact form](/contact). You may also contact your card issuer about a charge. If a card-network dispute is opened, we may share order and policy records with the payment processor and the card network to respond to the dispute."
           ]
         },
         {
           "h": "Newsletter",
           "p": [
-            "If you join the PTA Playbook newsletter, we send a short Sunday email timed to the school calendar. Each newsletter identifies the sender as PTA Playbook, a StorenTech company, includes the mailing address above, and includes a way to unsubscribe. We honor opt-out requests within 10 business days."
+            "If you join the PTA Playbook newsletter, we send a short Sunday email timed to the school calendar. Each newsletter identifies the sender as PTA Playbook, a StorenTech company, includes the mailing address above, and includes a way to unsubscribe. The unsubscribe link stays available for at least 30 days after we send the message. We honor opt-out requests within 10 business days."
           ]
         },
         {
           "h": "Changes",
           "p": [
-            "We may update these terms. We will post the updated terms on this page and update the effective date. For material changes, we will also mention the change in a newsletter issue when we send one."
+            "We may update these terms. We will post the updated terms on this page and update the effective date. For material changes, we will also mention the change in a newsletter issue when we send one. DECISION FOR VINCENT: keep this change-notice method?"
           ]
         },
         {
