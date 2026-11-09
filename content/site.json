@@ -3,7 +3,7 @@
   "domain": "ptaplaybook.com",
   "tagline": "Fundraiser playbooks and school-app sanity for parents",
   "color": "#c2410c",
-  "updated": "November 8, 2026",
+  "updated": "November 9, 2026",
   "description": "Free playbooks, templates and checklists for PTA/PTO volunteers and busy parents: run fundraisers, recruit volunteers, and tame school-app notifications.",
   "nav": [
     {
@@ -704,7 +704,9 @@
         "Kids’ smartwatch under the tree? Check the model, carrier and Family Sharing first, then turn on Ask to Buy and Schooltime (see Apple Watch For Your Kids: set up a child’s watch before you wrap it)",
         "Remind families: the PTA and school staff will never text asking you to buy gift cards (see Holiday gift card scams: what families and PTA volunteers should know)",
         "Teens home for winter break? Review TikTok Family Pairing screen time, Restricted Mode and messaging settings (see TikTok Family Pairing: set parental controls before holiday screen time jumps)",
-        "Unexpected school-closure or weather text? Confirm on the district website or app before you tap a link (see Fake school-closure and weather-alert texts: pause and verify before you tap)"
+        "Unexpected school-closure or weather text? Confirm on the district website or app before you tap a link (see Fake school-closure and weather-alert texts: pause and verify before you tap)",
+        "Before the winter concert, check your school's photo rules and the directory-information opt-out (see Winter concert and class party photos: what FERPA covers and how to opt out)",
+        "New tablet or phone? Turn on purchase approvals first, and act within 48 hours on surprise Google Play charges (see Surprise app or game charges on your card: how to ask Apple or Google Play for a refund)"
       ],
       "blocks": [
         {
@@ -751,7 +753,9 @@
             "Apple Watch For Your Kids: set up a child’s watch before you wrap it",
             "Holiday gift card scams: what families and PTA volunteers should know",
             "TikTok Family Pairing: set parental controls before holiday screen time jumps",
-            "Fake school-closure and weather-alert texts: pause and verify before you tap"
+            "Fake school-closure and weather-alert texts: pause and verify before you tap",
+            "Surprise app or game charges on your card: how to ask Apple or Google Play for a refund",
+            "Winter concert and class party photos: what FERPA covers and how to opt out"
           ]
         }
       ],
@@ -765,7 +769,7 @@
           "a": "No. Gifts are optional. A specific handwritten note from your child is often the most valued thank-you, and many PTAs cover a building-wide treat so families don't have to."
         }
       ],
-      "updated": "2026-11-08",
+      "updated": "2026-11-09",
       "seoTitle": "December school-parent checklist: winter break, alerts and gifts"
     },
     {
@@ -1283,7 +1287,8 @@
             "PlayStation PS5 parental controls before a holiday console gift",
             "Discord Family Center parental controls before a holiday gaming gift",
             "Apple Watch For Your Kids: set up a child’s watch before you wrap it",
-            "TikTok Family Pairing: set parental controls before holiday screen time jumps"
+            "TikTok Family Pairing: set parental controls before holiday screen time jumps",
+            "Surprise app or game charges on your card: how to ask Apple or Google Play for a refund"
           ]
         }
       ],
@@ -1298,7 +1303,7 @@
           "a": "Apple says each child should have their own Apple Account in your Family Sharing group, not share one with another family member."
         }
       ],
-      "updated": "2026-10-23"
+      "updated": "2026-11-09"
     },
     {
       "path": "/guides/chronic-absence-two-days-a-month",
@@ -1406,7 +1411,8 @@
           "ul": [
             "November school-parent checklist",
             "Parent-teacher conference prep: a 15-minute checklist",
-            "Freeze your child's credit for free: a parent's step-by-step guide"
+            "Freeze your child's credit for free: a parent's step-by-step guide",
+            "Winter concert and class party photos: what FERPA covers and how to opt out"
           ]
         }
       ],
@@ -1421,7 +1427,7 @@
           "a": "Usually not. The Department of Education says FERPA isn't for changing substantive decisions like grades. It's for correcting records that are inaccurate or misleading."
         }
       ],
-      "updated": "2026-10-24"
+      "updated": "2026-11-09"
     },
     {
       "path": "/guides/class-holiday-party-food-allergies",
@@ -1469,7 +1475,8 @@
           "ul": [
             "December school-parent checklist",
             "November school-parent checklist",
-            "Halloween night safety checklist for parents (Sat, Oct 31)"
+            "Halloween night safety checklist for parents (Sat, Oct 31)",
+            "Winter concert and class party photos: what FERPA covers and how to opt out"
           ]
         }
       ],
@@ -1484,7 +1491,7 @@
           "a": "No. Work through the teacher and school nurse, who can tell you which foods to avoid without sharing any student's health information."
         }
       ],
-      "updated": "2026-10-25"
+      "updated": "2026-11-09"
     },
     {
       "path": "/guides/freeze-your-childs-credit",
@@ -1706,7 +1713,7 @@
       "group": "guides",
       "label": "Guide",
       "title": "Roblox parental controls: link your account and set chat, spending and screen time",
-      "seoTitle": "Roblox parental controls 2026: linked parent account, chat, spending limits and screen time",
+      "seoTitle": "Roblox parental controls 2026: chat, spending and screen time",
       "summary": "If your child plays Roblox, the most useful thing you can do is link your own Roblox account to theirs. Roblox says a linked parent account lets you manage content, chat, spending and screen time from your own device and get emails about your child's activity. Here's how to set it up, what changes as your child gets older, and the settings worth checking before the holidays.",
       "steps": [
         "Link your account: on your child's account go to Settings, then Parental Controls, then Add parent. You'll sign in or create your own Roblox account and verify you're an adult with a government ID or credit card.",
@@ -1755,7 +1762,8 @@
             "Nintendo Switch and Switch 2 parental controls: set them up before the holidays",
             "YouTube for kids and teens: supervised accounts, YouTube Kids and Shorts limits",
             "Fortnite and Epic Games parental controls: Cabined Accounts, PIN, chat and spending",
-            "Discord Family Center parental controls before a holiday gaming gift"
+            "Discord Family Center parental controls before a holiday gaming gift",
+            "Surprise app or game charges on your card: how to ask Apple or Google Play for a refund"
           ]
         }
       ],
@@ -1776,7 +1784,7 @@
         "w": 1280,
         "h": 720
       },
-      "updated": "2026-10-28"
+      "updated": "2026-11-09"
     },
     {
       "path": "/guides/instagram-teen-account-supervision",
@@ -1830,7 +1838,8 @@
             "Nintendo Switch and Switch 2 parental controls: set them up before the holidays",
             "YouTube for kids and teens: supervised accounts, YouTube Kids and Shorts limits",
             "Discord Family Center parental controls before a holiday gaming gift",
-            "TikTok Family Pairing: set parental controls before holiday screen time jumps"
+            "TikTok Family Pairing: set parental controls before holiday screen time jumps",
+            "Winter concert and class party photos: what FERPA covers and how to opt out"
           ]
         }
       ],
@@ -1851,14 +1860,14 @@
         "w": 1280,
         "h": 720
       },
-      "updated": "2026-10-29"
+      "updated": "2026-11-09"
     },
     {
       "path": "/guides/nintendo-switch-parental-controls",
       "group": "guides",
       "label": "Guide",
       "title": "Nintendo Switch and Switch 2 parental controls: set them up before the holidays",
-      "seoTitle": "Nintendo Switch 2 and Switch parental controls 2026: play time, bedtime, chat and eShop spending",
+      "seoTitle": "Nintendo Switch 2 and Switch parental controls (2026 guide)",
       "summary": "A Nintendo Switch or Switch 2 is on a lot of holiday lists. Nintendo's free Parental Controls app lets you set daily play time and a bedtime alarm, restrict games by age rating, limit chat and get a monthly summary of play. Spending limits live in your Nintendo Account family group, not the app. Here's how to set both up, ideally before the box is wrapped.",
       "steps": [
         "Create your own Nintendo Account (you must be 18 or older) and add your child to your family group. Children's accounts are set as supervised; an older child already in the group can be set as supervised.",
@@ -1931,14 +1940,14 @@
         "w": 1280,
         "h": 720
       },
-      "updated": "2026-10-30"
+      "updated": "2026-11-09"
     },
     {
       "path": "/guides/youtube-supervised-accounts",
       "group": "guides",
       "label": "Guide",
       "title": "YouTube for kids and teens: supervised accounts, YouTube Kids and Shorts limits",
-      "seoTitle": "YouTube parental controls 2026: YouTube Kids vs supervised kid and teen accounts, Shorts limits and bedtime reminders",
+      "seoTitle": "YouTube parental controls 2026: Kids vs supervised accounts",
       "summary": "New tablets and phones mean a lot of YouTube over the holidays. YouTube gives families three choices: the separate YouTube Kids app, a supervised kid account for children under 13, and an optional supervised teen account that parent and teen link together. Each lets you pick a content level and manage screen time, including a daily limit on scrolling Shorts. Here's how to choose and set it up in Family Center.",
       "steps": [
         "Pick the option that fits your child. YouTube Kids is a separate app with a smaller set of videos, where you can even handpick exactly what they watch. A supervised kid account (under 13) uses the main YouTube app with a content setting you choose. A supervised teen account is optional and lets you see channel activity and set limits.",
@@ -2011,14 +2020,14 @@
         "w": 1280,
         "h": 720
       },
-      "updated": "2026-10-31"
+      "updated": "2026-11-09"
     },
     {
       "path": "/guides/fortnite-epic-parental-controls",
       "group": "guides",
       "label": "Guide",
       "title": "Fortnite and Epic Games parental controls: Cabined Accounts, PIN, chat and spending",
-      "seoTitle": "Fortnite parental controls 2026: Epic Cabined Accounts, parental PIN, chat, friend requests and spending limits",
+      "seoTitle": "Fortnite parental controls 2026: Cabined Accounts, PIN, chat",
       "summary": "Fortnite is one of the games kids most often ask for over the holidays. Epic Games puts younger players in a limited \"Cabined Account\" until a parent gives consent, and lets parents set a 6-digit PIN that controls chat, friend requests, purchases and which experiences their child can play. Here's what's on by default and how to set it up before the new console or PC comes out of the box.",
       "steps": [
         "Know the starting point. If your child is under 13 (or your country's age of digital consent), Epic makes their account a Cabined Account, with voice and text chat, real-money purchases and some other features off until you consent.",
@@ -2067,7 +2076,8 @@
             "YouTube for kids and teens: supervised accounts, YouTube Kids and Shorts limits",
             "December school-parent checklist",
             "iPhone and iPad parental controls: Screen Time, Ask to Buy and Ask to Browse",
-            "Discord Family Center parental controls before a holiday gaming gift"
+            "Discord Family Center parental controls before a holiday gaming gift",
+            "Surprise app or game charges on your card: how to ask Apple or Google Play for a refund"
           ]
         }
       ],
@@ -2088,14 +2098,14 @@
         "w": 1280,
         "h": 720
       },
-      "updated": "2026-11-01"
+      "updated": "2026-11-09"
     },
     {
       "path": "/guides/apple-screen-time-ask-to-buy",
       "group": "guides",
       "label": "Guide",
       "title": "iPhone and iPad parental controls: Screen Time, Ask to Buy and Ask to Browse",
-      "seoTitle": "iPhone and iPad parental controls 2026: Apple Screen Time, Family Sharing, Ask to Buy and Ask to Browse",
+      "seoTitle": "iPhone and iPad parental controls: Screen Time and Ask to Buy",
       "summary": "A new iPhone or iPad is one of the most common holiday gifts for kids. Apple's parental controls live in Screen Time and work best when your child has their own Child Account in your Family Sharing group. Then you can approve app downloads and purchases with Ask to Buy, approve websites with Ask to Browse, and set limits, all from your own phone. Set it up before the box is opened.",
       "steps": [
         "Set up Family Sharing on your own device if you haven't already.",
@@ -2145,7 +2155,8 @@
             "Microsoft Family Safety for Xbox and Windows holiday gifts",
             "PlayStation PS5 parental controls before a holiday console gift",
             "Apple Watch For Your Kids: set up a child’s watch before you wrap it",
-            "TikTok Family Pairing: set parental controls before holiday screen time jumps"
+            "TikTok Family Pairing: set parental controls before holiday screen time jumps",
+            "Surprise app or game charges on your card: how to ask Apple or Google Play for a refund"
           ]
         }
       ],
@@ -2166,7 +2177,7 @@
         "w": 1280,
         "h": 720
       },
-      "updated": "2026-11-02"
+      "updated": "2026-11-09"
     },
     {
       "path": "/guides/google-family-link-parental-controls",
@@ -2231,7 +2242,8 @@
             "Microsoft Family Safety for Xbox and Windows holiday gifts",
             "PlayStation PS5 parental controls before a holiday console gift",
             "Apple Watch For Your Kids: set up a child’s watch before you wrap it",
-            "TikTok Family Pairing: set parental controls before holiday screen time jumps"
+            "TikTok Family Pairing: set parental controls before holiday screen time jumps",
+            "Surprise app or game charges on your card: how to ask Apple or Google Play for a refund"
           ]
         }
       ],
@@ -2252,7 +2264,7 @@
         "w": 1280,
         "h": 720
       },
-      "updated": "2026-11-03"
+      "updated": "2026-11-09"
     },
     {
       "path": "/guides/microsoft-family-safety-xbox-windows",
@@ -2658,7 +2670,8 @@
             "Holiday food drive playbook for a PTA or PTO",
             "November school-parent checklist",
             "December school-parent checklist",
-            "Fake school-closure and weather-alert texts: pause and verify before you tap"
+            "Fake school-closure and weather-alert texts: pause and verify before you tap",
+            "Surprise app or game charges on your card: how to ask Apple or Google Play for a refund"
           ]
         }
       ],
@@ -2679,7 +2692,7 @@
         "w": 1280,
         "h": 720
       },
-      "updated": "2026-11-07"
+      "updated": "2026-11-09"
     },
     {
       "path": "/guides/tiktok-family-pairing-parental-controls",
@@ -2847,6 +2860,168 @@
         "h": 720
       },
       "updated": "2026-11-08"
+    },
+    {
+      "path": "/guides/surprise-app-purchase-refunds",
+      "group": "guides",
+      "label": "Guide",
+      "title": "Surprise app or game charges on your card: how to ask Apple or Google Play for a refund",
+      "seoTitle": "Kid made in-app purchases? Apple and Google Play refund steps",
+      "summary": "A new tablet or phone plus a saved card can mean surprise game and in-app charges. Apple lets you request refunds at reportaproblem.apple.com, and a Family Sharing organizer can see purchases charged to the shared payment method. Google Play says refunds for apps and in-app purchases may be possible within 48 hours; after that, you contact the app developer. Act fast, then turn on purchase approvals so it does not happen again.",
+      "steps": [
+        "Find the charge. Search your email for the receipt (Apple suggests searching for “receipt from Apple” or “invoice from Apple”) or open Google Play’s order history, and note which account made the purchase.",
+        "Apple: sign in to reportaproblem.apple.com, tap “I’d like to,” choose “Request a refund,” pick the reason and the item, and submit. If you are the Family Sharing organizer, use the account button and choose All to see purchases charged to the shared payment method. If the charge was made on another Apple Account, sign in with that account instead.",
+        "Apple says to wait 24 to 48 hours for an update on the request, and that approved refunds can take longer to reach your payment method. Pending charges cannot be refunded until a receipt arrives.",
+        "Google Play: request a refund as soon as you can. Google says that within 48 hours of an app, game or in-app purchase you may be able to get a refund; you can also go to play.google.com → your profile picture → Payments & subscriptions → Budget & order history → Report a problem, and note that you would like a refund.",
+        "If a family member made the purchase with your Google account, Google says to request a refund rather than reporting it as unauthorized. Report unauthorized charges (ones nobody you know made) within 120 days.",
+        "After 48 hours on Google Play, or when an in-app item did not arrive or does not work, contact the app’s developer—Google says the developer can process refunds under its own policies and the law. Google says a decision usually comes within a day and can take up to four days; sending repeat requests does not speed it up.",
+        "Cancel any subscription your child started so it does not renew (Apple: Cancel a subscription; Google Play: Payments & subscriptions).",
+        "Prevent the next one: turn on Ask to Buy for children in Apple Family Sharing, and in Google Play require authentication for purchases (and purchase approvals through Family Link for supervised kids). Consider removing the saved card from a child’s device or using a gift card balance instead."
+      ],
+      "blocks": [
+        {
+          "h": "What's confirmed (Apple and Google)",
+          "ul": [
+            "Apple: some purchases from the App Store, iTunes Store, Apple Books and other Apple services might be eligible for a refund, requested at reportaproblem.apple.com. Refund eligibility can vary by country or region (Apple Support article published September 17, 2026).",
+            "Apple: if a receipt is for a member of your Family Sharing group and you are the family organizer, you can still request the refund on reportaproblem.apple.com.",
+            "Google Play: Google does not give refunds for most Play purchases, with exceptions. For apps, games and in-app purchases (including subscriptions), within 48 hours you may be able to get a refund depending on the purchase; after 48 hours, contact the developer.",
+            "Google Play: if you give your account or payment details to someone else, appear to abuse the policies, or do not protect your account with authentication, Google says it usually cannot issue a refund—which is why purchase authentication matters.",
+            "Google Play: if you buy multiple items in one purchase, you can only refund the entire purchase, and a refunded item is no longer available."
+          ]
+        },
+        {
+          "h": "Limits to state clearly",
+          "ul": [
+            "A refund is never guaranteed; Apple and Google decide each request, and rules differ by country.",
+            "Consoles and PC game stores (PlayStation, Xbox, Nintendo, Epic, Roblox) have their own refund rules; check that company’s help pages.",
+            "This is general consumer information, not legal or financial advice. If you believe your card was used by someone you do not know, contact your bank as well."
+          ]
+        },
+        {
+          "h": "For PTAs",
+          "p": [
+            "A short December newsletter line helps: “Got a new tablet or phone for the holidays? Turn on purchase approvals before you hand it over, and if surprise app charges show up, request a refund right away—Google Play’s easiest window is 48 hours.” Link families to the Apple and Google help pages below."
+          ]
+        },
+        {
+          "h": "Sources",
+          "p": [
+            "Apple Support: Request a refund for apps or content that you bought from Apple — https://support.apple.com/en-us/118223",
+            "Apple Support: Cancel a subscription from Apple — https://support.apple.com/en-us/118428",
+            "Google Play Help: Learn about Google Play refund policies — https://support.google.com/googleplay/answer/2479637",
+            "Google Play Help: Request a refund on Google Play — https://support.google.com/googleplay/answer/15574897",
+            "Google Play Help: Apps, games, and in-app purchases refund policies — https://support.google.com/googleplay/answer/15574908",
+            "Google Play Help: Purchase verification for Google Play — https://support.google.com/googleplay/answer/1626831"
+          ]
+        },
+        {
+          "h": "Related",
+          "ul": [
+            "iPhone and iPad parental controls: Screen Time, Ask to Buy and Ask to Browse",
+            "Google Family Link parental controls for Android and Chromebook holiday gifts",
+            "New phone, tablet or console for the holidays? Set up parental controls first",
+            "Fortnite and Epic Games parental controls: Cabined Accounts, PIN, chat and spending",
+            "Roblox parental controls: link your account and set chat, spending and screen time",
+            "Holiday gift card scams: what families and PTA volunteers should know",
+            "December school-parent checklist"
+          ]
+        }
+      ],
+      "flag": "Checked against Apple’s refund and subscription support pages and Google Play’s refund-policy, request-a-refund, in-app refund and purchase-verification help pages on November 9, 2026. Menus, time windows and eligibility can change and vary by country; confirm the current steps on Apple’s and Google’s help pages before sharing with families.",
+      "faq": [
+        {
+          "q": "My child spent money in a game without asking. Will I get it back?",
+          "a": "Maybe. Request the refund right away—Google Play’s simplest window is 48 hours, and Apple reviews requests at reportaproblem.apple.com. Neither company guarantees a refund, so also turn on purchase approvals so it does not happen again."
+        },
+        {
+          "q": "Should I report it as fraud?",
+          "a": "If a family member made the purchase on your account, Google says to request a refund instead of reporting an unauthorized charge. Use the unauthorized-charge report only for purchases nobody you know made."
+        }
+      ],
+      "image": {
+        "src": "/images/surprise-app-purchase-refunds.webp",
+        "alt": "A parent on a living room couch looking at a phone with a surprised, worried expression while a child plays a game on a tablet beside her, holiday decorations softly blurred in the background, no brand logos",
+        "w": 1280,
+        "h": 720
+      },
+      "updated": "2026-11-09"
+    },
+    {
+      "path": "/guides/school-concert-photos-ferpa",
+      "group": "guides",
+      "label": "Guide",
+      "title": "Winter concert and class party photos: what FERPA covers and how to opt out",
+      "seoTitle": "School concert photos and FERPA: what parents should know",
+      "summary": "Winter concerts and class parties mean lots of photos. Under FERPA, a photo you take as a parent is not a school “education record,” because the school does not keep it. Photos the school keeps can be education records when they focus on a specific student, and schools often treat photos from public events like concerts as “directory information” or ask for consent before sharing. If you do not want the school or PTA sharing your child’s photo, use your school’s directory-information opt-out—and ask before posting other families’ kids.",
+      "steps": [
+        "Find your district’s annual FERPA notice (often in the start-of-year packet, handbook or district website). Look for the list of what the school designates as directory information—photographs are commonly on it—and the deadline and method to opt out.",
+        "If you do not want your child’s photo shared in newsletters, yearbooks, websites or social media, submit the opt-out in writing the way the notice describes and keep a copy. Ask the office whether the opt-out also covers PTA-run pages.",
+        "Before concerts and parties, check the school’s own photo rules. Some schools ask families not to post other children; follow those even if FERPA itself does not cover your personal photos.",
+        "When you post, crop or blur other children, skip names and school identifiers on public posts, and ask the other parent before tagging or sharing a close-up of their child.",
+        "PTA volunteers taking photos for the PTA or school: get the list of students whose families opted out, and keep those children out of anything you publish. Store photos in the PTA’s account, not personal phones, and delete what you do not use.",
+        "If you want to see a school-kept photo or video that focuses on your child (for example one used in a discipline matter), you can ask to inspect it under FERPA; see our school-records guide."
+      ],
+      "blocks": [
+        {
+          "h": "What's confirmed (U.S. Department of Education)",
+          "ul": [
+            "A photo or video of a student is an education record when it is directly related to a student and maintained by the school (or someone acting for it). Factors include whether it is used for discipline or other official purposes, or whether a specific student is the intended focus (for example an ID photo or a recorded student presentation).",
+            "A photo should not be considered directly related to a student if the student is incidental or in the background, or is shown participating in school activities open to the public without a specific focus on that student.",
+            "Schools often designate photos or videos of students at public events (such as sporting events, concerts and theater performances) as directory information and/or obtain consent from parents to publicly disclose them.",
+            "A photo taken by a parent at a school event is not an education record, because the school is not maintaining it—unless a copy is given to the school and kept, for example, in a discipline file.",
+            "Directory information can include a student’s photograph. A school may disclose directory information without consent only after giving public notice of what it designates and how and when parents can opt out."
+          ]
+        },
+        {
+          "h": "Limits to state clearly",
+          "ul": [
+            "FERPA covers schools that receive U.S. Department of Education funds; many private schools are not covered. A PTA is a separate organization, so ask how your school’s rules apply to PTA pages.",
+            "State laws and district policies can add rules about student photos. Your district’s notice and policy are the source of truth.",
+            "This is general information, not legal advice."
+          ]
+        },
+        {
+          "h": "For PTAs",
+          "p": [
+            "Before the winter concert, post one line: “Please enjoy taking photos of your own child. If you share online, crop out other students or ask their family first. Families who opted out of directory information will not appear in PTA posts.” Ask the school office for the current opt-out list before you publish event photos."
+          ]
+        },
+        {
+          "h": "Sources",
+          "p": [
+            "U.S. Department of Education, Student Privacy Policy Office: FAQs on Photos and Videos under FERPA — https://studentprivacy.ed.gov/faq/faqs-photos-and-videos-under-ferpa",
+            "U.S. Department of Education: A Parent Guide to the Family Educational Rights and Privacy Act (FERPA) — https://studentprivacy.ed.gov/resources/parent-guide-family-educational-rights-and-privacy-act-ferpa",
+            "U.S. Department of Education: Model Notice for Directory Information — https://studentprivacy.ed.gov/resources/model-notice-directory-information"
+          ]
+        },
+        {
+          "h": "Related",
+          "ul": [
+            "Your right to see your child's school records (FERPA), and how to fix a mistake",
+            "Instagram Teen Accounts: set up parent supervision before the holidays",
+            "Class holiday parties and food allergies: a PTA planning checklist",
+            "December school-parent checklist"
+          ]
+        }
+      ],
+      "flag": "Checked against the Department of Education’s FERPA photos-and-videos FAQ, its Parent Guide to FERPA and the Model Notice for Directory Information page on November 9, 2026. The Department says the model notice is being reviewed and updated; confirm your own district’s current notice and opt-out deadline.",
+      "faq": [
+        {
+          "q": "Can the school stop me from posting my own photos of the concert?",
+          "a": "FERPA does not cover photos a parent takes and keeps, but schools can set their own event rules. Follow your school’s photo policy, and ask before posting close-ups of other people’s children."
+        },
+        {
+          "q": "How do I keep my child out of school and PTA photos?",
+          "a": "Use your district’s directory-information opt-out from its annual FERPA notice, in writing, and ask the office whether PTA pages honor the same list."
+        }
+      ],
+      "image": {
+        "src": "/images/school-concert-photos-ferpa.webp",
+        "alt": "Parents in a school gym watching an elementary winter concert, children in festive sweaters singing on risers under paper snowflakes, one parent in the foreground lowering a phone, faces indistinct, no brand logos",
+        "w": 1280,
+        "h": 720
+      },
+      "updated": "2026-11-09"
     }
   ],
   "static": [
