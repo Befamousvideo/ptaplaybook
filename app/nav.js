@@ -20,10 +20,29 @@ export function matchTitle(text) {
   const cands = [norm(head), norm(head.replace(/^[^:]{1,40}:\s*/, ""))];
   return site.pages.find(p => cands.includes(norm(p.title))) || null;
 }
-// Render bare http(s) URLs inside text as real links (source citations).
-const URL_RE = /(https?:\/\/[^\s<>"]+[^\s<>".,;:!?)\]])/g;
-export function Linked({ t }) { const parts = String(t).split(URL_RE);
-  return <>{parts.map((x, i) => i % 2 ? <a key={i} href={x} rel="noopener" target="_blank">{x}</a> : x)}</>; }
+// Render markdown [label](href) and bare http(s) URLs inside text as real links.
+const LINK_RE = /\[([^\]]+)\]\(([^)]+)\)|(https?:\/\/[^\s<>"]+[^\s<>".,;:!?)\]])/g;
+function normHref(h) {
+  const s = String(h).trim();
+  if (s === "http:///contact" || s === "http://contact") return "/contact";
+  if (s === "http:///privacy" || s === "http://privacy") return "/privacy";
+  return s;
+}
+export function Linked({ t }) {
+  const s = String(t); const out = []; let i = 0; let m; const re = new RegExp(LINK_RE.source, "g");
+  while ((m = re.exec(s))) {
+    if (m.index > i) out.push(s.slice(i, m.index));
+    if (m[1] != null) {
+      const href = normHref(m[2]); const ext = /^https?:\/\//.test(href);
+      out.push(<a key={m.index} href={href} {...(ext ? { rel: "noopener", target: "_blank" } : {})}>{m[1]}</a>);
+    } else {
+      out.push(<a key={m.index} href={m[3]} rel="noopener" target="_blank">{m[3]}</a>);
+    }
+    i = m.index + m[0].length;
+  }
+  if (i < s.length) out.push(s.slice(i));
+  return <>{out.length ? out : s}</>;
+}
 // Per-page dates: page.updated (ISO yyyy-mm-dd) wins, else the site-wide date.
 export const isoDate = (s) => { if (!s) return undefined; const d = new Date(/^\d{4}-\d{2}-\d{2}$/.test(s) ? s + "T00:00:00Z" : s + " 00:00 UTC"); return isNaN(d) ? undefined : d.toISOString().slice(0, 10); };
 export const pageDateIso = (p) => isoDate(p.updated) || isoDate(site.updated);

@@ -1,7 +1,7 @@
 import site from "../../content/site.json";
 import { notFound } from "next/navigation";
 import ContactForm from "../ContactForm";
-import { Newsletter, Cta, Sponsor, Block } from "../components";
+import { Newsletter, Cta, Sponsor, Block, Mailing } from "../components";
 import { Linked } from "../nav";
 import { allPages, pageAt, childrenOf, matchTitle, Listing, pageDateIso, pageDateLabel } from "../nav";
 const all = allPages;
@@ -30,14 +30,14 @@ export default async function Page({ params }) {
     <h1>{p.title}</h1>
     {p.image && <img className="hero" src={p.image.src} alt={p.image.alt} width={p.image.w} height={p.image.h} fetchPriority="high" />}
     {p.flag && <div className="flag">⚠️ {p.flag}</div>}
-    {p.effectiveDate && <p className="muted small">Effective date: {p.effectiveDate}</p>}
-    <div className="tldr"><strong>Quick answer:</strong> {p.summary}</div>
+    {p.effectiveDate && <p>Effective date: {p.effectiveDate}</p>}
+    {p.tldr !== false && <div className="tldr"><strong>Quick answer:</strong> {p.summary}</div>}
     {p.group && <p className="muted small">Last updated {pageDateLabel(p)}</p>}
     {p.steps && <section><h2>Steps</h2><ol>{p.steps.map((s, i) => <li key={i}><Linked t={s} /></li>)}</ol></section>}
     {(p.blocks || []).filter(b => !(hasKids && (b.ul || b.ol) && !b.p && (b.ul || b.ol).every(t => matchTitle(t)))).map((b, i) => <Block key={i} b={b} />)}
-    {p.mailingAddress && <p className="mailing">{p.mailingAddress}</p>}
     {hasKids && <Listing path={p.path} />}
-    {p.form && p.form.live === "contact" && <section className="card"><h2>{p.form.title}</h2><ContactForm />{p.form.note && <p className="muted small">{p.form.note}</p>}</section>}
+    {p.form && p.form.live === "contact" && <section className="card"><h2>{p.form.title}</h2><ContactForm /></section>}
+    {p.mailingAddress && <Mailing />}
     {p.form && !p.form.live && <section className="card"><h2>{p.form.title}</h2>{(p.form.fields || []).map(f => <label key={f}>{f}<input disabled placeholder={f} /></label>)}
       <button className="btn" type="button" disabled>{p.form.button}</button>
       {p.form.note && <p className="muted small">{p.form.note}</p>}

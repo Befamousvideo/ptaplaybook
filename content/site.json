@@ -24,6 +24,7 @@
     }
   ],
   "footer": "PTA Playbook: practical help for PTA volunteers and school parents. No kids' names or photos, ever.",
+  "mailingAddress": "P.O. Box 372, Corona Del Mar, CA 92625",
   "newsletter": {
     "title": "The PTA Playbook weekly",
     "blurb": "A short Sunday email timed to the school calendar, with what's coming up and a ready-to-use template."
@@ -3070,75 +3071,169 @@
     {
       "path": "/privacy",
       "title": "Privacy policy",
-      "summary": "[PLACEHOLDER] Draft privacy policy pending review. We collect only what you submit and never sell personal information. Final copy arrives separately.",
-      "flag": "Draft — pending legal review. Placeholder copy.",
-      "effectiveDate": "[to be provided]",
-      "mailingAddress": "Mailing address: [to be provided]",
+      "summary": "This policy describes the personal information we collect on this website and how we use it.",
+      "effectiveDate": "[EFFECTIVE DATE - VINCENT TO CHOOSE]",
+      "tldr": false,
+      "cta": false,
       "blocks": [
         {
+          "p": [
+            "PTA Playbook is a StorenTech company. This policy describes the personal information we collect on this website and how we use it. It is written in plain language and is not a guarantee of legal compliance.",
+            "PTA Playbook is written for PTA volunteers and school parents. We do not publish kids’ names or photos."
+          ]
+        },
+        {
+          "h": "How to contact us",
+          "p": [
+            "The way to reach us, including to ask about this policy or to request a review or change of personal information we have about you, is the [contact form](/contact)."
+          ],
+          "mailing": true
+        },
+        {
+          "h": "Information we collect",
+          "p": [
+            "We collect information you submit, including:"
+          ],
           "ul": [
-            "[PLACEHOLDER] We collect email addresses only when you subscribe or use the contact form.",
-            "[PLACEHOLDER] We use privacy-friendly analytics.",
-            "[PLACEHOLDER] We never sell personal information.",
-            "Questions: use the contact form at /contact. We do not publish an email address or phone number."
+            "Newsletter sign-up: your email address, and the page you signed up from.",
+            "Advertise requests: name, business details, email, phone, placement choice, ad content, and related files you upload.",
+            "Contact form: name, email, and message."
+          ]
+        },
+        {
+          "p": [
+            "We also collect technical information needed to run and protect the site, such as the fact that a page was viewed and, on some forms, a spam-prevention token.",
+            "We do not sell personal information."
+          ]
+        },
+        {
+          "h": "How we use it",
+          "ul": [
+            "To send the newsletter if you joined it.",
+            "To follow up on an advertise request.",
+            "To reply to a message you send through the contact form.",
+            "To operate, secure, and understand use of this website.",
+            "To process a payment when a payment is actually taken."
+          ]
+        },
+        {
+          "h": "Newsletter email practices",
+          "p": [
+            "Newsletter emails are sent by PTA Playbook, a StorenTech company. Each email includes this mailing address: P.O. Box 372, Corona Del Mar, CA 92625. Each email includes a way to unsubscribe. We honor opt-out requests within 10 business days. We do not use false sender information or misleading subject lines."
+          ]
+        },
+        {
+          "h": "Categories of third parties that may receive information",
+          "p": [
+            "These are the third parties we could confirm from the live site’s hosting, scripts, and forms, plus payment handling described on the advertise page. We mark anything we could not confirm."
+          ],
+          "ul": [
+            "Vercel, our website host, and Vercel Analytics and Vercel Speed Insights, which measure traffic and performance. Confirmed: the site is served by Vercel, and the site loads Vercel Analytics and Vercel Speed Insights scripts.",
+            "Cloudflare Turnstile, which helps reduce spam on the advertise order form. Confirmed on that form: it loads Cloudflare’s Turnstile script. Turnstile was not clearly confirmed on the newsletter form alone.",
+            "Stripe, if and when a payment is taken. The advertise page says approved ads are billed through a Stripe payment link. We did not find a Stripe script on the pages we checked.",
+            "An email-delivery provider, if we use one to send newsletters or form notifications. We could not confirm the vendor from the live pages or scripts. Forms post to this site’s own /api routes. Resend was not found.",
+            "HubSpot was not found in the live pages or scripts, and is not listed as a current recipient."
+          ]
+        },
+        {
+          "h": "Cookies, analytics, Do Not Track, and other tracking",
+          "p": [
+            "We use Vercel Analytics and Vercel Speed Insights to understand how the site is used and how it performs. These scripts are served from this site.",
+            "The advertise form uses Cloudflare Turnstile, which loads a script from Cloudflare to help tell people from bots.",
+            "We do not respond to Do Not Track browser signals.",
+            "From the pages and scripts we checked, we did not find advertising pixels, HubSpot, or other third-party marketing trackers that collect browsing activity across other websites. We have not independently confirmed every server-side tool that may run after a form is submitted."
+          ]
+        },
+        {
+          "h": "How we announce changes",
+          "p": [
+            "We will post the updated policy on this page and update the effective date. For material changes, we will also mention the change in a newsletter issue when we send one."
+          ]
+        },
+        {
+          "h": "Reviewing or changing your information",
+          "p": [
+            "Use the [contact form](/contact) to ask what information we have about you, or to ask us to update it."
+          ]
+        },
+        {
+          "h": "Payments and refunds",
+          "p": [
+            "This site does not currently publish refund, cancellation, or dispute terms for a paid product. If PTA Playbook takes payments, we will add those terms. To ask a question now, use the [contact form](/contact)."
           ]
         }
-      ],
-      "cta": false
+      ]
     },
     {
       "path": "/terms",
       "title": "Terms of use",
-      "summary": "[PLACEHOLDER] Draft terms pending review. Content is general information, not professional advice. Final copy arrives separately.",
-      "flag": "Draft — pending legal review. Placeholder copy.",
-      "mailingAddress": "Mailing address: [to be provided]",
+      "summary": "These terms apply to this website. Content is general information and may contain errors.",
+      "effectiveDate": "[EFFECTIVE DATE - VINCENT TO CHOOSE]",
+      "tldr": false,
+      "cta": false,
       "blocks": [
         {
           "p": [
-            "[PLACEHOLDER] Content is provided for general information and may contain errors. Verify with official vendor documentation before acting.",
-            "Questions: use the contact form at /contact. We do not publish an email address or phone number."
+            "PTA Playbook is a StorenTech company. These terms apply to this website."
+          ]
+        },
+        {
+          "h": "The information on this site",
+          "p": [
+            "Content on this site is general information and may contain errors. It is not professional advice. Check official vendor documentation before you act."
+          ]
+        },
+        {
+          "h": "Contact",
+          "p": [
+            "The way to reach us is the [contact form](/contact)."
+          ],
+          "mailing": true
+        },
+        {
+          "h": "Payments and refunds",
+          "p": [
+            "This site does not currently publish refund, cancellation, or dispute terms for a paid product. If PTA Playbook takes payments, we will add those terms. To ask a question now, use the [contact form](/contact)."
+          ]
+        },
+        {
+          "h": "Newsletter",
+          "p": [
+            "If you join the PTA Playbook newsletter, we send a short Sunday email timed to the school calendar. Each newsletter identifies the sender as PTA Playbook, a StorenTech company, includes the mailing address above, and includes a way to unsubscribe. We honor opt-out requests within 10 business days."
+          ]
+        },
+        {
+          "h": "Changes",
+          "p": [
+            "We may update these terms. We will post the updated terms on this page and update the effective date. For material changes, we will also mention the change in a newsletter issue when we send one."
+          ]
+        },
+        {
+          "h": "Questions",
+          "p": [
+            "Use the [contact form](/contact)."
           ]
         }
-      ],
-      "cta": false
+      ]
     },
     {
       "path": "/contact",
-      "title": "Contact",
-      "summary": "[PLACEHOLDER] Use this form to reach PTA Playbook. This is the only public contact method; we do not publish an email address or phone number.",
-      "flag": "Draft — placeholder copy. Final contact copy arrives separately.",
-      "mailingAddress": "Mailing address: [to be provided]",
-      "blocks": [
-        {
-          "p": [
-            "[PLACEHOLDER] Send a message with the form below. We read submissions and follow up when a reply is needed.",
-            "This page is form-only. There is no email or phone fallback."
-          ]
-        }
-      ],
+      "title": "Send us a message",
+      "summary": "Use this form to reach PTA Playbook. We use the details you send only to reply to your message.",
+      "tldr": false,
       "cta": false,
-      "form": {
-        "title": "Send a message",
-        "live": "contact",
-        "note": "We'll only use your details to respond to this message. We never sell your information."
-      }
-    },
-    {
-      "path": "/refund",
-      "title": "Refund policy",
-      "summary": "[PLACEHOLDER] Draft refund policy pending review. Final copy arrives separately.",
-      "flag": "Draft — pending legal review. Placeholder copy.",
-      "mailingAddress": "Mailing address: [to be provided]",
+      "mailingAddress": true,
       "blocks": [
         {
           "p": [
-            "[PLACEHOLDER] Guides and templates on this site are free, so there is nothing to refund for reading them.",
-            "[PLACEHOLDER] Paid advertising is covered by the Ad Policy: ads rejected before they run are not charged (or are fully refunded if already paid); ads removed while running are refunded for unused time; ads canceled after they start running are not refunded.",
-            "Questions: use the contact form at /contact. We do not publish an email address or phone number."
+            "Use this form to reach PTA Playbook. We use the details you send only to reply to your message."
           ]
         }
       ],
-      "cta": false
+      "form": {
+        "title": "Contact form",
+        "live": "contact"
+      }
     },
     {
       "path": "/pta",

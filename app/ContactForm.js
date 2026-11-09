@@ -25,7 +25,7 @@ export default function ContactForm() {
         body: JSON.stringify({ name: f.get("name"), email: f.get("email"), message: f.get("message"),
           elapsed: Date.now() - started.current,
           turnstile: SITE_KEY && window.turnstile && tsId.current != null ? window.turnstile.getResponse(tsId.current) : undefined,
-          consent: f.get("consent") === "on", website: f.get("website") }) });
+          website: f.get("website") }) });
       const j = await r.json().catch(() => ({}));
       if (r.ok && j.ok) setState("done");
       else {
@@ -35,16 +35,18 @@ export default function ContactForm() {
       }
     } catch { setState("error"); setMsg("We couldn't send your message. Please try again later."); }
   }
-  if (state === "done") return (<p className="nl-success" role="status"><strong>Thanks, your message is in.</strong> We'll follow up if a reply is needed.</p>);
+  if (state === "done") return (<p className="nl-success" role="status">Thanks. We received your message and will get back to you.</p>);
   const busy = state === "loading";
-  return (<form className="brf" onSubmit={onSubmit}>
-    <label>Name<input name="name" required maxLength={120} autoComplete="name" disabled={busy} /></label>
-    <label>Email<input type="email" name="email" required maxLength={254} autoComplete="email" disabled={busy} /></label>
-    <label>Message<textarea name="message" required rows={6} maxLength={4000} disabled={busy} /></label>
-    <input type="text" name="website" tabIndex={-1} autoComplete="off" aria-hidden="true" style={{ position: "absolute", left: "-9999px" }} />
-    {SITE_KEY && <div ref={tsRef} style={{ margin: "12px 0" }} />}
-    <label className="small brf-check"><input type="checkbox" name="consent" required disabled={busy} /><span>I agree to be contacted about this message. See the <a href="/privacy">privacy policy</a>.</span></label>
-    <button className="btn" type="submit" disabled={busy}>{busy ? "Sending…" : "Send message"}</button>
-    {state === "error" && <p className="small" role="alert" style={{ color: "#b42318" }}>{msg}</p>}
-  </form>);
+  return (<>
+    <form className="brf" onSubmit={onSubmit}>
+      <label>Name<input name="name" required maxLength={120} autoComplete="name" disabled={busy} /></label>
+      <label>Email<input type="email" name="email" required maxLength={254} autoComplete="email" disabled={busy} /></label>
+      <label>Message<textarea name="message" required rows={6} maxLength={4000} disabled={busy} /></label>
+      <input type="text" name="website" tabIndex={-1} autoComplete="off" aria-hidden="true" style={{ position: "absolute", left: "-9999px" }} />
+      {SITE_KEY && <div ref={tsRef} style={{ margin: "12px 0" }} />}
+      <button className="btn" type="submit" disabled={busy}>{busy ? "Sending…" : "Send message"}</button>
+      {state === "error" && <p className="small" role="alert" style={{ color: "#b42318" }}>{msg}</p>}
+    </form>
+    <p className="muted small">We’ll only use these details to reply to your message. We don’t sell your information. See our <a href="/privacy">Privacy policy</a>.</p>
+  </>);
 }
