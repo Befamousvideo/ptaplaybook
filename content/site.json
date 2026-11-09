@@ -3188,7 +3188,7 @@
         {
           "h": "Payments and refunds",
           "p": [
-            "Refund and cancellation terms for $79 and $199 advertising placements appear in the [Ad Policy](/advertise/policy). If PTA Playbook later sells other paid products, we will add refund terms for those products."
+            "Refund and cancellation terms for $79 and $199 advertising placements appear in the [Ad Policy](/advertise/policy) and are summarized in the [terms](/terms). If PTA Playbook later sells other paid products, we will add refund terms for those products."
           ]
         }
       ]
@@ -3250,6 +3250,41 @@
       ]
     },
     {
+      "path": "/refund",
+      "title": "Refunds",
+      "summary": "Refund and cancellation terms for $79 and $199 advertising placements appear in the Ad Policy and are summarized in the terms.",
+      "effectiveDate": "[GO-LIVE DATE]",
+      "tldr": false,
+      "cta": false,
+      "blocks": [
+        {
+          "p": [
+            "Refund and cancellation terms for $79 and $199 advertising placements appear in the [Ad Policy](/advertise/policy) and are summarized in the [terms](/terms)."
+          ]
+        },
+        {
+          "p": [
+            "For $79 and $199 advertising placements, the refund and cancellation terms in the [Ad Policy](/advertise/policy) apply. Those placements are a one-time payment for a 30-day run, not a subscription, and they do not renew automatically. You only pay if we approve your ad and send you a Stripe payment link. Nothing is charged before that."
+          ]
+        },
+        {
+          "p": [
+            "In short: if we reject your ad before it runs, you aren't charged, and if you somehow already paid, you get a full refund. If we remove a running ad, we refund the unused portion of your 30 days. If you cancel after your ad starts running, that payment is not refunded. We may reject any ad, or remove a running ad, at our discretion. The version of the Ad Policy at the time you order applies to your run."
+          ]
+        },
+        {
+          "p": [
+            "If PTA Playbook later sells other paid products, we will add refund terms for those products."
+          ]
+        },
+        {
+          "p": [
+            "Questions? Use the [contact form](/contact)."
+          ]
+        }
+      ]
+    },
+    {
       "path": "/contact",
       "title": "Send us a message",
       "summary": "Use this form to reach PTA Playbook. We use the details you send only to reply to your message.",
@@ -3265,7 +3300,8 @@
       ],
       "form": {
         "title": "Contact form",
-        "live": "contact"
+        "live": "contact",
+        "note": "We’ll only use these details to reply to your message. We don’t sell your information. See our [Privacy policy](/privacy)."
       }
     },
     {

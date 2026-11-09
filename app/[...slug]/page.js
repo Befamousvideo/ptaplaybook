@@ -36,7 +36,7 @@ export default async function Page({ params }) {
     {p.steps && <section><h2>Steps</h2><ol>{p.steps.map((s, i) => <li key={i}><Linked t={s} /></li>)}</ol></section>}
     {(p.blocks || []).filter(b => !(hasKids && (b.ul || b.ol) && !b.p && (b.ul || b.ol).every(t => matchTitle(t)))).map((b, i) => <Block key={i} b={b} />)}
     {hasKids && <Listing path={p.path} />}
-    {p.form && p.form.live === "contact" && <section className="card"><h2>{p.form.title}</h2><ContactForm /></section>}
+    {p.form && p.form.live === "contact" && <section className="card"><h2>{p.form.title}</h2><ContactForm />{p.form.note && <p className="muted small"><Linked t={p.form.note} /></p>}</section>}
     {p.mailingAddress && <Mailing />}
     {p.form && !p.form.live && <section className="card"><h2>{p.form.title}</h2>{(p.form.fields || []).map(f => <label key={f}>{f}<input disabled placeholder={f} /></label>)}
       <button className="btn" type="button" disabled>{p.form.button}</button>

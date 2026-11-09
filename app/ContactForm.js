@@ -47,6 +47,5 @@ export default function ContactForm() {
       <button className="btn" type="submit" disabled={busy}>{busy ? "Sending…" : "Send message"}</button>
       {state === "error" && <p className="small" role="alert" style={{ color: "#b42318" }}>{msg}</p>}
     </form>
-    <p className="muted small">We’ll only use these details to reply to your message. We don’t sell your information. See our <a href="/privacy">Privacy policy</a>.</p>
   </>);
 }
