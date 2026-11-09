@@ -14,7 +14,7 @@ export default function Advertise() {
       <p>To be upfront: {site.name} is a new site, launched in October 2026, and it's still building its audience. We don't have meaningful traffic numbers to share yet, and our founding prices reflect that. Advertisers get a click count for their ad on request.</p></section>
     <section><h2>Placements and pricing (founding rates)</h2>
       <table><thead><tr><th>Placement</th><th>What you get</th><th>Price</th></tr></thead><tbody>
-        {plans.map(p => <tr key={p.id}><td>{p.name}</td><td>{p.desc}</td><td>${p.price / 100} / {p.days} days</td></tr>)}</tbody></table>
+        {plans.map(p => <tr key={p.id}><td>{p.name}</td><td>{p.desc}</td><td>${p.price / 100} / {p.days} days<p className="muted small" style={{ margin: "8px 0 0", fontWeight: 400 }}>Full refund if we reject your ad before it runs; unused portion refunded if we remove a running ad; no refund if you cancel after it starts. <a href="/advertise/policy">Advertising policy</a></p></td></tr>)}</tbody></table>
       <p className="muted small">Ads appear in the single ad spot near the end of content pages, labeled "Ad". Prices are one-time payments per 30-day run, not subscriptions.</p></section>
     <section><h2>Ad specs</h2><ul>
       <li>Headline: up to 40 characters</li><li>Ad text: up to 120 characters</li><li>Destination URL: one https:// link to your own site</li>
