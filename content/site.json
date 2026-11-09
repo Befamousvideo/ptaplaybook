@@ -3160,14 +3160,13 @@
             "PTA Playbook is written for PTA volunteers and school parents. We do not publish kids’ names or photos.",
             "This draft does not decide whether the site is directed to children under 13, is a mixed-audience service, or is a general-audience service for adults, or whether we have actual knowledge of collection from a child. That fit is still open (VERIFY-C1).",
             "We do not knowingly collect personal information from children under 13. We do not ask children to submit personal information through our forms. If you believe a child under 13 has submitted information, use the [contact form](/contact) and we will delete it.",
-            "This is not a full children’s-site notice under 16 C.F.R. Part 312, which would also address verifiable parental consent, a parental review-and-deletion process for information collected from a child, operator contact details for parental inquiries, and a written children’s-data retention policy. Those items are not drafted here because whether COPPA applies has not been decided, and because visible page copy cannot include an email address or an invented phone number.",
-            "DECISION FOR VINCENT: Treat PTA Playbook as a general-audience site for adults and keep this short section, rather than a full COPPA children’s-site notice?"
+            "This is not a full children’s-site notice under 16 C.F.R. Part 312, which would also address verifiable parental consent, a parental review-and-deletion process for information collected from a child, operator contact details for parental inquiries, and a written children’s-data retention policy. Those items are not drafted here because whether COPPA applies has not been decided, and because visible page copy cannot include an email address or an invented phone number."
           ]
         },
         {
           "h": "How we announce changes",
           "p": [
-            "We will post the updated policy on this page and update the effective date. For material changes, we will also mention the change in a newsletter issue when we send one. DECISION FOR VINCENT: keep this change-notice method?"
+            "We will post the updated policy on this page and update the effective date. For material changes, we will also mention the change in a newsletter issue when we send one."
           ]
         },
         {
@@ -3183,8 +3182,7 @@
             "We do not sell personal information. Based on the tools we could confirm on this site, we do not share personal information for cross-context behavioral advertising as those terms are defined under California law.",
             "If CCPA applies, California residents may have the right to know what personal information we collect and how we use and share it; to delete it, with legal exceptions; to correct inaccurate information; to opt out of sale or sharing; to limit the use of sensitive personal information if we collect it for purposes that require that choice; and not to be discriminated against for exercising those rights.",
             "To make a request, use the [contact form](/contact). You do not need an account. An authorized agent may submit a request on your behalf.",
-            "Notice at collection, if CCPA applies: we collect the categories of information listed under “Information we collect” above, and we use them for the purposes listed under “How we use it.”",
-            "DECISION FOR VINCENT: Keep this conditional CCPA section, clearly marked as applying if the law covers us?"
+            "Notice at collection, if CCPA applies: we collect the categories of information listed under “Information we collect” above, and we use them for the purposes listed under “How we use it.”"
           ]
         },
         {
@@ -3240,7 +3238,7 @@
         {
           "h": "Changes",
           "p": [
-            "We may update these terms. We will post the updated terms on this page and update the effective date. For material changes, we will also mention the change in a newsletter issue when we send one. DECISION FOR VINCENT: keep this change-notice method?"
+            "We may update these terms. We will post the updated terms on this page and update the effective date. For material changes, we will also mention the change in a newsletter issue when we send one."
           ]
         },
         {
