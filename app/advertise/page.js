@@ -1,5 +1,6 @@
 import site from "../../content/site.json";
 import AdOrderForm from "../AdOrderForm";
+import { AdsEmail } from "../components";
 import { PLANS, CATEGORIES } from "../ads-lib";
 export const metadata = { title: "Advertise", description: `Advertise on ${site.name}: labeled, reviewed ads with simple founding pricing.`, alternates: { canonical: "/advertise" } };
 export default function Advertise() {
@@ -24,6 +25,6 @@ export default function Advertise() {
       <li>We review it, usually within 2 business days.</li>
       <li>If it's approved, we email you a secure Stripe payment link. Nothing is charged before that.</li>
       <li>Your ad goes live on your start date and runs for 30 days.</li></ol></section>
-    <section className="card"><h2>Order an ad</h2><AdOrderForm plans={plans} categories={CATEGORIES} /></section>
+    <section className="card"><h2>Order an ad</h2><AdOrderForm plans={plans} categories={CATEGORIES} /><AdsEmail /></section>
   </article>);
 }

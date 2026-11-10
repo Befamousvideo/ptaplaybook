@@ -21,6 +21,12 @@ export function Sponsor() {
 export function Mailing() {
   return (<p className="mailing">Mailing address:<br />{site.name}, a StorenTech company<br />{site.mailingAddress}</p>);
 }
+export function SupportEmail() {
+  return (<p className="email-addr"><img className="email-img" src="/images/support-email.png" alt="Support email address" width={210} height={23} /></p>);
+}
+export function AdsEmail() {
+  return (<p className="email-addr"><img className="email-img" src="/images/ads-email.png" alt="Advertising email address" width={179} height={22} /></p>);
+}
 export function Block({ b }) {
   return (<section>
     {b.h && <h2>{b.h}</h2>}

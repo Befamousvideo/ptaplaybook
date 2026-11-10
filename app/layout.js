@@ -2,7 +2,7 @@ import "./globals.css";
 import { Analytics } from "@vercel/analytics/next";
 import { SpeedInsights } from "@vercel/speed-insights/next";
 import site from "../content/site.json";
-import { Mailing } from "./components";
+import { Mailing, SupportEmail } from "./components";
 export const metadata = {
   metadataBase: new URL(`https://${site.domain}`),
   title: { default: `${site.name} — ${site.tagline}`, template: `%s | ${site.name}` },
@@ -25,6 +25,7 @@ export default function RootLayout({ children }) {
           <p>{site.footer}</p>
           <p><a href="/about">About</a> · <a href="/methodology">Methodology</a> · <a href="/advertise">Advertise</a> · <a href="/advertise/policy">Ad Policy</a> · <a href="/newsletter">Newsletter</a> · <a href="/privacy">Privacy</a> · <a href="/terms">Terms</a> · <a href="/refund">Refunds</a> · <a href="/contact">Contact</a> · <a href="/rss.xml">RSS</a></p>
           <Mailing />
+          <SupportEmail />
           <p className="muted">© 2026 {site.name}, a StorenTech company. Preview build — content under review.</p>
         </div></footer>
         <Analytics />

@@ -1,7 +1,7 @@
 import site from "../../content/site.json";
 import { notFound } from "next/navigation";
 import ContactForm from "../ContactForm";
-import { Newsletter, Cta, Sponsor, Block, Mailing } from "../components";
+import { Newsletter, Cta, Sponsor, Block, Mailing, SupportEmail } from "../components";
 import { Linked } from "../nav";
 import { allPages, pageAt, childrenOf, matchTitle, Listing, pageDateIso, pageDateLabel } from "../nav";
 const all = allPages;
@@ -38,6 +38,7 @@ export default async function Page({ params }) {
     {hasKids && <Listing path={p.path} />}
     {p.form && p.form.live === "contact" && <section className="card"><h2>{p.form.title}</h2><ContactForm />{p.form.note && <p className="muted small"><Linked t={p.form.note} /></p>}</section>}
     {p.mailingAddress && <Mailing />}
+    {["/contact", "/privacy", "/terms", "/refund"].includes(p.path) && <SupportEmail />}
     {p.form && !p.form.live && <section className="card"><h2>{p.form.title}</h2>{(p.form.fields || []).map(f => <label key={f}>{f}<input disabled placeholder={f} /></label>)}
       <button className="btn" type="button" disabled>{p.form.button}</button>
       {p.form.note && <p className="muted small">{p.form.note}</p>}

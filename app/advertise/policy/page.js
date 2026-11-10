@@ -1,4 +1,5 @@
 import site from "../../../content/site.json";
+import { AdsEmail } from "../../components";
 import { competitorText } from "../../ads-lib";
 export const metadata = { title: "Ad Policy", description: `What ${site.name} will and won't advertise.`, alternates: { canonical: "/advertise/policy" } };
 export default function Policy() {
@@ -24,6 +25,7 @@ export default function Policy() {
       <li>If we remove a running ad, we refund the unused portion of your 30 days.</li>
       <li>Ads you cancel after they start running aren't refunded.</li></ul></section>
     <p className="muted small">Questions? Reply to any email from us. This policy may be updated; the version at the time you order applies to your run.</p>
+    <AdsEmail />
     <p><a className="btn" href="/advertise">Back to Advertise</a></p>
   </article>);
 }
