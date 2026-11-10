@@ -3,7 +3,7 @@
   "domain": "ptaplaybook.com",
   "tagline": "Fundraiser playbooks and school-app sanity for parents",
   "color": "#c2410c",
-  "updated": "November 9, 2026",
+  "updated": "November 10, 2026",
   "description": "Free playbooks, templates and checklists for PTA/PTO volunteers and busy parents: run fundraisers, recruit volunteers, and tame school-app notifications.",
   "nav": [
     {
@@ -706,7 +706,9 @@
         "Teens home for winter break? Review TikTok Family Pairing screen time, Restricted Mode and messaging settings (see TikTok Family Pairing: set parental controls before holiday screen time jumps)",
         "Unexpected school-closure or weather text? Confirm on the district website or app before you tap a link (see Fake school-closure and weather-alert texts: pause and verify before you tap)",
         "Before the winter concert, check your school's photo rules and the directory-information opt-out (see Winter concert and class party photos: what FERPA covers and how to opt out)",
-        "New tablet or phone? Turn on purchase approvals first, and act within 48 hours on surprise Google Play charges (see Surprise app or game charges on your card: how to ask Apple or Google Play for a refund)"
+        "New tablet or phone? Turn on purchase approvals first, and act within 48 hours on surprise Google Play charges (see Surprise app or game charges on your card: how to ask Apple or Google Play for a refund)",
+        "Flying over winter break? Check every adult's REAL ID or passport; kids under 18 don't need ID for TSA on U.S. flights (see Flying with kids over winter break: what ID TSA needs (and doesn't) for children and teens)",
+        "Teen on Snapchat? Set up Family Center together and decide on content limits and My AI (see Snapchat Family Center: see your teen's friends and set content and My AI controls)"
       ],
       "blocks": [
         {
@@ -755,7 +757,9 @@
             "TikTok Family Pairing: set parental controls before holiday screen time jumps",
             "Fake school-closure and weather-alert texts: pause and verify before you tap",
             "Surprise app or game charges on your card: how to ask Apple or Google Play for a refund",
-            "Winter concert and class party photos: what FERPA covers and how to opt out"
+            "Winter concert and class party photos: what FERPA covers and how to opt out",
+            "Flying with kids over winter break: what ID TSA needs (and doesn't) for children and teens",
+            "Snapchat Family Center: see your teen's friends and set content and My AI controls"
           ]
         }
       ],
@@ -769,7 +773,7 @@
           "a": "No. Gifts are optional. A specific handwritten note from your child is often the most valued thank-you, and many PTAs cover a building-wide treat so families don't have to."
         }
       ],
-      "updated": "2026-11-09",
+      "updated": "2026-11-10",
       "seoTitle": "December school-parent checklist: winter break, alerts and gifts"
     },
     {
@@ -1087,7 +1091,8 @@
           "ul": [
             "November school-parent checklist",
             "When to keep your child home sick from school (and when they can go back)",
-            "December school-parent checklist"
+            "December school-parent checklist",
+            "Flying with kids over winter break: what ID TSA needs (and doesn't) for children and teens"
           ]
         }
       ],
@@ -1102,7 +1107,7 @@
           "a": "You can bring it, but the FAA doesn't allow boosters to be used during taxi, takeoff or landing, so most families check it as baggage."
         }
       ],
-      "updated": "2026-10-22"
+      "updated": "2026-11-10"
     },
     {
       "path": "/guides/free-reduced-school-meals-apply-anytime",
@@ -1288,7 +1293,8 @@
             "Discord Family Center parental controls before a holiday gaming gift",
             "Apple Watch For Your Kids: set up a child’s watch before you wrap it",
             "TikTok Family Pairing: set parental controls before holiday screen time jumps",
-            "Surprise app or game charges on your card: how to ask Apple or Google Play for a refund"
+            "Surprise app or game charges on your card: how to ask Apple or Google Play for a refund",
+            "Snapchat Family Center: see your teen's friends and set content and My AI controls"
           ]
         }
       ],
@@ -1303,7 +1309,7 @@
           "a": "Apple says each child should have their own Apple Account in your Family Sharing group, not share one with another family member."
         }
       ],
-      "updated": "2026-11-09"
+      "updated": "2026-11-10"
     },
     {
       "path": "/guides/chronic-absence-two-days-a-month",
@@ -1498,7 +1504,7 @@
       "group": "guides",
       "label": "Guide",
       "title": "Freeze your child's credit for free: a parent's step-by-step guide",
-      "seoTitle": "How to freeze a child's credit (under 16) at Equifax, Experian and TransUnion",
+      "seoTitle": "How to freeze a child's credit at all three bureaus",
       "summary": "Kids usually don't have credit reports, so someone using a child's Social Security number can go unnoticed for years. Since September 2018, federal law lets parents freeze a child's credit for free if the child is under 16. The freeze lasts until you lift it, and the FTC says to request it at all three credit bureaus.",
       "steps": [
         "Gather copies of your ID, proof of address, your child's birth certificate and your child's Social Security card. The FTC says the bureaus may ask for these.",
@@ -1564,7 +1570,7 @@
         "w": 1280,
         "h": 720
       },
-      "updated": "2026-10-26"
+      "updated": "2026-11-10"
     },
     {
       "path": "/guides/chatgpt-parental-controls",
@@ -1615,7 +1621,8 @@
             "Instagram Teen Accounts: set up parent supervision before the holidays",
             "Nintendo Switch and Switch 2 parental controls: set them up before the holidays",
             "YouTube for kids and teens: supervised accounts, YouTube Kids and Shorts limits",
-            "TikTok Family Pairing: set parental controls before holiday screen time jumps"
+            "TikTok Family Pairing: set parental controls before holiday screen time jumps",
+            "Snapchat Family Center: see your teen's friends and set content and My AI controls"
           ]
         }
       ],
@@ -1636,7 +1643,7 @@
         "w": 1280,
         "h": 720
       },
-      "updated": "2026-10-26"
+      "updated": "2026-11-10"
     },
     {
       "path": "/guides/package-delivery-text-scams",
@@ -1791,7 +1798,7 @@
       "group": "guides",
       "label": "Guide",
       "title": "Instagram Teen Accounts: set up parent supervision before the holidays",
-      "seoTitle": "Instagram Teen Account supervision 2026: invites, approvals, daily limits and sleep mode",
+      "seoTitle": "Instagram Teen Account supervision 2026: limits and sleep mode",
       "summary": "Teens on Instagram automatically get Teen Account settings, but parents get the most control by setting up supervision. Once it's on, a parent of a 13 to 15 year old approves any change that makes the account less protective, and can set a daily time limit and sleep mode hours. Here's how to set it up and what to check before winter break and new holiday devices.",
       "steps": [
         "Agree on it together. Instagram supervision needs both the teen and the parent to accept: either one sends an invite and the other accepts it.",
@@ -1839,7 +1846,8 @@
             "YouTube for kids and teens: supervised accounts, YouTube Kids and Shorts limits",
             "Discord Family Center parental controls before a holiday gaming gift",
             "TikTok Family Pairing: set parental controls before holiday screen time jumps",
-            "Winter concert and class party photos: what FERPA covers and how to opt out"
+            "Winter concert and class party photos: what FERPA covers and how to opt out",
+            "Snapchat Family Center: see your teen's friends and set content and My AI controls"
           ]
         }
       ],
@@ -1860,7 +1868,7 @@
         "w": 1280,
         "h": 720
       },
-      "updated": "2026-11-09"
+      "updated": "2026-11-10"
     },
     {
       "path": "/guides/nintendo-switch-parental-controls",
@@ -2184,7 +2192,7 @@
       "group": "guides",
       "label": "Guide",
       "title": "Google Family Link parental controls for Android and Chromebook holiday gifts",
-      "seoTitle": "Google Family Link parental controls 2026: Android and Chromebook holiday setup",
+      "seoTitle": "Google Family Link parental controls 2026: Android, Chromebook",
       "summary": "If an Android tablet, phone or Chromebook is under the tree, Google Family Link is the main way to supervise a child's Google Account on those devices. You can manage apps, Google Play content, screen time and Chrome filters from the Family Link app. Set it up before the gift is unwrapped, and know what Family Link does not cover.",
       "steps": [
         "Install the Family Link app on your own phone or tablet (Android 6.0+, iPhone/iPad on a supported iOS version, or a Chromebook that supports Android apps). You can also manage some settings at familylink.google.com.",
@@ -2264,14 +2272,14 @@
         "w": 1280,
         "h": 720
       },
-      "updated": "2026-11-09"
+      "updated": "2026-11-10"
     },
     {
       "path": "/guides/microsoft-family-safety-xbox-windows",
       "group": "guides",
       "label": "Guide",
       "title": "Microsoft Family Safety for Xbox and Windows holiday gifts",
-      "seoTitle": "Microsoft Family Safety parental controls 2026: Xbox and Windows holiday setup",
+      "seoTitle": "Microsoft Family Safety 2026: Xbox and Windows setup",
       "summary": "If an Xbox console or Windows PC is under the tree, Microsoft Family Safety is the hub for screen time, content filters, spending limits and activity reporting on those devices. Create a family group, add your child, connect the console or PC, then set limits before the gift is unwrapped. Pair it with the Xbox Family Settings app on your phone for day-of approvals.",
       "steps": [
         "Sign in at account.microsoft.com/family and create or open your Microsoft family group as an organizer.",
@@ -2351,14 +2359,14 @@
         "w": 1280,
         "h": 720
       },
-      "updated": "2026-11-04"
+      "updated": "2026-11-10"
     },
     {
       "path": "/guides/playstation-ps5-parental-controls",
       "group": "guides",
       "label": "Guide",
       "title": "PlayStation PS5 parental controls before a holiday console gift",
-      "seoTitle": "PlayStation PS5 parental controls 2026: family setup, spending and chat limits",
+      "seoTitle": "PS5 parental controls 2026: spending and chat limits",
       "summary": "If a PS5 is on the wish list, set up a PlayStation family, add your child’s account, then lock spending, communication, playtime and age levels before the box is opened. Use the PlayStation Family app for on-the-go approvals, set a console restriction passcode so settings cannot be changed, and keep the monthly spending limit at $0 unless you intentionally raise it.",
       "steps": [
         "Create or sign in to your adult PlayStation account, then set up a family as the family manager (Account Management > Family Management, or Settings > Family and Parental Controls on PS5).",
@@ -2438,14 +2446,14 @@
         "w": 1280,
         "h": 720
       },
-      "updated": "2026-11-05"
+      "updated": "2026-11-10"
     },
     {
       "path": "/guides/discord-family-center-parental-controls",
       "group": "guides",
       "label": "Guide",
       "title": "Discord Family Center parental controls before a holiday gaming gift",
-      "seoTitle": "Discord Family Center parental controls 2026: connect, activity, spending and screen time",
+      "seoTitle": "Discord Family Center parental controls 2026 (setup guide)",
       "summary": "If Discord is part of a holiday gaming gift, set up Family Center before the account is in daily use. Family Center is opt-in: your teen connects you via QR code or invite. You can see a rolling 7-day activity summary (friends, DMs and calls, servers, purchases and gifts—not message contents), set sensitive-content and request controls, add a monthly spending cap (including $0), and schedule screen downtime with a 15-minute warning. Guardians cannot edit the teen’s friend list or servers.",
       "steps": [
         "On your device, open Discord’s Family Center for parents/guardians and start a connection. Your teen must opt in—Family Center is not forced from the parent side alone.",
@@ -2507,7 +2515,8 @@
             "November school-parent checklist",
             "December school-parent checklist",
             "Apple Watch For Your Kids: set up a child’s watch before you wrap it",
-            "TikTok Family Pairing: set parental controls before holiday screen time jumps"
+            "TikTok Family Pairing: set parental controls before holiday screen time jumps",
+            "Snapchat Family Center: see your teen's friends and set content and My AI controls"
           ]
         }
       ],
@@ -2528,7 +2537,7 @@
         "w": 1280,
         "h": 720
       },
-      "updated": "2026-11-06"
+      "updated": "2026-11-10"
     },
     {
       "path": "/guides/apple-watch-for-your-kids-setup",
@@ -2758,7 +2767,8 @@
             "Google Family Link parental controls for Android and Chromebook holiday gifts",
             "iPhone and iPad parental controls: Screen Time, Ask to Buy and Ask to Browse",
             "November school-parent checklist",
-            "December school-parent checklist"
+            "December school-parent checklist",
+            "Snapchat Family Center: see your teen's friends and set content and My AI controls"
           ]
         }
       ],
@@ -2779,7 +2789,7 @@
         "w": 1280,
         "h": 720
       },
-      "updated": "2026-11-08"
+      "updated": "2026-11-10"
     },
     {
       "path": "/guides/school-closure-weather-alert-text-scams",
@@ -3022,6 +3032,169 @@
         "h": 720
       },
       "updated": "2026-11-09"
+    },
+    {
+      "path": "/guides/flying-with-kids-tsa-id-rules",
+      "group": "guides",
+      "label": "Guide",
+      "title": "Flying with kids over winter break: what ID TSA needs (and doesn't) for children and teens",
+      "seoTitle": "Do kids need ID to fly? TSA rules for children and teens (2026)",
+      "summary": "TSA does not require children under 18 to show ID on flights within the United States. Adults 18 and older need an acceptable ID such as a REAL ID–compliant license or a passport, and since February 1, 2026 an adult without one can pay a $45 TSA ConfirmID fee, with no guarantee TSA can verify them. Airlines can set their own ID rules for minors, so check yours—especially for teens flying alone, college students who just turned 18, and international trips, which still need passports.",
+      "steps": [
+        "Check every adult’s ID now. A driver’s license or state ID must be REAL ID–compliant (usually marked with a star); otherwise bring a passport, passport card or another ID on TSA’s acceptable-ID list. A temporary paper license is not accepted.",
+        "Kids under 18 flying with you inside the U.S. do not need ID for TSA. Still check your airline’s policy for minors, and carry a copy of a birth certificate if the airline asks for proof of age for a lap infant.",
+        "Teen flying alone? TSA does not require their ID, but if the teen has TSA PreCheck they need an acceptable ID to use the PreCheck lane. Book through the airline’s unaccompanied-minor process if their age requires it, and ask what documents the airline wants at check-in.",
+        "Student who turned 18 this year? They now need their own acceptable ID at the checkpoint—sort that out before they fly home for break.",
+        "If an adult’s ID is lost or not compliant, TSA says to pay the $45 ConfirmID fee online before heading to the airport. Verification is not guaranteed, so allow extra time.",
+        "Packing for little ones: formula, breast milk, toddler drinks and baby food (including puree pouches) are allowed in carry-ons over 3.4 ounces. Tell the officer at the start of screening and take them out for separate screening.",
+        "At the checkpoint, children 12 and under can keep shoes, light jackets and hats on, and TSA says children will not be separated from their parent. Strollers, car seats and booster seats go through the X-ray or get a physical inspection.",
+        "Questions before you go: AskTSA answers by text at 275-872 (text “Travel”), and families of children with disabilities or medical conditions can call TSA Cares at (855) 787-2227 about 72 hours before the trip."
+      ],
+      "blocks": [
+        {
+          "h": "What's confirmed (TSA)",
+          "ul": [
+            "TSA does not require children under 18 to provide identification when traveling within the United States; unaccompanied minors eligible for TSA PreCheck must show acceptable ID to receive expedited screening.",
+            "Adult passengers 18 and older must show valid identification at the checkpoint. Since May 7, 2025, state licenses and IDs that are not REAL ID–compliant are no longer accepted.",
+            "Starting February 1, 2026, travelers without an acceptable ID can pay a $45 TSA ConfirmID fee so TSA can attempt to verify their identity; TSA says there is no guarantee it can do so.",
+            "For international travel you still need a passport; for domestic flights one acceptable ID (a REAL ID or an alternative like a passport) is enough.",
+            "TSA uses modified screening procedures for children who appear to be 12 and under; standard procedures apply at 13 and older."
+          ]
+        },
+        {
+          "h": "Limits to state clearly",
+          "ul": [
+            "Airlines set their own rules for minors and unaccompanied-minor services; TSA tells families to contact the airline.",
+            "International trips, and some trips with only one parent, can require extra documents set by the destination country or airline. Check those requirements separately.",
+            "TSA’s acceptable-ID list can change without notice; check it again before you leave."
+          ]
+        },
+        {
+          "h": "For PTAs",
+          "p": [
+            "A short December newsletter line helps families who travel: “Flying over winter break? Kids under 18 don’t need ID for TSA on U.S. flights, but every adult needs a REAL ID or passport. Students who turned 18 this year need their own. Check tsa.gov/ID before you go.”"
+          ]
+        },
+        {
+          "h": "Sources",
+          "p": [
+            "TSA: Acceptable Identification at the TSA Checkpoint — https://www.tsa.gov/travel/security-screening/identification",
+            "TSA FAQ: Do minors need identification to fly within the U.S.? — https://www.tsa.gov/travel/frequently-asked-questions/do-minors-need-identification-fly-within-us",
+            "TSA: REAL ID Frequently Asked Questions — https://www.tsa.gov/realid/realid-faqs",
+            "TSA: TSA ConfirmID FAQs — https://www.tsa.gov/tsaconfirm-id/confirmid-faqs",
+            "TSA: Traveling with Children — https://www.tsa.gov/travel/special-procedures/traveling-children"
+          ]
+        },
+        {
+          "h": "Related",
+          "ul": [
+            "Thanksgiving trip with kids: a 10-minute car seat and booster check",
+            "December school-parent checklist"
+          ]
+        }
+      ],
+      "flag": "Checked against TSA’s acceptable-ID page, minors ID FAQ, REAL ID FAQs, ConfirmID FAQs and Traveling with Children page on November 10, 2026. TSA says its ID list can change without notice; confirm on tsa.gov and with your airline before sharing with families.",
+      "faq": [
+        {
+          "q": "Does my 16-year-old need a REAL ID to fly with us?",
+          "a": "No. TSA does not require ID for travelers under 18 on U.S. flights. Your airline may have its own rules, so check, and note a teen using TSA PreCheck alone needs an acceptable ID for that lane."
+        },
+        {
+          "q": "What if I forget my ID at home?",
+          "a": "TSA says you can pay a $45 ConfirmID fee to have it attempt to verify your identity, ideally before you get to the airport. Verification is not guaranteed, so leave extra time."
+        }
+      ],
+      "image": {
+        "src": "/images/flying-with-kids-tsa-id-rules.webp",
+        "alt": "A smiling parent with two school-age kids wearing backpacks and holiday sweaters in a busy airport terminal, the parent holding an ID wallet and phone beside a rolling suitcase, a decorated tree and a blurred departures board behind them, no airline logos",
+        "w": 1280,
+        "h": 720
+      },
+      "updated": "2026-11-10"
+    },
+    {
+      "path": "/guides/snapchat-family-center-parental-controls",
+      "group": "guides",
+      "label": "Guide",
+      "title": "Snapchat Family Center: see your teen's friends and set content and My AI controls",
+      "seoTitle": "Snapchat parental controls 2026: Family Center setup for parents",
+      "summary": "Snapchat’s Family Center lets a parent see who their teen (13–17) is friends with and has chatted with in the last seven days—without reading the messages—plus limit sensitive content, stop My AI from replying to the teen, and request their location. The parent needs their own Snapchat account, must be friends with the teen, and sends an invitation the teen has to accept. Set it up together before winter break.",
+      "steps": [
+        "Download Snapchat and create your own account (Family Center is limited to parents and caregivers 18 and older, and to teens 13–17). Make sure the app is up to date.",
+        "Add your teen as a friend by searching for their username, and have them accept.",
+        "Open Family Center: search “Family Center” (or “safety,” “family” or “parent”) in the app, or go to your Profile → Settings, where Family Center has a permanent home.",
+        "Go through setup, choose your teen on the invitation screen and tap Send Invitation. It arrives as a chat message that may disappear after viewing, so remind your teen in person to tap Accept.",
+        "Once connected, review Recent Conversations (who they have messaged in the last seven days, not what was said) and New Friends.",
+        "In Family Center settings, turn on the content limits for sensitive content, and choose whether to stop My AI from replying to your teen.",
+        "Talk about location: you can request your teen’s location on Snap Map and set Place Alerts for arriving at or leaving places like home or school. Agree together on what you will use.",
+        "Check the key privacy settings Family Center shows you (birthdate, public profile, location sharing), and show your teen how to report an account."
+      ],
+      "blocks": [
+        {
+          "h": "What's confirmed (Snapchat)",
+          "ul": [
+            "Family Center lets parents see who their teen has chatted with recently without reading messages, see group members in active group chats, and see existing and newly added friends.",
+            "Parents can limit sensitive content and stop My AI from replying to their teen, request the teen’s location on Snap Map, and set Place Alerts.",
+            "Recent Conversations shows the teen’s five most recent conversations, with a view of all conversations from the last 7 days; New Friends highlights friends added in the last seven days.",
+            "The teen must view and accept the invitation to opt in. The invitation is a chat message that deletes immediately or 24 hours after viewing, depending on the teen’s settings.",
+            "Family Center’s age gates are 18+ for parents and caregivers and 13–17 for teens. Snapchat says it is rolling out by country and may not be available everywhere yet."
+          ]
+        },
+        {
+          "h": "Limits to state clearly",
+          "ul": [
+            "Family Center does not show message content, and a teen can choose not to accept the invitation; it works best as a conversation, not surveillance.",
+            "It does not replace device-level controls. Pair it with Screen Time (iPhone) or Family Link (Android) for app limits and purchase approvals.",
+            "Menus and features change by app version and region; Snapchat’s help pages are the source of truth."
+          ]
+        },
+        {
+          "h": "For PTAs",
+          "p": [
+            "For a winter-break newsletter: “If your middle or high schooler uses Snapchat, set up Family Center together—you’ll see who they’re talking to (not the messages), can limit sensitive content and turn off My AI replies. Search ‘Family Center’ in the app.” Link families to Snapchat’s parent page below."
+          ]
+        },
+        {
+          "h": "Sources",
+          "p": [
+            "Snapchat Support: What is Family Center? — https://help.snapchat.com/hc/en-us/articles/7121384944788-What-is-Family-Center",
+            "Snapchat Support: How do I add my teen to Family Center? — https://help.snapchat.com/hc/en-us/articles/8132784476820-How-do-I-add-my-teen-to-Family-Center",
+            "Snapchat Support: Why can’t I access Family Center? — https://help.snapchat.com/hc/en-us/articles/8132746171796-Why-can-t-I-access-Family-Center",
+            "Snapchat for Parents: Family Center — https://parents.snapchat.com/family-center"
+          ]
+        },
+        {
+          "h": "Related",
+          "ul": [
+            "TikTok Family Pairing: set parental controls before holiday screen time jumps",
+            "Instagram Teen Accounts: set up parent supervision before the holidays",
+            "Discord Family Center parental controls before a holiday gaming gift",
+            "New phone, tablet or console for the holidays? Set up parental controls first",
+            "ChatGPT parental controls: link your teen's account and set quiet hours",
+            "iPhone and iPad parental controls: Screen Time, Ask to Buy and Ask to Browse",
+            "Google Family Link parental controls for Android and Chromebook holiday gifts",
+            "December school-parent checklist"
+          ]
+        }
+      ],
+      "flag": "Checked against Snapchat’s What is Family Center, add-your-teen and access help articles and its parents’ Family Center page on November 10, 2026. Snapchat changes menus, features and availability by region and app version; confirm the current steps on Snapchat’s support pages before sharing with families.",
+      "faq": [
+        {
+          "q": "Can I read my teen’s Snapchat messages with Family Center?",
+          "a": "No. Family Center shows who your teen has talked with and their friends list, not message content. Snapchat designed it to give parents insight while keeping conversations private."
+        },
+        {
+          "q": "Can I turn off My AI for my teen?",
+          "a": "Family Center lets parents stop My AI from replying to their teen. Find it in Family Center’s settings after your teen accepts the invitation."
+        }
+      ],
+      "image": {
+        "src": "/images/snapchat-family-center-parental-controls.webp",
+        "alt": "A mother and her teenage daughter on a living room sofa in warm evening lamplight, each holding a smartphone, the mother pointing at a settings screen with blurred toggles as they talk, no app logos",
+        "w": 1280,
+        "h": 720
+      },
+      "updated": "2026-11-10"
     }
   ],
   "static": [
