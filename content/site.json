@@ -3429,7 +3429,7 @@
       "path": "/privacy",
       "title": "Privacy policy",
       "summary": "This policy describes the personal information we collect on this website and how we use it.",
-      "effectiveDate": "[GO-LIVE DATE]",
+      "effectiveDate": "November 11, 2026",
       "tldr": false,
       "cta": false,
       "blocks": [
@@ -3548,7 +3548,7 @@
       "path": "/terms",
       "title": "Terms of use",
       "summary": "These terms apply to this website. Content is general information and may contain errors.",
-      "effectiveDate": "[GO-LIVE DATE]",
+      "effectiveDate": "November 11, 2026",
       "tldr": false,
       "cta": false,
       "blocks": [
@@ -3604,7 +3604,7 @@
       "path": "/refund",
       "title": "Refunds",
       "summary": "Refund and cancellation terms for $79 and $199 advertising placements appear in the Ad Policy and are summarized in the terms.",
-      "effectiveDate": "[GO-LIVE DATE]",
+      "effectiveDate": "November 11, 2026",
       "tldr": false,
       "cta": false,
       "blocks": [
