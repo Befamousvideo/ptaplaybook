@@ -3,7 +3,7 @@
   "domain": "ptaplaybook.com",
   "tagline": "Fundraiser playbooks and school-app sanity for parents",
   "color": "#c2410c",
-  "updated": "November 10, 2026",
+  "updated": "November 11, 2026",
   "description": "Free playbooks, templates and checklists for PTA/PTO volunteers and busy parents: run fundraisers, recruit volunteers, and tame school-app notifications.",
   "nav": [
     {
@@ -430,8 +430,8 @@
           ]
         }
       ],
-      "updated": "2026-11-08",
-      "seoTitle": "November school-parent checklist: Thanksgiving week to winter break"
+      "updated": "2026-11-11",
+      "seoTitle": "November school-parent checklist: Thanksgiving to winter break"
     },
     {
       "path": "/pta/fundraisers/giving-tuesday",
@@ -708,7 +708,9 @@
         "Before the winter concert, check your school's photo rules and the directory-information opt-out (see Winter concert and class party photos: what FERPA covers and how to opt out)",
         "New tablet or phone? Turn on purchase approvals first, and act within 48 hours on surprise Google Play charges (see Surprise app or game charges on your card: how to ask Apple or Google Play for a refund)",
         "Flying over winter break? Check every adult's REAL ID or passport; kids under 18 don't need ID for TSA on U.S. flights (see Flying with kids over winter break: what ID TSA needs (and doesn't) for children and teens)",
-        "Teen on Snapchat? Set up Family Center together and decide on content limits and My AI (see Snapchat Family Center: see your teen's friends and set content and My AI controls)"
+        "Teen on Snapchat? Set up Family Center together and decide on content limits and My AI (see Snapchat Family Center: see your teen's friends and set content and My AI controls)",
+        "Gaming PC or Steam Deck as a gift? Set up Steam Families and playtime limits before it's opened (see Steam Families parental controls: game access, playtime limits and purchase requests)",
+        "VR headset as a gift? Create a parent-managed account (10–12) or turn on teen supervision together (see Meta Quest VR headset for the holidays: parent-managed accounts (10–12) and teen supervision)"
       ],
       "blocks": [
         {
@@ -759,7 +761,9 @@
             "Surprise app or game charges on your card: how to ask Apple or Google Play for a refund",
             "Winter concert and class party photos: what FERPA covers and how to opt out",
             "Flying with kids over winter break: what ID TSA needs (and doesn't) for children and teens",
-            "Snapchat Family Center: see your teen's friends and set content and My AI controls"
+            "Snapchat Family Center: see your teen's friends and set content and My AI controls",
+            "Steam Families parental controls: game access, playtime limits and purchase requests",
+            "Meta Quest VR headset for the holidays: parent-managed accounts (10–12) and teen supervision"
           ]
         }
       ],
@@ -773,7 +777,7 @@
           "a": "No. Gifts are optional. A specific handwritten note from your child is often the most valued thank-you, and many PTAs cover a building-wide treat so families don't have to."
         }
       ],
-      "updated": "2026-11-10",
+      "updated": "2026-11-11",
       "seoTitle": "December school-parent checklist: winter break, alerts and gifts"
     },
     {
@@ -1214,7 +1218,8 @@
           "ul": [
             "December school-parent checklist",
             "November school-parent checklist",
-            "New phone, tablet or console for the holidays? Set up parental controls first"
+            "New phone, tablet or console for the holidays? Set up parental controls first",
+            "Meta Quest VR headset for the holidays: parent-managed accounts (10–12) and teen supervision"
           ]
         }
       ],
@@ -1229,7 +1234,7 @@
           "a": "Search the product name at CPSC.gov/Recalls before giving it."
         }
       ],
-      "updated": "2026-10-23"
+      "updated": "2026-11-11"
     },
     {
       "path": "/guides/new-device-parental-controls",
@@ -1294,7 +1299,9 @@
             "Apple Watch For Your Kids: set up a child’s watch before you wrap it",
             "TikTok Family Pairing: set parental controls before holiday screen time jumps",
             "Surprise app or game charges on your card: how to ask Apple or Google Play for a refund",
-            "Snapchat Family Center: see your teen's friends and set content and My AI controls"
+            "Snapchat Family Center: see your teen's friends and set content and My AI controls",
+            "Steam Families parental controls: game access, playtime limits and purchase requests",
+            "Meta Quest VR headset for the holidays: parent-managed accounts (10–12) and teen supervision"
           ]
         }
       ],
@@ -1309,7 +1316,7 @@
           "a": "Apple says each child should have their own Apple Account in your Family Sharing group, not share one with another family member."
         }
       ],
-      "updated": "2026-11-10"
+      "updated": "2026-11-11"
     },
     {
       "path": "/guides/chronic-absence-two-days-a-month",
@@ -1440,7 +1447,7 @@
       "group": "guides",
       "label": "Guide",
       "title": "Class holiday parties and food allergies: a PTA planning checklist",
-      "seoTitle": "Class holiday party food allergy checklist for room parents and PTAs",
+      "seoTitle": "Class holiday party food allergy checklist for room parents",
       "summary": "CDC says about 1 in 13 children has a food allergy, roughly two in every classroom, and that strict avoidance is the only way to prevent a reaction. Before the December class parties, room parents and PTAs can plan celebrations that every child can safely join, starting with non-food fun.",
       "steps": [
         "Talk to the teacher and school nurse early. Ask what the school's food rules are and whether any students in the class have food allergies (without asking who).",
@@ -1497,7 +1504,7 @@
           "a": "No. Work through the teacher and school nurse, who can tell you which foods to avoid without sharing any student's health information."
         }
       ],
-      "updated": "2026-11-09"
+      "updated": "2026-11-11"
     },
     {
       "path": "/guides/freeze-your-childs-credit",
@@ -1577,7 +1584,7 @@
       "group": "guides",
       "label": "Guide",
       "title": "ChatGPT parental controls: link your teen's account and set quiet hours",
-      "seoTitle": "ChatGPT parental controls: how to link a teen account (2026 steps)",
+      "seoTitle": "ChatGPT parental controls: link a teen account (2026 steps)",
       "summary": "If your teen uses ChatGPT, you can link your account to theirs and manage settings like quiet hours, voice mode, image generation and whether their chats are used to train models. You can't read their conversations, and either of you can unlink. Here's how to set it up in about 10 minutes, based on OpenAI's help pages.",
       "steps": [
         "Talk with your teen first. Linking requires them to accept the invite, and OpenAI notifies the parent if a teen later unlinks.",
@@ -1643,14 +1650,14 @@
         "w": 1280,
         "h": 720
       },
-      "updated": "2026-11-10"
+      "updated": "2026-11-11"
     },
     {
       "path": "/guides/package-delivery-text-scams",
       "group": "guides",
       "label": "Guide",
       "title": "Fake package delivery texts: what parents and teens should know before the holidays",
-      "seoTitle": "Package delivery text scams: how families can spot them (USPS, UPS, FedEx)",
+      "seoTitle": "Package delivery text scams: how families can spot them",
       "summary": "With holiday orders arriving, many families get texts saying a package is delayed, needs a fee or needs updated shipping details. The U.S. Postal Inspection Service says USPS won't text you a link unless you signed up for tracking on that package, and the FCC says not to click links or call numbers in unexpected delivery notices. Here's a quick family check, including for teens with their own phones.",
       "steps": [
         "Don't tap the link or reply, even to text STOP. Check the order on the store's site or app, or the carrier's official website, typed in yourself.",
@@ -1713,7 +1720,7 @@
         "w": 1280,
         "h": 720
       },
-      "updated": "2026-10-27"
+      "updated": "2026-11-11"
     },
     {
       "path": "/guides/roblox-parental-controls",
@@ -1770,7 +1777,9 @@
             "YouTube for kids and teens: supervised accounts, YouTube Kids and Shorts limits",
             "Fortnite and Epic Games parental controls: Cabined Accounts, PIN, chat and spending",
             "Discord Family Center parental controls before a holiday gaming gift",
-            "Surprise app or game charges on your card: how to ask Apple or Google Play for a refund"
+            "Surprise app or game charges on your card: how to ask Apple or Google Play for a refund",
+            "Steam Families parental controls: game access, playtime limits and purchase requests",
+            "Meta Quest VR headset for the holidays: parent-managed accounts (10–12) and teen supervision"
           ]
         }
       ],
@@ -1791,7 +1800,7 @@
         "w": 1280,
         "h": 720
       },
-      "updated": "2026-11-09"
+      "updated": "2026-11-11"
     },
     {
       "path": "/guides/instagram-teen-account-supervision",
@@ -1847,7 +1856,8 @@
             "Discord Family Center parental controls before a holiday gaming gift",
             "TikTok Family Pairing: set parental controls before holiday screen time jumps",
             "Winter concert and class party photos: what FERPA covers and how to opt out",
-            "Snapchat Family Center: see your teen's friends and set content and My AI controls"
+            "Snapchat Family Center: see your teen's friends and set content and My AI controls",
+            "Meta Quest VR headset for the holidays: parent-managed accounts (10–12) and teen supervision"
           ]
         }
       ],
@@ -1868,7 +1878,7 @@
         "w": 1280,
         "h": 720
       },
-      "updated": "2026-11-10"
+      "updated": "2026-11-11"
     },
     {
       "path": "/guides/nintendo-switch-parental-controls",
@@ -1927,7 +1937,8 @@
             "Fortnite and Epic Games parental controls: Cabined Accounts, PIN, chat and spending",
             "Microsoft Family Safety for Xbox and Windows holiday gifts",
             "PlayStation PS5 parental controls before a holiday console gift",
-            "Discord Family Center parental controls before a holiday gaming gift"
+            "Discord Family Center parental controls before a holiday gaming gift",
+            "Steam Families parental controls: game access, playtime limits and purchase requests"
           ]
         }
       ],
@@ -1948,7 +1959,7 @@
         "w": 1280,
         "h": 720
       },
-      "updated": "2026-11-09"
+      "updated": "2026-11-11"
     },
     {
       "path": "/guides/youtube-supervised-accounts",
@@ -2085,7 +2096,8 @@
             "December school-parent checklist",
             "iPhone and iPad parental controls: Screen Time, Ask to Buy and Ask to Browse",
             "Discord Family Center parental controls before a holiday gaming gift",
-            "Surprise app or game charges on your card: how to ask Apple or Google Play for a refund"
+            "Surprise app or game charges on your card: how to ask Apple or Google Play for a refund",
+            "Steam Families parental controls: game access, playtime limits and purchase requests"
           ]
         }
       ],
@@ -2106,7 +2118,7 @@
         "w": 1280,
         "h": 720
       },
-      "updated": "2026-11-09"
+      "updated": "2026-11-11"
     },
     {
       "path": "/guides/apple-screen-time-ask-to-buy",
@@ -2338,7 +2350,8 @@
             "Nintendo Switch and Switch 2 parental controls: set them up before the holidays",
             "December school-parent checklist",
             "PlayStation PS5 parental controls before a holiday console gift",
-            "Discord Family Center parental controls before a holiday gaming gift"
+            "Discord Family Center parental controls before a holiday gaming gift",
+            "Steam Families parental controls: game access, playtime limits and purchase requests"
           ]
         }
       ],
@@ -2359,7 +2372,7 @@
         "w": 1280,
         "h": 720
       },
-      "updated": "2026-11-10"
+      "updated": "2026-11-11"
     },
     {
       "path": "/guides/playstation-ps5-parental-controls",
@@ -2425,7 +2438,8 @@
             "iPhone and iPad parental controls: Screen Time, Ask to Buy and Ask to Browse",
             "November school-parent checklist",
             "December school-parent checklist",
-            "Discord Family Center parental controls before a holiday gaming gift"
+            "Discord Family Center parental controls before a holiday gaming gift",
+            "Steam Families parental controls: game access, playtime limits and purchase requests"
           ]
         }
       ],
@@ -2446,7 +2460,7 @@
         "w": 1280,
         "h": 720
       },
-      "updated": "2026-11-10"
+      "updated": "2026-11-11"
     },
     {
       "path": "/guides/discord-family-center-parental-controls",
@@ -2796,7 +2810,7 @@
       "group": "guides",
       "label": "Guide",
       "title": "Fake school-closure and weather-alert texts: pause and verify before you tap",
-      "seoTitle": "Fake school-closure and weather-alert texts: how families can verify",
+      "seoTitle": "Fake school-closure and weather-alert texts: how to verify",
       "summary": "Schools and public agencies do send weather and closure notices—and scammers send look-alike texts and emails with urgent links. CISA, last revised January 26, 2026, warns people to be wary of texts and social posts related to severe weather and to confirm guidance with trusted local officials. The FCC tells consumers not to reply to texts or tap links from numbers they do not recognize, and to call back using an official number if someone claims to be from a company or agency. Pause, then check the school’s real app, website or directory number.",
       "steps": [
         "Treat an unexpected text about a school closure, delayed opening, early dismissal or weather emergency as unverified until you check a channel you already trust.",
@@ -2869,7 +2883,7 @@
         "w": 1280,
         "h": 720
       },
-      "updated": "2026-11-08"
+      "updated": "2026-11-11"
     },
     {
       "path": "/guides/surprise-app-purchase-refunds",
@@ -3195,6 +3209,170 @@
         "h": 720
       },
       "updated": "2026-11-10"
+    },
+    {
+      "path": "/guides/steam-families-parental-controls",
+      "group": "guides",
+      "label": "Guide",
+      "title": "Steam Families parental controls: game access, playtime limits and purchase requests",
+      "seoTitle": "Steam parental controls 2026: set up Steam Families for kids",
+      "summary": "If a gaming PC or Steam Deck is on the holiday list, set up Steam Families first. It replaced Steam’s old Family View and Family Sharing. An adult creates a family of up to six people, invites the child’s own Steam account with the Child role, then chooses which games they can play, whether they can use the Store, Community and chat, and daily or hourly playtime limits. Kids can send their shopping cart to a parent to approve and pay—no shared card needed.",
+      "steps": [
+        "Sign in to your own Steam account (create one if needed). Your child needs their own separate account; use an email address you can access.",
+        "Go to Account Details on the Steam Store page, open Family Management, and click Create a Family. Give it any name.",
+        "Click Invite a Member, find your child’s account, and choose the Child role. Add a co-parent with the Adult role so either of you can approve requests.",
+        "Have your child accept the invitation from their account.",
+        "In Account Settings → Family Management → Manage, expand your child’s entry and turn on Enable parental controls.",
+        "Choose game access (all games, or only games you pick), whether the Steam Store, Community and Friends Chat are allowed, and playtime limits by day or hour.",
+        "Install the Steam mobile app so you can approve purchase requests and extra-time or feature requests when you are away. Requests can also be approved by email.",
+        "Test it together: sign in as your child, try a game you did not allow, and send a practice request so everyone knows how it works."
+      ],
+      "blocks": [
+        {
+          "h": "What's confirmed (Steam)",
+          "ul": [
+            "Steam Families replaces Steam Family Sharing and Steam Family View and can contain up to 6 members. It can be managed from the Steam client, a mobile device or a web browser.",
+            "There are two roles: adults manage invites and restrictions; children are subject to parental controls and cannot manage the family or leave it themselves.",
+            "Parental controls cover game access, Steam Store/Community/chat restrictions, playtime limits, playtime reports, approval of requests for more playtime or feature access, and account recovery for children.",
+            "Children can ask an adult in the family to pay for their shopping cart; the adult approves and pays from a mobile device or email, and the games go straight to the child’s account.",
+            "An adult can recover a child’s account if the child has been in the family at least 30 days. Adults who leave a family must wait a year before creating or joining another one."
+          ]
+        },
+        {
+          "h": "Limits to state clearly",
+          "ul": [
+            "Not every game can be shared across the family (for example free-to-play games and games that need a separate third-party account). Check each game’s own age rating and online features.",
+            "Games that use their own accounts and chat (Fortnite, Roblox and many others) have separate parental controls; Steam’s settings do not cover them.",
+            "Valve may change family requirements and menus; Steam Support is the source of truth."
+          ]
+        },
+        {
+          "h": "For PTAs",
+          "p": [
+            "For a December newsletter: “Gaming PC or Steam Deck under the tree? Set up Steam Families before the gift is opened—you choose which games your child can play, set playtime limits, and approve purchases from your phone. Search ‘Steam Families’ on Steam Support.”"
+          ]
+        },
+        {
+          "h": "Sources",
+          "p": [
+            "Steam Support: Steam Families User Guide & FAQ — https://help.steampowered.com/en/faqs/view/054C-3167-DD7F-49D4",
+            "Steam News: Steam Families announcement — https://store.steampowered.com/news/app/593110/view/4605582245626919823"
+          ]
+        },
+        {
+          "h": "Related",
+          "ul": [
+            "PlayStation PS5 parental controls before a holiday console gift",
+            "Microsoft Family Safety for Xbox and Windows holiday gifts",
+            "Nintendo Switch and Switch 2 parental controls: set them up before the holidays",
+            "Fortnite and Epic Games parental controls: Cabined Accounts, PIN, chat and spending",
+            "Roblox parental controls: link your account and set chat, spending and screen time",
+            "New phone, tablet or console for the holidays? Set up parental controls first",
+            "Surprise app or game charges on your card: how to ask Apple or Google Play for a refund",
+            "December school-parent checklist"
+          ]
+        }
+      ],
+      "flag": "Checked against Steam Support’s Steam Families User Guide & FAQ and Valve’s Steam Families announcement on November 11, 2026. Valve changes menus and family requirements over time; confirm the current steps on Steam Support before sharing with families.",
+      "faq": [
+        {
+          "q": "Can my child buy games on Steam without my card?",
+          "a": "Yes. With Steam Families, a child can send their cart to an adult in the family, who approves and pays from the Steam mobile app or email. The games are added to the child’s account."
+        },
+        {
+          "q": "Does Steam Families limit chat in every game?",
+          "a": "No. It can restrict Steam’s own Community and Friends Chat. Games with their own accounts and chat need their own parental controls."
+        }
+      ],
+      "image": {
+        "src": "/images/steam-families-parental-controls.webp",
+        "alt": "A father leaning in beside his 12-year-old son at a desk with an unbranded gaming PC in a cozy bedroom, pointing at a blurred family settings screen on the monitor, snow outside the window and warm evening light, no brand logos",
+        "w": 1280,
+        "h": 720
+      },
+      "updated": "2026-11-11"
+    },
+    {
+      "path": "/guides/meta-quest-parental-supervision",
+      "group": "guides",
+      "label": "Guide",
+      "title": "Meta Quest VR headset for the holidays: parent-managed accounts (10–12) and teen supervision",
+      "seoTitle": "Meta Quest parental controls 2026: kids 10–12 and teens",
+      "summary": "Meta Quest headsets are a popular holiday gift. For children 10 to 12 (age may vary by region), a parent creates and manages the child’s Meta account in the Meta Horizon app’s Family Center: you approve apps, set time limits, make purchases and can watch what they see in real time. Teens 13 to 17 manage their own account, and supervision is optional—both parent and teen must agree. Set up a passcode on each adult profile so kids use their own account.",
+      "steps": [
+        "Before the gift is opened, install the Meta Horizon app on your phone and sign in or create your own account and Meta Horizon profile.",
+        "For a child 10–12: in the Meta Horizon app, tap Menu → Family Center → Get started → Create an account for a child, then follow the steps. You will both use your email and password; sign in, then choose to continue with your child’s account.",
+        "In Family Center, select your child to manage connections, time spent and time limits, which apps they can use, safety settings for apps and social features, and account privacy.",
+        "For a teen 13–17: in Family Center, invite your teen to supervision (or have them invite you). It starts only when both of you agree.",
+        "With supervision on, set daily time limits and scheduled breaks, review apps, purchases, downloads and gifts, and decide whether to allow apps rated above their age, social features such as chats, calls and voice chat in Worlds, PC connection (Link and Air Link) and developer mode.",
+        "Set a passcode on your own headset profile (and any other adult profiles) and require it to unlock the headset, so your child uses their own account.",
+        "Use casting to your phone during the first sessions so you can see what your child sees, and talk together about reporting and blocking people who are not following the rules."
+      ],
+      "blocks": [
+        {
+          "h": "What's confirmed (Meta)",
+          "ul": [
+            "Parents can set up and supervise a Meta Horizon profile for a child aged 10–12 (age may vary by region). Managing it lets parents control account and privacy settings, see time spent and set limits, allow or block apps and features, make purchases and watch in real time. Social features for children’s accounts are limited.",
+            "For teens, supervision is optional: the teen must be 13–17, the parent 18 or older, and both must agree. Either can remove it; it ends automatically at 18.",
+            "Supervision lets parents set daily time limits and breaks, see apps, purchases, downloads and gifts, block or allow apps and features, see who the teen follows and who follows them, block Horizon social features, cast the headset to a phone, and block Link/Air Link and developer mode.",
+            "By default, supervised teens are blocked from downloading or buying apps rated above their age in the Meta Horizon Store; parents can approve individual apps.",
+            "Parents cannot read a teen’s private messages, change their avatar or username, or delete their profile or reset their password (except where local law allows)."
+          ]
+        },
+        {
+          "h": "Limits to state clearly",
+          "ul": [
+            "Blocking Meta Horizon’s social features does not block social features inside other apps; check each app’s own settings and age rating.",
+            "Meta recommends a passcode on adult profiles because a child can otherwise pick up the headset under a parent’s account.",
+            "Features and ages vary by region and app version; Meta’s Quest Help pages are the source of truth."
+          ]
+        },
+        {
+          "h": "For PTAs",
+          "p": [
+            "For a winter-break newsletter: “VR headset under the tree? For kids 10–12, set up a parent-managed account in the Meta Horizon app’s Family Center before the gift is opened; for teens, turn on supervision together. Add a passcode to your own profile so kids use their own account.”"
+          ]
+        },
+        {
+          "h": "Sources",
+          "p": [
+            "Meta Quest Help: Create and manage a Meta account on Meta Horizon for your child — https://www.meta.com/help/quest/602330541813401/",
+            "Meta Quest Help: About supervision on Meta Horizon — https://www.meta.com/help/quest/431201291704430/",
+            "Meta Family Center: Parental controls for Meta Horizon & Quest — https://familycenter.meta.com/our-products/horizon-and-quest"
+          ]
+        },
+        {
+          "h": "Related",
+          "ul": [
+            "New phone, tablet or console for the holidays? Set up parental controls first",
+            "Instagram Teen Accounts: set up parent supervision before the holidays",
+            "Roblox parental controls: link your account and set chat, spending and screen time",
+            "Surprise app or game charges on your card: how to ask Apple or Google Play for a refund",
+            "iPhone and iPad parental controls: Screen Time, Ask to Buy and Ask to Browse",
+            "Google Family Link parental controls for Android and Chromebook holiday gifts",
+            "Holiday gift check: toy safety rules from CPSC",
+            "December school-parent checklist"
+          ]
+        }
+      ],
+      "flag": "Checked against Meta Quest Help’s child-account and teen-supervision articles and Meta Family Center’s Horizon & Quest page on November 11, 2026. Meta changes features, ages and menus by region and app version; confirm the current steps on Meta’s help pages before sharing with families.",
+      "faq": [
+        {
+          "q": "How old does my child need to be for a Meta Quest account?",
+          "a": "Meta offers parent-managed accounts for children 10–12 (age may vary by region). Teens 13 and up manage their own accounts, with optional parent supervision."
+        },
+        {
+          "q": "Can I see my teen’s messages in VR?",
+          "a": "No. Meta says supervising parents cannot read a teen’s private messages. You can see time spent, apps and purchases, who they follow, and block social features."
+        }
+      ],
+      "image": {
+        "src": "/images/meta-quest-parental-supervision.webp",
+        "alt": "A mother helping her teenage daughter adjust a plain white unbranded VR headset in a living room with a decorated tree and wrapping paper, the mother holding a phone with a blurred settings screen, warm light, no brand logos",
+        "w": 1280,
+        "h": 720
+      },
+      "updated": "2026-11-11"
     }
   ],
   "static": [
