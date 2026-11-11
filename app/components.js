@@ -18,6 +18,15 @@ export function Cta({ cta }) {
 export function Sponsor() {
   return <HouseAd />;
 }
+export function Mailing() {
+  return (<p className="mailing">Mailing address:<br />{site.name}, a StorenTech company<br />{site.mailingAddress}</p>);
+}
+export function SupportEmail() {
+  return (<p className="email-addr"><img className="email-img" src="/images/support-email.png" alt="Support email address" width={210} height={23} /></p>);
+}
+export function AdsEmail() {
+  return (<p className="email-addr"><img className="email-img" src="/images/ads-email.png" alt="Advertising email address" width={179} height={22} /></p>);
+}
 export function Block({ b }) {
   return (<section>
     {b.h && <h2>{b.h}</h2>}
@@ -26,5 +35,6 @@ export function Block({ b }) {
     {b.ul && <ul>{b.ul.map((t, i) => <Li key={i} t={t} />)}</ul>}
     {b.pre && <pre>{b.pre}</pre>}
     {b.table && <table><thead><tr>{b.table[0].map((c, i) => <th key={i}>{c}</th>)}</tr></thead><tbody>{b.table.slice(1).map((r, i) => <tr key={i}>{r.map((c, j) => <td key={j}>{c}</td>)}</tr>)}</tbody></table>}
+    {b.mailing && <Mailing />}
   </section>);
 }

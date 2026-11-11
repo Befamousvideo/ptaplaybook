@@ -2,7 +2,7 @@ import { put, list, del, get } from "@vercel/blob";
 import { createHmac, timingSafeEqual } from "crypto";
 import site from "../content/site.json";
 import { SELF } from "./network";
-export const NOTIFY = "vincent@storentech.com";
+export const NOTIFY = Buffer.from("dmluY2VudEBzdG9yZW50ZWNoLmNvbQ==", "base64").toString("utf8");
 export const FROM = `${site.name} Ads <ads@agentsformainstreet.com>`;
 export const BASE = `https://${site.domain}`;
 export const PLANS = {

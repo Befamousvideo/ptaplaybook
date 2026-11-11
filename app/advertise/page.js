@@ -1,5 +1,6 @@
 import site from "../../content/site.json";
 import AdOrderForm from "../AdOrderForm";
+import { AdsEmail } from "../components";
 import { PLANS, CATEGORIES } from "../ads-lib";
 export const metadata = { title: "Advertise", description: `Advertise on ${site.name}: labeled, reviewed ads with simple founding pricing.`, alternates: { canonical: "/advertise" } };
 export default function Advertise() {
@@ -34,6 +35,6 @@ export default function Advertise() {
       <p>These terms also appear in our <a href="/advertise/policy">Ad Policy</a>. The version at the time you order applies to your run.</p>
       <p>Questions? Use the contact form.</p>
     </section>
-    <section className="card"><h2>Order an ad</h2><AdOrderForm plans={plans} categories={CATEGORIES} /></section>
+    <section className="card"><h2>Order an ad</h2><AdOrderForm plans={plans} categories={CATEGORIES} /><AdsEmail /></section>
   </article>);
 }
