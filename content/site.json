@@ -3506,7 +3506,7 @@
           ]
         },
         {
-          "h": "Children (VERIFY-C1)",
+          "h": "Children",
           "p": [
             "PTA Playbook is written for PTA volunteers and school parents. We do not publish kids’ names or photos.",
             "This draft does not decide whether the site is directed to children under 13, is a mixed-audience service, or is a general-audience service for adults, or whether we have actual knowledge of collection from a child. That fit is still open (VERIFY-C1).",
@@ -3527,7 +3527,7 @@
           ]
         },
         {
-          "h": "California privacy rights (VERIFY-1)",
+          "h": "California privacy rights",
           "p": [
             "We have not confirmed whether the California Consumer Privacy Act (CCPA), as amended, applies to us. That depends on revenue and data-volume thresholds that are not stated here. The official figures are listed separately and are not blended: Civil Code §1798.140 uses $25,000,000 as adjusted; the California Privacy Protection Agency posts the adjusted amount, effective January 1, 2025, as $26,625,000; the California Attorney General’s FAQ still says “over $25 million.”",
             "We do not sell personal information. Based on the tools we could confirm on this site, we do not share personal information for cross-context behavioral advertising as those terms are defined under California law.",
