@@ -3,7 +3,7 @@
   "domain": "ptaplaybook.com",
   "tagline": "Fundraiser playbooks and school-app sanity for parents",
   "color": "#c2410c",
-  "updated": "November 11, 2026",
+  "updated": "November 12, 2026",
   "description": "Free playbooks, templates and checklists for PTA/PTO volunteers and busy parents: run fundraisers, recruit volunteers, and tame school-app notifications.",
   "nav": [
     {
@@ -198,7 +198,8 @@
         "Day of: run a check-in table, track laps per class, and photograph only kids with media consent.",
         "After: send thank-yous within 48 hours, collect pledges within two weeks, and publish totals."
       ],
-      "updated": "2026-10-14"
+      "updated": "2026-11-12",
+      "seoTitle": "School fun run fundraiser playbook for PTAs and PTOs"
     },
     {
       "path": "/pta/fundraisers/restaurant-night",
@@ -216,7 +217,8 @@
         "Get the sales report and payment date in writing."
       ],
       "flag": "General guidance — confirm each restaurant's current giveback terms directly.",
-      "updated": "2026-10-14"
+      "updated": "2026-11-12",
+      "seoTitle": "Restaurant spirit night fundraiser playbook for PTAs"
     },
     {
       "path": "/pta/tools/compare/signupgenius-vs-cheddar-up",
@@ -289,7 +291,8 @@
           "pre": "Thank you! Because of you, {event} raised {amount} for {purpose}. {N} volunteers gave their time and {N} families took part.\n\nHere's what happens next: {how funds will be used, timeline}.\n\nWe'll share photos (with permission) on {channel}.\n\n— {PTA}"
         }
       ],
-      "updated": "2026-10-14"
+      "updated": "2026-11-12",
+      "seoTitle": "Post-fundraiser thank-you note template for PTAs"
     },
     {
       "path": "/calendar/october",
@@ -322,7 +325,8 @@
           ]
         }
       ],
-      "updated": "2026-10-21"
+      "updated": "2026-11-12",
+      "seoTitle": "October school-parent checklist: conferences to Halloween"
     },
     {
       "path": "/pta/fundraisers/spirit-wear-store",
@@ -717,7 +721,8 @@
         "Flying over winter break? Check every adult's REAL ID or passport; kids under 18 don't need ID for TSA on U.S. flights (see Flying with kids over winter break: what ID TSA needs (and doesn't) for children and teens)",
         "Teen on Snapchat? Set up Family Center together and decide on content limits and My AI (see Snapchat Family Center: see your teen's friends and set content and My AI controls)",
         "Gaming PC or Steam Deck as a gift? Set up Steam Families and playtime limits before it's opened (see Steam Families parental controls: game access, playtime limits and purchase requests)",
-        "VR headset as a gift? Create a parent-managed account (10–12) or turn on teen supervision together (see Meta Quest VR headset for the holidays: parent-managed accounts (10–12) and teen supervision)"
+        "VR headset as a gift? Create a parent-managed account (10–12) or turn on teen supervision together (see Meta Quest VR headset for the holidays: parent-managed accounts (10–12) and teen supervision)",
+        "Fire tablet or Echo as a gift? Set up a child profile and limits in Amazon Kids Parent Dashboard first (see Fire tablet or Echo for the holidays: set up Amazon Kids parental controls first)"
       ],
       "blocks": [
         {
@@ -770,7 +775,8 @@
             "Flying with kids over winter break: what ID TSA needs (and doesn't) for children and teens",
             "Snapchat Family Center: see your teen's friends and set content and My AI controls",
             "Steam Families parental controls: game access, playtime limits and purchase requests",
-            "Meta Quest VR headset for the holidays: parent-managed accounts (10–12) and teen supervision"
+            "Meta Quest VR headset for the holidays: parent-managed accounts (10–12) and teen supervision",
+            "Fire tablet or Echo for the holidays: set up Amazon Kids parental controls first"
           ]
         }
       ],
@@ -784,7 +790,7 @@
           "a": "No. Gifts are optional. A specific handwritten note from your child is often the most valued thank-you, and many PTAs cover a building-wide treat so families don't have to."
         }
       ],
-      "updated": "2026-11-11",
+      "updated": "2026-11-12",
       "seoTitle": "December school-parent checklist: winter break, alerts and gifts"
     },
     {
@@ -1226,7 +1232,8 @@
             "December school-parent checklist",
             "November school-parent checklist",
             "New phone, tablet or console for the holidays? Set up parental controls first",
-            "Meta Quest VR headset for the holidays: parent-managed accounts (10–12) and teen supervision"
+            "Meta Quest VR headset for the holidays: parent-managed accounts (10–12) and teen supervision",
+            "Fire tablet or Echo for the holidays: set up Amazon Kids parental controls first"
           ]
         }
       ],
@@ -1241,7 +1248,7 @@
           "a": "Search the product name at CPSC.gov/Recalls before giving it."
         }
       ],
-      "updated": "2026-11-11"
+      "updated": "2026-11-12"
     },
     {
       "path": "/guides/new-device-parental-controls",
@@ -1308,7 +1315,8 @@
             "Surprise app or game charges on your card: how to ask Apple or Google Play for a refund",
             "Snapchat Family Center: see your teen's friends and set content and My AI controls",
             "Steam Families parental controls: game access, playtime limits and purchase requests",
-            "Meta Quest VR headset for the holidays: parent-managed accounts (10–12) and teen supervision"
+            "Meta Quest VR headset for the holidays: parent-managed accounts (10–12) and teen supervision",
+            "Fire tablet or Echo for the holidays: set up Amazon Kids parental controls first"
           ]
         }
       ],
@@ -1323,7 +1331,7 @@
           "a": "Apple says each child should have their own Apple Account in your Family Sharing group, not share one with another family member."
         }
       ],
-      "updated": "2026-11-11"
+      "updated": "2026-11-12"
     },
     {
       "path": "/guides/chronic-absence-two-days-a-month",
@@ -2025,7 +2033,8 @@
             "iPhone and iPad parental controls: Screen Time, Ask to Buy and Ask to Browse",
             "Google Family Link parental controls for Android and Chromebook holiday gifts",
             "Discord Family Center parental controls before a holiday gaming gift",
-            "TikTok Family Pairing: set parental controls before holiday screen time jumps"
+            "TikTok Family Pairing: set parental controls before holiday screen time jumps",
+            "Fire tablet or Echo for the holidays: set up Amazon Kids parental controls first"
           ]
         }
       ],
@@ -2046,7 +2055,7 @@
         "w": 1280,
         "h": 720
       },
-      "updated": "2026-11-09"
+      "updated": "2026-11-12"
     },
     {
       "path": "/guides/fortnite-epic-parental-controls",
@@ -2183,7 +2192,8 @@
             "PlayStation PS5 parental controls before a holiday console gift",
             "Apple Watch For Your Kids: set up a child’s watch before you wrap it",
             "TikTok Family Pairing: set parental controls before holiday screen time jumps",
-            "Surprise app or game charges on your card: how to ask Apple or Google Play for a refund"
+            "Surprise app or game charges on your card: how to ask Apple or Google Play for a refund",
+            "Fire tablet or Echo for the holidays: set up Amazon Kids parental controls first"
           ]
         }
       ],
@@ -2204,7 +2214,7 @@
         "w": 1280,
         "h": 720
       },
-      "updated": "2026-11-09"
+      "updated": "2026-11-12"
     },
     {
       "path": "/guides/google-family-link-parental-controls",
@@ -2270,7 +2280,8 @@
             "PlayStation PS5 parental controls before a holiday console gift",
             "Apple Watch For Your Kids: set up a child’s watch before you wrap it",
             "TikTok Family Pairing: set parental controls before holiday screen time jumps",
-            "Surprise app or game charges on your card: how to ask Apple or Google Play for a refund"
+            "Surprise app or game charges on your card: how to ask Apple or Google Play for a refund",
+            "Fire tablet or Echo for the holidays: set up Amazon Kids parental controls first"
           ]
         }
       ],
@@ -2291,7 +2302,7 @@
         "w": 1280,
         "h": 720
       },
-      "updated": "2026-11-10"
+      "updated": "2026-11-12"
     },
     {
       "path": "/guides/microsoft-family-safety-xbox-windows",
@@ -2565,7 +2576,7 @@
       "group": "guides",
       "label": "Guide",
       "title": "Apple Watch For Your Kids: set up a child’s watch before you wrap it",
-      "seoTitle": "Apple Watch For Your Kids (Family Setup): 2026 parent setup guide",
+      "seoTitle": "Apple Watch for kids (Family Setup): 2026 parent guide",
       "summary": "Apple Watch For Your Kids (Apple’s new name for Family Setup) lets a child without an iPhone use a cellular Apple Watch to call, message and share location, managed from your iPhone. Before gifting, check the model and carrier, make sure the child is in your Family Sharing group, and plan the setup: Ask to Buy, shared contacts from your iCloud contacts, a Screen Time passcode and Schooltime. Some features are limited or unavailable on a watch set up this way.",
       "steps": [
         "Check the watch: Apple requires a cellular model. Apple’s support article lists Apple Watch Series 4 or later or SE with cellular; Apple’s child-safety guide lists SE or Series 6 or later. Check Apple’s current page for your exact model before you buy or wrap it.",
@@ -2640,7 +2651,7 @@
         "w": 1280,
         "h": 720
       },
-      "updated": "2026-11-07"
+      "updated": "2026-11-12"
     },
     {
       "path": "/guides/holiday-gift-card-scams",
@@ -2729,7 +2740,7 @@
       "group": "guides",
       "label": "Guide",
       "title": "TikTok Family Pairing: set parental controls before holiday screen time jumps",
-      "seoTitle": "TikTok Family Pairing parental controls: 2026 parent setup guide",
+      "seoTitle": "TikTok Family Pairing: 2026 parental controls setup",
       "summary": "TikTok Family Pairing lets a parent or guardian link their account to a teen’s account and manage screen time, scheduled time away, Restricted Mode, keyword filters, comments, messages and privacy. TikTok also applies its own teen safeguards (ages 13–17), including a default daily screen-time limit and muted nighttime notifications. Set this up before holiday breaks, when teens often have more unstructured time on their phones.",
       "steps": [
         "Confirm your child meets TikTok’s age rules. TikTok’s Guardian’s Guide describes teen accounts as ages 13–17, with extra safeguards for ages 13–15. TikTok is not for children under 13.",
@@ -2810,7 +2821,7 @@
         "w": 1280,
         "h": 720
       },
-      "updated": "2026-11-10"
+      "updated": "2026-11-12"
     },
     {
       "path": "/guides/school-closure-weather-alert-text-scams",
@@ -2954,7 +2965,8 @@
             "Fortnite and Epic Games parental controls: Cabined Accounts, PIN, chat and spending",
             "Roblox parental controls: link your account and set chat, spending and screen time",
             "Holiday gift card scams: what families and PTA volunteers should know",
-            "December school-parent checklist"
+            "December school-parent checklist",
+            "Fire tablet or Echo for the holidays: set up Amazon Kids parental controls first"
           ]
         }
       ],
@@ -2975,7 +2987,7 @@
         "w": 1280,
         "h": 720
       },
-      "updated": "2026-11-09"
+      "updated": "2026-11-12"
     },
     {
       "path": "/guides/school-concert-photos-ferpa",
@@ -3380,6 +3392,90 @@
         "h": 720
       },
       "updated": "2026-11-11"
+    },
+    {
+      "path": "/guides/amazon-kids-parental-controls",
+      "group": "guides",
+      "label": "Guide",
+      "title": "Fire tablet or Echo for the holidays: set up Amazon Kids parental controls first",
+      "seoTitle": "Amazon Kids parental controls 2026: Fire tablet and Echo setup",
+      "summary": "Kids’ Fire tablets and Echo speakers and displays are common holiday gifts. Before the box is opened, create a child profile and set limits in the free Amazon Kids Parent Dashboard (app or parents.amazon.com). You can set daily screen-time limits and a bedtime, require reading or learning time before entertainment, choose how open the web browser is, add or block content, and review what your child uses. You don’t need Amazon Prime or a paid Amazon Kids+ subscription for the free parent tools.",
+      "steps": [
+        "Install the free Amazon Kids Parent Dashboard app (iOS or Android) or go to parents.amazon.com, and sign in with your own Amazon account.",
+        "Create a child profile for each child (up to 4 per Amazon Household). Amazon sets an age group from the birthdate you enter; you can change it later under the gear icon → Adjust Age Filter.",
+        "Fire tablet: create or pick your child’s profile on the tablet (Amazon’s Fire Tablet for Kids help pages walk through creating a child profile and adding content).",
+        "Echo with a screen (Echo Show): say “Go to settings” or swipe down → Settings, add the child profile under Accounts & Profiles if needed, then open Amazon Kids and turn it on. Use the Alexa app for other Echo speakers and make sure the device is assigned to the right child profile.",
+        "In Parent Dashboard → Settings → Daily Screen Time, set limits by day, a bedtime when devices turn off, and optional Learn First goals that block entertainment until reading or learning goals are met.",
+        "Choose web browsing under Settings → Fire Tablet Web Browser: off, Hand-Selected Websites & Videos, or Filtered Websites & Videos (for older kids, with your own blocked sites).",
+        "Read Amazon’s Parent Purchase Approvals help page and set how purchase requests reach you, and review calling and messaging settings before allowing them.",
+        "Test it together: sign in as your child, try a blocked title or a purchase, and check that the request reaches you."
+      ],
+      "blocks": [
+        {
+          "h": "What's confirmed (Amazon)",
+          "ul": [
+            "Amazon says Parent Dashboard is a free hub for managing kids’ experiences across compatible Echo speakers and displays, Kindle, Fire TV and Fire tablets; a free Amazon account is enough, and Prime is not needed for the free parent tools.",
+            "Parents can set daily screen-time limits, schedules and Learn First goals, review activity, adjust the age filter, add titles from their own library and block specific titles.",
+            "The Fire tablet web browser can be turned off, limited to Amazon-curated sites and videos, or set to filtered browsing with sites you block.",
+            "On Echo devices with a screen, Amazon Kids is turned on from Settings after a child profile is added. Daily Time Limits on Alexa are turned on in Parent Dashboard for the child profile.",
+            "Amazon Kids+ is an optional paid subscription for ages 3–12 with ad-free books, videos, apps and games; it is separate from the free parental controls."
+          ]
+        },
+        {
+          "h": "Limits to state clearly",
+          "ul": [
+            "Controls apply only to the child profile on Amazon devices. Apps your child signs into (YouTube, games, messaging) have their own settings.",
+            "If a child uses an adult profile on the same device, the limits don’t apply; set a lock-screen PIN on adult profiles.",
+            "Menus and features change by device model and software version; Amazon’s help pages are the source of truth."
+          ]
+        },
+        {
+          "h": "For PTAs",
+          "p": [
+            "For a winter-break newsletter: “Kids’ tablet or smart speaker under the tree? Set up a child profile and screen-time limits in the free Amazon Kids Parent Dashboard before it’s opened. No subscription needed.”"
+          ]
+        },
+        {
+          "h": "Sources",
+          "p": [
+            "About Amazon: Set parental controls with the Amazon Kids Parent Dashboard — https://www.aboutamazon.com/news/devices/set-parental-controls-using-amazon-parent-dashboard",
+            "Amazon Customer Service: Fire Tablet for Kids (help topics) — https://www.amazon.com/gp/help/customer/display.html?nodeId=GEJEUKR9GCMQKBU7",
+            "Amazon Customer Service: Turn on Amazon Kids on Echo devices with a screen — https://www.amazon.com/gp/help/customer/display.html?nodeId=TPb6uMKBBvbJQiqp1L",
+            "Amazon Customer Service: Amazon Kids Daily Time Limits on Alexa — https://www.amazon.com/gp/help/customer/display.html?nodeId=G8DJRMJ37RGRL3QB",
+            "App Store: Amazon Kids Parent Dashboard — https://apps.apple.com/us/app/amazon-kids-parent-dashboard/id6471528064"
+          ]
+        },
+        {
+          "h": "Related",
+          "ul": [
+            "New phone, tablet or console for the holidays? Set up parental controls first",
+            "iPhone and iPad parental controls: Screen Time, Ask to Buy and Ask to Browse",
+            "Google Family Link parental controls for Android and Chromebook holiday gifts",
+            "YouTube for kids and teens: supervised accounts, YouTube Kids and Shorts limits",
+            "Surprise app or game charges on your card: how to ask Apple or Google Play for a refund",
+            "Holiday gift check: toy safety rules from CPSC",
+            "December school-parent checklist"
+          ]
+        }
+      ],
+      "flag": "Checked against Amazon’s Parent Dashboard article, Amazon Customer Service help pages for Fire Tablet for Kids, Echo Show and Alexa Daily Time Limits, and the Parent Dashboard App Store listing on November 12, 2026. Amazon changes menus and features by device and software version; confirm current steps on Amazon’s help pages before sharing with families.",
+      "faq": [
+        {
+          "q": "Do I need Amazon Kids+ to use parental controls?",
+          "a": "No. Amazon says the Parent Dashboard parental tools are free. Amazon Kids+ is an optional paid subscription for extra kid content."
+        },
+        {
+          "q": "Can I set limits from my own phone?",
+          "a": "Yes. The Amazon Kids Parent Dashboard app lets you change limits, pause or resume your child’s device, and review activity from your phone."
+        }
+      ],
+      "image": {
+        "src": "/images/amazon-kids-parental-controls.webp",
+        "alt": "A father kneeling beside his young son on a living room rug, the boy holding a plain kids tablet in a blue foam bumper case while the father checks a phone with a blurred settings screen, a plain round smart speaker on a side table and a decorated holiday tree behind, no brand logos",
+        "w": 1280,
+        "h": 720
+      },
+      "updated": "2026-11-12"
     }
   ],
   "static": [
