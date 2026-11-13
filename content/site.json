@@ -3,7 +3,7 @@
   "domain": "ptaplaybook.com",
   "tagline": "Fundraiser playbooks and school-app sanity for parents",
   "color": "#c2410c",
-  "updated": "November 12, 2026",
+  "updated": "November 13, 2026",
   "description": "Free playbooks, templates and checklists for PTA/PTO volunteers and busy parents: run fundraisers, recruit volunteers, and tame school-app notifications.",
   "nav": [
     {
@@ -722,7 +722,8 @@
         "Teen on Snapchat? Set up Family Center together and decide on content limits and My AI (see Snapchat Family Center: see your teen's friends and set content and My AI controls)",
         "Gaming PC or Steam Deck as a gift? Set up Steam Families and playtime limits before it's opened (see Steam Families parental controls: game access, playtime limits and purchase requests)",
         "VR headset as a gift? Create a parent-managed account (10–12) or turn on teen supervision together (see Meta Quest VR headset for the holidays: parent-managed accounts (10–12) and teen supervision)",
-        "Fire tablet or Echo as a gift? Set up a child profile and limits in Amazon Kids Parent Dashboard first (see Fire tablet or Echo for the holidays: set up Amazon Kids parental controls first)"
+        "Fire tablet or Echo as a gift? Set up a child profile and limits in Amazon Kids Parent Dashboard first (see Fire tablet or Echo for the holidays: set up Amazon Kids parental controls first)",
+        "New phone or speaker as a gift? If your child will use Spotify, set up a managed account with the explicit filter on first (see Kid asking for Spotify? Set up a Spotify managed account with parental controls)"
       ],
       "blocks": [
         {
@@ -776,7 +777,8 @@
             "Snapchat Family Center: see your teen's friends and set content and My AI controls",
             "Steam Families parental controls: game access, playtime limits and purchase requests",
             "Meta Quest VR headset for the holidays: parent-managed accounts (10–12) and teen supervision",
-            "Fire tablet or Echo for the holidays: set up Amazon Kids parental controls first"
+            "Fire tablet or Echo for the holidays: set up Amazon Kids parental controls first",
+            "Kid asking for Spotify? Set up a Spotify managed account with parental controls"
           ]
         }
       ],
@@ -790,8 +792,8 @@
           "a": "No. Gifts are optional. A specific handwritten note from your child is often the most valued thank-you, and many PTAs cover a building-wide treat so families don't have to."
         }
       ],
-      "updated": "2026-11-12",
-      "seoTitle": "December school-parent checklist: winter break, alerts and gifts"
+      "updated": "2026-11-13",
+      "seoTitle": "December school-parent checklist: winter break and gifts"
     },
     {
       "path": "/guides/daylight-saving-time-sleep",
@@ -1316,7 +1318,8 @@
             "Snapchat Family Center: see your teen's friends and set content and My AI controls",
             "Steam Families parental controls: game access, playtime limits and purchase requests",
             "Meta Quest VR headset for the holidays: parent-managed accounts (10–12) and teen supervision",
-            "Fire tablet or Echo for the holidays: set up Amazon Kids parental controls first"
+            "Fire tablet or Echo for the holidays: set up Amazon Kids parental controls first",
+            "Kid asking for Spotify? Set up a Spotify managed account with parental controls"
           ]
         }
       ],
@@ -1331,7 +1334,7 @@
           "a": "Apple says each child should have their own Apple Account in your Family Sharing group, not share one with another family member."
         }
       ],
-      "updated": "2026-11-12"
+      "updated": "2026-11-13"
     },
     {
       "path": "/guides/chronic-absence-two-days-a-month",
@@ -2034,7 +2037,8 @@
             "Google Family Link parental controls for Android and Chromebook holiday gifts",
             "Discord Family Center parental controls before a holiday gaming gift",
             "TikTok Family Pairing: set parental controls before holiday screen time jumps",
-            "Fire tablet or Echo for the holidays: set up Amazon Kids parental controls first"
+            "Fire tablet or Echo for the holidays: set up Amazon Kids parental controls first",
+            "Kid asking for Spotify? Set up a Spotify managed account with parental controls"
           ]
         }
       ],
@@ -2055,7 +2059,7 @@
         "w": 1280,
         "h": 720
       },
-      "updated": "2026-11-12"
+      "updated": "2026-11-13"
     },
     {
       "path": "/guides/fortnite-epic-parental-controls",
@@ -2193,7 +2197,8 @@
             "Apple Watch For Your Kids: set up a child’s watch before you wrap it",
             "TikTok Family Pairing: set parental controls before holiday screen time jumps",
             "Surprise app or game charges on your card: how to ask Apple or Google Play for a refund",
-            "Fire tablet or Echo for the holidays: set up Amazon Kids parental controls first"
+            "Fire tablet or Echo for the holidays: set up Amazon Kids parental controls first",
+            "Kid asking for Spotify? Set up a Spotify managed account with parental controls"
           ]
         }
       ],
@@ -2214,7 +2219,7 @@
         "w": 1280,
         "h": 720
       },
-      "updated": "2026-11-12"
+      "updated": "2026-11-13"
     },
     {
       "path": "/guides/google-family-link-parental-controls",
@@ -2281,7 +2286,8 @@
             "Apple Watch For Your Kids: set up a child’s watch before you wrap it",
             "TikTok Family Pairing: set parental controls before holiday screen time jumps",
             "Surprise app or game charges on your card: how to ask Apple or Google Play for a refund",
-            "Fire tablet or Echo for the holidays: set up Amazon Kids parental controls first"
+            "Fire tablet or Echo for the holidays: set up Amazon Kids parental controls first",
+            "Kid asking for Spotify? Set up a Spotify managed account with parental controls"
           ]
         }
       ],
@@ -2302,7 +2308,7 @@
         "w": 1280,
         "h": 720
       },
-      "updated": "2026-11-12"
+      "updated": "2026-11-13"
     },
     {
       "path": "/guides/microsoft-family-safety-xbox-windows",
@@ -3071,7 +3077,7 @@
       "group": "guides",
       "label": "Guide",
       "title": "Flying with kids over winter break: what ID TSA needs (and doesn't) for children and teens",
-      "seoTitle": "Do kids need ID to fly? TSA rules for children and teens (2026)",
+      "seoTitle": "Do kids need ID to fly? TSA rules for children (2026)",
       "summary": "TSA does not require children under 18 to show ID on flights within the United States. Adults 18 and older need an acceptable ID such as a REAL ID–compliant license or a passport, and since February 1, 2026 an adult without one can pay a $45 TSA ConfirmID fee, with no guarantee TSA can verify them. Airlines can set their own ID rules for minors, so check yours—especially for teens flying alone, college students who just turned 18, and international trips, which still need passports.",
       "steps": [
         "Check every adult’s ID now. A driver’s license or state ID must be REAL ID–compliant (usually marked with a star); otherwise bring a passport, passport card or another ID on TSA’s acceptable-ID list. A temporary paper license is not accepted.",
@@ -3143,14 +3149,14 @@
         "w": 1280,
         "h": 720
       },
-      "updated": "2026-11-10"
+      "updated": "2026-11-13"
     },
     {
       "path": "/guides/snapchat-family-center-parental-controls",
       "group": "guides",
       "label": "Guide",
       "title": "Snapchat Family Center: see your teen's friends and set content and My AI controls",
-      "seoTitle": "Snapchat parental controls 2026: Family Center setup for parents",
+      "seoTitle": "Snapchat parental controls 2026: Family Center setup",
       "summary": "Snapchat’s Family Center lets a parent see who their teen (13–17) is friends with and has chatted with in the last seven days—without reading the messages—plus limit sensitive content, stop My AI from replying to the teen, and request their location. The parent needs their own Snapchat account, must be friends with the teen, and sends an invitation the teen has to accept. Set it up together before winter break.",
       "steps": [
         "Download Snapchat and create your own account (Family Center is limited to parents and caregivers 18 and older, and to teens 13–17). Make sure the app is up to date.",
@@ -3227,7 +3233,7 @@
         "w": 1280,
         "h": 720
       },
-      "updated": "2026-11-10"
+      "updated": "2026-11-13"
     },
     {
       "path": "/guides/steam-families-parental-controls",
@@ -3454,7 +3460,8 @@
             "YouTube for kids and teens: supervised accounts, YouTube Kids and Shorts limits",
             "Surprise app or game charges on your card: how to ask Apple or Google Play for a refund",
             "Holiday gift check: toy safety rules from CPSC",
-            "December school-parent checklist"
+            "December school-parent checklist",
+            "Kid asking for Spotify? Set up a Spotify managed account with parental controls"
           ]
         }
       ],
@@ -3475,7 +3482,79 @@
         "w": 1280,
         "h": 720
       },
-      "updated": "2026-11-12"
+      "updated": "2026-11-13"
+    },
+    {
+      "path": "/guides/spotify-managed-accounts-kids",
+      "group": "guides",
+      "label": "Guide",
+      "title": "Kid asking for Spotify? Set up a Spotify managed account with parental controls",
+      "seoTitle": "Spotify managed accounts for kids: parental controls (2026)",
+      "summary": "If a new phone, tablet or speaker is under the tree, a music app usually comes next. Spotify’s managed accounts are made for young listeners: the parent creates the account and controls it, the child gets music only with their own recommendations, and you can filter explicit content, videos and specific artists or songs. Managed accounts can’t make in-app purchases, can’t be followed or searched by other users, and can’t use social features like Jam, Blend or collaborative playlists. They work on Spotify’s free plan or as a member of a Premium Family plan.",
+      "steps": [
+        "Decide on the plan. On Premium Family, a managed account uses one of the plan’s 6 slots and gets ad-free listening and downloads. Otherwise it sits on Spotify’s free, ad-supported plan, where songs may play on shuffle; Spotify says parents can manage up to 10 accounts.",
+        "Sign in to your own Spotify account and follow Spotify’s “Managed accounts for young listeners” help page to add a managed account (Premium Family managers set it up from their plan; others use the free-plan setup link on the same page).",
+        "Give parental consent when asked. Spotify may verify you as an adult with a photo of your ID and a selfie through its partner Yoti, or with a credit or debit card (a temporary authorization hold, not a charge).",
+        "Set the controls: turn on the explicit content filter, decide whether videos are allowed, and block any specific artists or songs.",
+        "Sign your child in on their device. They can’t access your account, and their listening won’t mix into your recommendations.",
+        "Share playlists with them by link. With the explicit filter on, explicit tracks in shared playlists won’t play.",
+        "Show them how to report something that seems wrong: they tap Report, hand you the device, and you enter your PIN to finish the report."
+      ],
+      "blocks": [
+        {
+          "h": "What's confirmed (Spotify)",
+          "ul": [
+            "Managed accounts are music only, with parental controls for explicit content, videos, and specific artists or songs.",
+            "No in-app purchases; profiles can’t be followed or searched by other users.",
+            "No Jam, Blend or collaborative playlists; by default they can’t search for playlists made by other users.",
+            "Available on phones, tablets and speakers.",
+            "You can request a copy of your child’s data or delete it; deleting a managed account permanently removes its data and can’t be undone."
+          ]
+        },
+        {
+          "h": "Talk about it",
+          "p": [
+            "Even with filters on, a shared playlist can carry its own cover image, title and description, and a playlist your child shares shows their name and avatar. Agree on who they share links with, and check in about what they’re listening to."
+          ]
+        },
+        {
+          "h": "Sources",
+          "p": [
+            "Spotify Support: Managed accounts for young listeners — https://support.spotify.com/us/article/managed-accounts/",
+            "Spotify Safety & Privacy Center: Guidance for parents or caregivers — https://www.spotify.com/us/safetyandprivacy/parental-guide",
+            "Spotify Support: Premium Family — https://support.spotify.com/us/article/premium-family/"
+          ]
+        },
+        {
+          "h": "Related",
+          "ul": [
+            "New phone, tablet or console for the holidays? Set up parental controls first",
+            "iPhone and iPad parental controls: Screen Time, Ask to Buy and Ask to Browse",
+            "Google Family Link parental controls for Android and Chromebook holiday gifts",
+            "YouTube for kids and teens: supervised accounts, YouTube Kids and Shorts limits",
+            "Fire tablet or Echo for the holidays: set up Amazon Kids parental controls first",
+            "December school-parent checklist"
+          ]
+        }
+      ],
+      "flag": "Checked against Spotify’s Managed accounts help page, its parental guide in the Safety & Privacy Center and the Premium Family help page on November 13, 2026. Spotify changes settings, plan details and availability by country and app version; confirm current steps on Spotify’s help pages before sharing with families.",
+      "faq": [
+        {
+          "q": "Do I need Premium to make a managed account?",
+          "a": "No. Spotify says managed accounts can be on the free, ad-supported plan or on a Premium Family plan. Premium Family adds ad-free listening and downloads."
+        },
+        {
+          "q": "Can my child see what I listen to?",
+          "a": "No. Spotify says you log in for them, but they can’t access your Spotify, and their recommendations are separate."
+        }
+      ],
+      "image": {
+        "src": "/images/spotify-managed-accounts-kids.webp",
+        "alt": "A mother on a living room couch checking settings on her phone beside her daughter, who wears plain over-ear kids headphones and holds a phone, a decorated holiday tree in the background, no brand logos",
+        "w": 1280,
+        "h": 720
+      },
+      "updated": "2026-11-13"
     }
   ],
   "static": [
