@@ -3,7 +3,7 @@
   "domain": "ptaplaybook.com",
   "tagline": "Fundraiser playbooks and school-app sanity for parents",
   "color": "#c2410c",
-  "updated": "November 13, 2026",
+  "updated": "November 14, 2026",
   "description": "Free playbooks, templates and checklists for PTA/PTO volunteers and busy parents: run fundraisers, recruit volunteers, and tame school-app notifications.",
   "nav": [
     {
@@ -723,7 +723,8 @@
         "Gaming PC or Steam Deck as a gift? Set up Steam Families and playtime limits before it's opened (see Steam Families parental controls: game access, playtime limits and purchase requests)",
         "VR headset as a gift? Create a parent-managed account (10–12) or turn on teen supervision together (see Meta Quest VR headset for the holidays: parent-managed accounts (10–12) and teen supervision)",
         "Fire tablet or Echo as a gift? Set up a child profile and limits in Amazon Kids Parent Dashboard first (see Fire tablet or Echo for the holidays: set up Amazon Kids parental controls first)",
-        "New phone or speaker as a gift? If your child will use Spotify, set up a managed account with the explicit filter on first (see Kid asking for Spotify? Set up a Spotify managed account with parental controls)"
+        "New phone or speaker as a gift? If your child will use Spotify, set up a managed account with the explicit filter on first (see Kid asking for Spotify? Set up a Spotify managed account with parental controls)",
+        "Teen picking up holiday or winter-break shifts? Check the federal hour limits for ages 14–15 and your state's rules first (see Teen getting a holiday or winter-break job? Federal work-hour rules for ages 14–17)"
       ],
       "blocks": [
         {
@@ -778,7 +779,8 @@
             "Steam Families parental controls: game access, playtime limits and purchase requests",
             "Meta Quest VR headset for the holidays: parent-managed accounts (10–12) and teen supervision",
             "Fire tablet or Echo for the holidays: set up Amazon Kids parental controls first",
-            "Kid asking for Spotify? Set up a Spotify managed account with parental controls"
+            "Kid asking for Spotify? Set up a Spotify managed account with parental controls",
+            "Teen getting a holiday or winter-break job? Federal work-hour rules for ages 14–17"
           ]
         }
       ],
@@ -792,7 +794,7 @@
           "a": "No. Gifts are optional. A specific handwritten note from your child is often the most valued thank-you, and many PTAs cover a building-wide treat so families don't have to."
         }
       ],
-      "updated": "2026-11-13",
+      "updated": "2026-11-14",
       "seoTitle": "December school-parent checklist: winter break and gifts"
     },
     {
@@ -1048,7 +1050,8 @@
           "ul": [
             "November school-parent checklist",
             "October school-parent checklist",
-            "Parent-teacher conference prep: a 15-minute checklist"
+            "Parent-teacher conference prep: a 15-minute checklist",
+            "Teen getting a holiday or winter-break job? Federal work-hour rules for ages 14–17"
           ]
         }
       ],
@@ -1063,7 +1066,7 @@
           "a": "No. StudentAid.gov says there's no fee to fill out the FAFSA form."
         }
       ],
-      "updated": "2026-10-21"
+      "updated": "2026-11-14"
     },
     {
       "path": "/guides/thanksgiving-travel-car-seat-check",
@@ -1574,7 +1577,8 @@
             "December school-parent checklist",
             "Fake package delivery texts: what parents and teens should know before the holidays",
             "Holiday gift card scams: what families and PTA volunteers should know",
-            "Fake school-closure and weather-alert texts: pause and verify before you tap"
+            "Fake school-closure and weather-alert texts: pause and verify before you tap",
+            "Teen getting a holiday or winter-break job? Federal work-hour rules for ages 14–17"
           ]
         }
       ],
@@ -1595,7 +1599,7 @@
         "w": 1280,
         "h": 720
       },
-      "updated": "2026-11-10"
+      "updated": "2026-11-14"
     },
     {
       "path": "/guides/chatgpt-parental-controls",
@@ -3555,6 +3559,81 @@
         "h": 720
       },
       "updated": "2026-11-13"
+    },
+    {
+      "path": "/guides/teen-holiday-job-work-hours",
+      "group": "guides",
+      "label": "Guide",
+      "title": "Teen getting a holiday or winter-break job? Federal work-hour rules for ages 14–17",
+      "seoTitle": "Teen holiday jobs: federal work-hour rules for ages 14–17",
+      "summary": "Stores, restaurants and seasonal shops hire teens for the holidays, and parents often aren’t sure what hours are allowed. Under the federal Fair Labor Standards Act, 14- and 15-year-olds can work only outside school hours and between 7 a.m. and 7 p.m. (9 p.m. only from June 1 through Labor Day), up to 3 hours on a school day and 18 hours in a school week, or up to 8 hours a day and 40 hours a week when school is out. 16- and 17-year-olds have no federal hour limits but still can’t do jobs the Department of Labor calls hazardous. States can set stricter rules, and the stricter rule applies.",
+      "steps": [
+        "Check your teen’s age against the job: 14 is the federal minimum for most non-farm jobs, and 14- and 15-year-olds are limited to certain kinds of work.",
+        "For a 14- or 15-year-old, compare the schedule with the federal limits: no work during school hours, nothing before 7 a.m. or after 7 p.m. in winter, at most 3 hours on a school day (including Friday) and 18 hours in a school week.",
+        "For winter break, remember the limits change only when school is out: up to 8 hours a day, and up to 40 hours in a week when school isn’t in session. A school week is any week the local public school is in session, even for homeschooled or private-school students.",
+        "Ask what the job involves. Most retail work (cashiering, stocking, price marking, bagging) and some food service is allowed at 14–15; baking, ladders, freezers and meat coolers, power-driven machines and door-to-door sales are not.",
+        "For a 16- or 17-year-old, hours aren’t limited federally, but hazardous tasks are, such as operating meat slicers, power-driven bakery mixers, forklifts, balers and compactors, and most driving on public roads.",
+        "Check pay: the federal minimum wage is $7.25 an hour, employers may pay workers under 20 a $4.25 youth wage for their first 90 consecutive calendar days, and your state’s minimum may be higher.",
+        "Look up your state’s rules, which can be stricter than federal law (for example, night-work limits for 16- and 17-year-olds), and ask your state labor department or school counselor what paperwork your state requires."
+      ],
+      "blocks": [
+        {
+          "h": "What's confirmed (U.S. Department of Labor)",
+          "ul": [
+            "14- and 15-year-olds: outside school hours only; 3 hours on a school day; 18 hours in a school week; 8 hours on a non-school day; 40 hours in a non-school week; 7 a.m. to 7 p.m., extended to 9 p.m. from June 1 through Labor Day.",
+            "If a job isn’t specifically permitted for 14- and 15-year-olds, it’s prohibited.",
+            "16- and 17-year-olds may work unlimited hours in any job not declared hazardous.",
+            "Where a state law is stricter than federal law, the state law applies; where it is less strict, the federal law applies."
+          ]
+        },
+        {
+          "h": "Talk about it",
+          "p": [
+            "Before your teen says yes, go over the schedule together, including school nights after break ends, and agree on how they’ll get to and from work. Remind them that a manager can’t legally schedule a 14- or 15-year-old past 7 p.m. in winter, and that they can say no to tasks on the prohibited list."
+          ]
+        },
+        {
+          "h": "For PTAs",
+          "p": [
+            "Holiday job questions come up every year. A short note in a December newsletter with the federal hours above, plus a link to your state labor department, helps families of middle and high schoolers. Keep it general and point families to official sources rather than giving individual advice."
+          ]
+        },
+        {
+          "h": "Sources",
+          "p": [
+            "U.S. Department of Labor, YouthRules!: Non-Agricultural Jobs — 14–15 — https://www.dol.gov/agencies/whd/youthrules/young-workers/non-ag-14-15",
+            "U.S. Department of Labor, YouthRules!: Non-Agricultural Jobs — 16–17 — https://www.dol.gov/agencies/whd/youthrules/young-workers/non-ag-16-17",
+            "U.S. Department of Labor: Selected State Child Labor Standards Affecting Minors Under 18 in Non-farm Employment (revised July 15, 2025) — https://www.dol.gov/agencies/whd/state/child-labor"
+          ]
+        },
+        {
+          "h": "Related",
+          "ul": [
+            "Freeze your child's credit for free: a parent's step-by-step guide",
+            "Holiday gift card scams: what families and PTA volunteers should know",
+            "FAFSA 2027–28 is open: what parents of high school seniors should do now",
+            "December school-parent checklist"
+          ]
+        }
+      ],
+      "flag": "Checked against the U.S. Department of Labor’s YouthRules! pages for 14–15 and 16–17 non-farm jobs and its state child labor standards table on November 14, 2026. This is general information, not legal advice. State rules differ and can be stricter; confirm with your state labor department before sharing with families.",
+      "faq": [
+        {
+          "q": "Does winter break count as school being out?",
+          "a": "Yes. The federal limits for non-school days and weeks apply on days and weeks when the local public school isn’t in session: up to 8 hours a day and 40 hours a week for 14- and 15-year-olds, still only between 7 a.m. and 7 p.m."
+        },
+        {
+          "q": "Can my 15-year-old work until close at a store?",
+          "a": "Not after 7 p.m. under federal rules from the day after Labor Day through May 31. Some states have their own limits; the stricter rule applies."
+        }
+      ],
+      "image": {
+        "src": "/images/teen-holiday-job-hours.webp",
+        "alt": "A mother and her teenage son at a kitchen table on a winter evening filling out a paper job application and looking over a printed weekly calendar, an open laptop and a coffee mug nearby, softly lit holiday decorations in the background, no brand logos",
+        "w": 1280,
+        "h": 720
+      },
+      "updated": "2026-11-14"
     }
   ],
   "static": [
