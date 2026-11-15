@@ -3,7 +3,7 @@
   "domain": "ptaplaybook.com",
   "tagline": "Fundraiser playbooks and school-app sanity for parents",
   "color": "#c2410c",
-  "updated": "November 14, 2026",
+  "updated": "November 15, 2026",
   "description": "Free playbooks, templates and checklists for PTA/PTO volunteers and busy parents: run fundraisers, recruit volunteers, and tame school-app notifications.",
   "nav": [
     {
@@ -724,7 +724,8 @@
         "VR headset as a gift? Create a parent-managed account (10–12) or turn on teen supervision together (see Meta Quest VR headset for the holidays: parent-managed accounts (10–12) and teen supervision)",
         "Fire tablet or Echo as a gift? Set up a child profile and limits in Amazon Kids Parent Dashboard first (see Fire tablet or Echo for the holidays: set up Amazon Kids parental controls first)",
         "New phone or speaker as a gift? If your child will use Spotify, set up a managed account with the explicit filter on first (see Kid asking for Spotify? Set up a Spotify managed account with parental controls)",
-        "Teen picking up holiday or winter-break shifts? Check the federal hour limits for ages 14–15 and your state's rules first (see Teen getting a holiday or winter-break job? Federal work-hour rules for ages 14–17)"
+        "Teen picking up holiday or winter-break shifts? Check the federal hour limits for ages 14–15 and your state's rules first (see Teen getting a holiday or winter-break job? Federal work-hour rules for ages 14–17)",
+        "Gifting an e-bike, e-scooter or hoverboard? Buy a helmet too, keep the original charger, and never charge it overnight (see Giving an e-bike, e-scooter or hoverboard this holiday? Battery, charger and helmet checks from CPSC)"
       ],
       "blocks": [
         {
@@ -780,7 +781,8 @@
             "Meta Quest VR headset for the holidays: parent-managed accounts (10–12) and teen supervision",
             "Fire tablet or Echo for the holidays: set up Amazon Kids parental controls first",
             "Kid asking for Spotify? Set up a Spotify managed account with parental controls",
-            "Teen getting a holiday or winter-break job? Federal work-hour rules for ages 14–17"
+            "Teen getting a holiday or winter-break job? Federal work-hour rules for ages 14–17",
+            "Giving an e-bike, e-scooter or hoverboard this holiday? Battery, charger and helmet checks from CPSC"
           ]
         }
       ],
@@ -794,7 +796,7 @@
           "a": "No. Gifts are optional. A specific handwritten note from your child is often the most valued thank-you, and many PTAs cover a building-wide treat so families don't have to."
         }
       ],
-      "updated": "2026-11-14",
+      "updated": "2026-11-15",
       "seoTitle": "December school-parent checklist: winter break and gifts"
     },
     {
@@ -1238,7 +1240,8 @@
             "November school-parent checklist",
             "New phone, tablet or console for the holidays? Set up parental controls first",
             "Meta Quest VR headset for the holidays: parent-managed accounts (10–12) and teen supervision",
-            "Fire tablet or Echo for the holidays: set up Amazon Kids parental controls first"
+            "Fire tablet or Echo for the holidays: set up Amazon Kids parental controls first",
+            "Giving an e-bike, e-scooter or hoverboard this holiday? Battery, charger and helmet checks from CPSC"
           ]
         }
       ],
@@ -1253,7 +1256,7 @@
           "a": "Search the product name at CPSC.gov/Recalls before giving it."
         }
       ],
-      "updated": "2026-11-12"
+      "updated": "2026-11-15"
     },
     {
       "path": "/guides/new-device-parental-controls",
@@ -1322,7 +1325,8 @@
             "Steam Families parental controls: game access, playtime limits and purchase requests",
             "Meta Quest VR headset for the holidays: parent-managed accounts (10–12) and teen supervision",
             "Fire tablet or Echo for the holidays: set up Amazon Kids parental controls first",
-            "Kid asking for Spotify? Set up a Spotify managed account with parental controls"
+            "Kid asking for Spotify? Set up a Spotify managed account with parental controls",
+            "Giving an e-bike, e-scooter or hoverboard this holiday? Battery, charger and helmet checks from CPSC"
           ]
         }
       ],
@@ -1337,7 +1341,7 @@
           "a": "Apple says each child should have their own Apple Account in your Family Sharing group, not share one with another family member."
         }
       ],
-      "updated": "2026-11-13"
+      "updated": "2026-11-15"
     },
     {
       "path": "/guides/chronic-absence-two-days-a-month",
@@ -3634,6 +3638,83 @@
         "h": 720
       },
       "updated": "2026-11-14"
+    },
+    {
+      "path": "/guides/ebike-scooter-gift-battery-safety",
+      "group": "guides",
+      "label": "Guide",
+      "title": "Giving an e-bike, e-scooter or hoverboard this holiday? Battery, charger and helmet checks from CPSC",
+      "seoTitle": "E-bike and e-scooter gifts for kids: CPSC battery safety tips",
+      "summary": "E-bikes, e-scooters and hoverboards are big holiday gifts, and parents worry about two things: crashes and battery fires. The U.S. Consumer Product Safety Commission (CPSC) says to choose devices and batteries certified to the applicable safety standards, always wear a bicycle helmet, check the maker’s age and weight limits, use only the charger that came with the device, and never charge while you’re asleep or away from home. NFPA, the fire-safety group, adds: buy devices listed by a nationally recognized testing lab, and stop using one if the battery shows signs of damage.",
+      "steps": [
+        "Before buying, check that the device, battery and charger are certified to the applicable safety standards. NFPA says to buy only devices listed by a nationally recognized testing laboratory and labeled that way.",
+        "Read the manufacturer’s age and weight limits and the safety information, and pick a device that fits your child.",
+        "Buy a bicycle helmet at the same time. CPSC says to always wear one, and to check your local rules: helmet, riding-location and road rules differ by community.",
+        "Keep the charger that came in the box. CPSC warns against “universal” chargers unless they’ve been tested and approved for your specific device; it received 156 reports of fire and thermal incidents involving such chargers between January 2023 and May 2024.",
+        "Set a family charging rule: charge only when an adult is home and awake, never overnight or while everyone’s out, and unplug when it’s done. CPSC says many lithium-ion battery home fires and deaths happened at night while families slept.",
+        "Stop using the device if the battery shows damage, such as an unusual odor or a change in color (NFPA). Don’t use a battery pack that’s been modified or rebuilt by unqualified people.",
+        "Before wrapping, search CPSC.gov/Recalls for the brand and model. After the holidays, take any old or damaged lithium battery to a battery recycler or hazardous waste site, never the trash or recycling bin."
+      ],
+      "blocks": [
+        {
+          "h": "What's confirmed (CPSC and NFPA)",
+          "ul": [
+            "CPSC: always wear a bicycle helmet; check the device for damage before riding (handlebars, brakes, throttle, bell, lights, tires, cables, frame).",
+            "CPSC: most deaths involve motor vehicles. Use lights, reflectors and a bell, expect drivers not to see you, and keep to one rider per scooter.",
+            "CPSC: always be present when charging; never charge while sleeping or away from home; use only the charger provided with or recommended by the manufacturer.",
+            "CPSC (September 5, 2024): don’t buy or use chargers marketed as “universal” for micromobility devices unless tested and approved for your device.",
+            "NFPA: don’t keep charging once the battery is full, and have repairs done by a qualified professional.",
+            "Report a problem with a device or battery on SaferProducts.gov."
+          ]
+        },
+        {
+          "h": "Talk about it",
+          "p": [
+            "Go over the rules before the first ride: helmet every time, both hands on the handlebars, slow down for bumps, and where they’re allowed to ride under your local rules. Agree on where the device charges (somewhere you’ll notice, not a bedroom) and who unplugs it."
+          ]
+        },
+        {
+          "h": "For PTAs",
+          "p": [
+            "A one-line December newsletter reminder helps: “Gifting an e-bike or e-scooter? Helmet, original charger only, and no overnight charging — CPSC tips at cpsc.gov.” Point families to official sources and your city’s riding rules rather than giving individual advice."
+          ]
+        },
+        {
+          "h": "Sources",
+          "p": [
+            "CPSC: Micromobility — E-Bikes, E-Scooters and Hoverboards (safety information center) — https://www.cpsc.gov/Safety-Education/Safety-Education-Centers/Micromobility-Information-Center",
+            "CPSC: CPSC Urges Consumers to Not Buy or Use “Universal” Chargers with Micromobility Products Due to Fire Hazard (September 5, 2024) — https://www.cpsc.gov/Newsroom/News-Releases/2024/CPSC-Urges-Consumers-to-Not-Buy-or-Use-Universal-Chargers-with-Micromobility-Products-Due-to-Fire-Hazard",
+            "NFPA: E-Bike and E-Scooter Safety — https://www.nfpa.org/education-and-research/energy-transition/ebikes",
+            "CPSC: Recalls & Product Safety Warnings — https://www.cpsc.gov/Recalls"
+          ]
+        },
+        {
+          "h": "Related",
+          "ul": [
+            "Holiday gift check: toy safety rules from CPSC",
+            "New phone, tablet or console for the holidays? Set up parental controls first",
+            "December school-parent checklist"
+          ]
+        }
+      ],
+      "flag": "Checked against CPSC’s micromobility safety center, CPSC’s September 5, 2024 universal-charger warning and NFPA’s e-bike and e-scooter safety page on November 15, 2026. Helmet, age and riding rules vary by state and city; check local rules and the manufacturer’s instructions before sharing with families.",
+      "faq": [
+        {
+          "q": "Is it OK to charge it in the garage overnight?",
+          "a": "CPSC says never charge micromobility devices while you’re sleeping or not at home. Charge when an adult is awake and nearby, and unplug when it’s full."
+        },
+        {
+          "q": "Can I use a cheaper replacement charger?",
+          "a": "Only one the manufacturer provides or recommends, or one tested and approved for your exact device. CPSC warns that chargers sold as “universal” can fit but still be incompatible and start a fire."
+        }
+      ],
+      "image": {
+        "src": "/images/ebike-scooter-gift-battery-safety.webp",
+        "alt": "A father and his teenage son kneeling in a tidy garage beside a new plain gray electric kick scooter, the boy holding a bicycle helmet while the father reads a printed instruction sheet, a small charger on the workbench and torn holiday wrapping paper on the floor, no brand logos",
+        "w": 1280,
+        "h": 720
+      },
+      "updated": "2026-11-15"
     }
   ],
   "static": [
