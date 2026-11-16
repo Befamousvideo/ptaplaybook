@@ -3,7 +3,7 @@
   "domain": "ptaplaybook.com",
   "tagline": "Fundraiser playbooks and school-app sanity for parents",
   "color": "#c2410c",
-  "updated": "November 15, 2026",
+  "updated": "November 16, 2026",
   "description": "Free playbooks, templates and checklists for PTA/PTO volunteers and busy parents: run fundraisers, recruit volunteers, and tame school-app notifications.",
   "nav": [
     {
@@ -725,7 +725,8 @@
         "Fire tablet or Echo as a gift? Set up a child profile and limits in Amazon Kids Parent Dashboard first (see Fire tablet or Echo for the holidays: set up Amazon Kids parental controls first)",
         "New phone or speaker as a gift? If your child will use Spotify, set up a managed account with the explicit filter on first (see Kid asking for Spotify? Set up a Spotify managed account with parental controls)",
         "Teen picking up holiday or winter-break shifts? Check the federal hour limits for ages 14–15 and your state's rules first (see Teen getting a holiday or winter-break job? Federal work-hour rules for ages 14–17)",
-        "Gifting an e-bike, e-scooter or hoverboard? Buy a helmet too, keep the original charger, and never charge it overnight (see Giving an e-bike, e-scooter or hoverboard this holiday? Battery, charger and helmet checks from CPSC)"
+        "Gifting an e-bike, e-scooter or hoverboard? Buy a helmet too, keep the original charger, and never charge it overnight (see Giving an e-bike, e-scooter or hoverboard this holiday? Battery, charger and helmet checks from CPSC)",
+        "Thinking about an AI chatbot toy? Check how it listens, read the privacy policy and test it before you wrap it (see Thinking about an AI chatbot toy this holiday? What to check before you buy)"
       ],
       "blocks": [
         {
@@ -782,7 +783,8 @@
             "Fire tablet or Echo for the holidays: set up Amazon Kids parental controls first",
             "Kid asking for Spotify? Set up a Spotify managed account with parental controls",
             "Teen getting a holiday or winter-break job? Federal work-hour rules for ages 14–17",
-            "Giving an e-bike, e-scooter or hoverboard this holiday? Battery, charger and helmet checks from CPSC"
+            "Giving an e-bike, e-scooter or hoverboard this holiday? Battery, charger and helmet checks from CPSC",
+            "Thinking about an AI chatbot toy this holiday? What to check before you buy"
           ]
         }
       ],
@@ -796,7 +798,7 @@
           "a": "No. Gifts are optional. A specific handwritten note from your child is often the most valued thank-you, and many PTAs cover a building-wide treat so families don't have to."
         }
       ],
-      "updated": "2026-11-15",
+      "updated": "2026-11-16",
       "seoTitle": "December school-parent checklist: winter break and gifts"
     },
     {
@@ -1241,7 +1243,8 @@
             "New phone, tablet or console for the holidays? Set up parental controls first",
             "Meta Quest VR headset for the holidays: parent-managed accounts (10–12) and teen supervision",
             "Fire tablet or Echo for the holidays: set up Amazon Kids parental controls first",
-            "Giving an e-bike, e-scooter or hoverboard this holiday? Battery, charger and helmet checks from CPSC"
+            "Giving an e-bike, e-scooter or hoverboard this holiday? Battery, charger and helmet checks from CPSC",
+            "Thinking about an AI chatbot toy this holiday? What to check before you buy"
           ]
         }
       ],
@@ -1256,7 +1259,7 @@
           "a": "Search the product name at CPSC.gov/Recalls before giving it."
         }
       ],
-      "updated": "2026-11-15"
+      "updated": "2026-11-16"
     },
     {
       "path": "/guides/new-device-parental-controls",
@@ -1326,7 +1329,8 @@
             "Meta Quest VR headset for the holidays: parent-managed accounts (10–12) and teen supervision",
             "Fire tablet or Echo for the holidays: set up Amazon Kids parental controls first",
             "Kid asking for Spotify? Set up a Spotify managed account with parental controls",
-            "Giving an e-bike, e-scooter or hoverboard this holiday? Battery, charger and helmet checks from CPSC"
+            "Giving an e-bike, e-scooter or hoverboard this holiday? Battery, charger and helmet checks from CPSC",
+            "Thinking about an AI chatbot toy this holiday? What to check before you buy"
           ]
         }
       ],
@@ -1341,7 +1345,7 @@
           "a": "Apple says each child should have their own Apple Account in your Family Sharing group, not share one with another family member."
         }
       ],
-      "updated": "2026-11-15"
+      "updated": "2026-11-16"
     },
     {
       "path": "/guides/chronic-absence-two-days-a-month",
@@ -3715,6 +3719,76 @@
         "h": 720
       },
       "updated": "2026-11-15"
+    },
+    {
+      "path": "/guides/ai-chatbot-toys-before-you-buy",
+      "group": "guides",
+      "label": "Guide",
+      "title": "Thinking about an AI chatbot toy this holiday? What to check before you buy",
+      "seoTitle": "AI chatbot toys: what parents should check before buying",
+      "summary": "A new kind of toy is on holiday lists: stuffed animals and small robots that hold real conversations using an AI chatbot. Consumer group U.S. PIRG Education Fund bought and tested several and found real problems: some gave age-inappropriate answers, some told kids they could keep secrets even though the company receives what’s said, they record children’s voices, and none had all the parental controls PIRG thinks they should. The FBI has long advised families to research any internet-connected toy’s security and privacy before bringing it home. Here is a short checklist to use before you buy, and if you already have one.",
+      "steps": [
+        "Find out how it listens. PIRG found three designs: push-to-talk (records only while a button is held), a wake word (like a smart speaker), and always listening. Push-to-talk gives you the most control.",
+        "Read the privacy policy before buying. Look for what is recorded, how long it’s kept, and which other companies receive it. PIRG found some toys name their tech partners and others share with unnamed “partners”.",
+        "Check the parent app. PIRG says AI toys should at minimum let parents set usage limits and see full transcripts of conversations. Make sure you can see what your child talked about, not just a summary.",
+        "Set it up yourself and give only the minimum: a first name or nickname, no photos, no school name, no birthday unless required. The FBI recommends providing only what is minimally required and using a strong, unique password for the account.",
+        "Connect it only to your secured home Wi-Fi, install updates, and turn it off when it isn’t being played with, especially toys with microphones or cameras (FBI).",
+        "Test it before you wrap it: ask the questions a curious kid might ask and see how it answers. PIRG found guardrails can weaken over longer conversations.",
+        "Talk with your child: the toy is a machine run by a company, it isn’t a secret-keeper, and they can always come to you about anything it says.",
+        "Search the toy’s name with words like “privacy”, “security” or “recall” to see if researchers or reviewers have reported problems."
+      ],
+      "blocks": [
+        {
+          "h": "What’s confirmed (PIRG and FBI)",
+          "ul": [
+            "PIRG (December 11, 2025, updated January 7, 2026): AI toys connect to the internet and use a chatbot like ChatGPT; they have built-in microphones and the chatbot decides what to say back, so they won’t answer the same way twice.",
+            "PIRG’s testing found some toys discussed age-inappropriate topics, some expressed dismay when told the user was leaving, and some said they could keep a secret. One toy maker suspended sales for a safety audit after PIRG’s first report, and PIRG found that toy better behaved when retested.",
+            "PIRG: AI toys record children’s conversations, some collect more (one has a camera with facial recognition you can turn on), and several companies may receive a child’s data.",
+            "PIRG says its 2026 Trouble in Toyland report, which covers AI toys again, is scheduled for release on November 17, 2026. Check it for newer findings.",
+            "FBI IC3 public service announcement (revised September 21, 2017): consider cybersecurity before bringing internet-connected toys home; research known security issues, read the company’s and third parties’ privacy policies, monitor children’s activity through the parent app where available, turn toys off when not in use, and report a suspected compromise at IC3.gov."
+          ]
+        },
+        {
+          "h": "For PTAs",
+          "p": [
+            "A one-line December newsletter note works: “Considering an AI chatbot toy? Check how it listens, read the privacy policy, and test it before you wrap it. Consumer tips from U.S. PIRG and the FBI.” Link to the sources, don’t recommend or warn against specific brands, and avoid giving families individual advice."
+          ]
+        },
+        {
+          "h": "Sources",
+          "p": [
+            "U.S. PIRG Education Fund: The risks of AI toys for kids (December 11, 2025, updated January 7, 2026) — https://pirg.org/edfund/resources/ai-toys/",
+            "U.S. PIRG Education Fund: Trouble in Toyland archive (2026 report scheduled for November 17, 2026) — https://pirg.org/edfund/resources/trouble-in-toyland-archive/",
+            "FBI Internet Crime Complaint Center: Internet-Connected Toys Could Present Privacy and Contact Concerns for Children (revised PSA I-071717, September 21, 2017) — https://www.ic3.gov/PSA/2017/PSA170717"
+          ]
+        },
+        {
+          "h": "Related",
+          "ul": [
+            "New phone, tablet or console for the holidays? Set up parental controls first",
+            "Holiday gift check: toy safety rules from CPSC",
+            "Giving an e-bike, e-scooter or hoverboard this holiday? Battery, charger and helmet checks from CPSC"
+          ]
+        }
+      ],
+      "flag": "Checked against U.S. PIRG Education Fund’s AI toys page and the FBI IC3 internet-connected toys PSA on November 16, 2026. Listening modes, parental controls and privacy terms differ by toy and change with updates; check the toy maker’s current app and privacy policy before sharing with families. PIRG’s 2026 Trouble in Toyland report (due November 17, 2026) may add newer findings.",
+      "faq": [
+        {
+          "q": "Are AI toys banned or illegal?",
+          "a": "No. They’re sold at regular retailers. The concerns are about content, privacy and how much control parents get, which vary a lot from toy to toy."
+        },
+        {
+          "q": "What if my child already has one?",
+          "a": "Open the parent app, review the settings and any transcripts, delete stored recordings if the app allows it, update the toy, and turn it off when it’s not in use."
+        }
+      ],
+      "image": {
+        "src": "/images/ai-chatbot-toys-before-you-buy.webp",
+        "alt": "A mother and father at a kitchen table in the evening reading the back of a toy box together, a plush teddy bear with a small speaker beside the box and a phone on the table, a wrapped holiday gift nearby, warm home lighting, no brand logos",
+        "w": 1280,
+        "h": 720
+      },
+      "updated": "2026-11-16"
     }
   ],
   "static": [
