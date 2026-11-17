@@ -3,7 +3,7 @@
   "domain": "ptaplaybook.com",
   "tagline": "Fundraiser playbooks and school-app sanity for parents",
   "color": "#c2410c",
-  "updated": "November 16, 2026",
+  "updated": "November 17, 2026",
   "description": "Free playbooks, templates and checklists for PTA/PTO volunteers and busy parents: run fundraisers, recruit volunteers, and tame school-app notifications.",
   "nav": [
     {
@@ -415,7 +415,8 @@
             "Holiday gaming gift includes Discord? Preview Family Center connect, activity, spending and downtime now (see Discord Family Center parental controls before a holiday gaming gift)",
             "Holiday gift card season: share the warning signs and where to report before teacher-gift collections start (see Holiday gift card scams: what families and PTA volunteers should know)",
             "Set up TikTok Family Pairing before holiday screen time jumps (see TikTok Family Pairing: set parental controls before holiday screen time jumps)",
-            "Share how your school sends weather and closure alerts, and remind families not to tap surprise links (see Fake school-closure and weather-alert texts: pause and verify before you tap)"
+            "Share how your school sends weather and closure alerts, and remind families not to tap surprise links (see Fake school-closure and weather-alert texts: pause and verify before you tap)",
+            "Week of Nov. 23: if your family does North Pole postmark letters, USPS recommends mailing them Nov. 23 to Dec. 1 (see Letters to Santa in 2026: USPS Operation Santa dates and the North Pole postmark, for families and PTAs)"
           ]
         },
         {
@@ -437,11 +438,12 @@
             "Discord Family Center parental controls before a holiday gaming gift",
             "Holiday gift card scams: what families and PTA volunteers should know",
             "TikTok Family Pairing: set parental controls before holiday screen time jumps",
-            "Fake school-closure and weather-alert texts: pause and verify before you tap"
+            "Fake school-closure and weather-alert texts: pause and verify before you tap",
+            "Letters to Santa in 2026: USPS Operation Santa dates and the North Pole postmark, for families and PTAs"
           ]
         }
       ],
-      "updated": "2026-11-11",
+      "updated": "2026-11-17",
       "seoTitle": "November school-parent checklist: Thanksgiving to winter break"
     },
     {
@@ -572,11 +574,12 @@
             "Post-fundraiser thank-you note",
             "December school-parent checklist",
             "Free or reduced-price school meals: you can apply any time of year",
-            "Holiday gift card scams: what families and PTA volunteers should know"
+            "Holiday gift card scams: what families and PTA volunteers should know",
+            "Letters to Santa in 2026: USPS Operation Santa dates and the North Pole postmark, for families and PTAs"
           ]
         }
       ],
-      "updated": "2026-10-17"
+      "updated": "2026-11-17"
     },
     {
       "path": "/pta/fundraisers/winter-coat-drive",
@@ -617,11 +620,12 @@
             "Giving Tuesday playbook for a PTA or PTO",
             "Volunteer request email that gets replies",
             "Post-fundraiser thank-you note",
-            "December school-parent checklist"
+            "December school-parent checklist",
+            "Letters to Santa in 2026: USPS Operation Santa dates and the North Pole postmark, for families and PTAs"
           ]
         }
       ],
-      "updated": "2026-10-18"
+      "updated": "2026-11-17"
     },
     {
       "path": "/guides/teacher-appreciation-week",
@@ -726,7 +730,8 @@
         "New phone or speaker as a gift? If your child will use Spotify, set up a managed account with the explicit filter on first (see Kid asking for Spotify? Set up a Spotify managed account with parental controls)",
         "Teen picking up holiday or winter-break shifts? Check the federal hour limits for ages 14–15 and your state's rules first (see Teen getting a holiday or winter-break job? Federal work-hour rules for ages 14–17)",
         "Gifting an e-bike, e-scooter or hoverboard? Buy a helmet too, keep the original charger, and never charge it overnight (see Giving an e-bike, e-scooter or hoverboard this holiday? Battery, charger and helmet checks from CPSC)",
-        "Thinking about an AI chatbot toy? Check how it listens, read the privacy policy and test it before you wrap it (see Thinking about an AI chatbot toy this holiday? What to check before you buy)"
+        "Thinking about an AI chatbot toy? Check how it listens, read the privacy policy and test it before you wrap it (see Thinking about an AI chatbot toy this holiday? What to check before you buy)",
+        "Letters to Santa: mail Operation Santa letters by Dec. 5 and North Pole postmark letters by about Dec. 1 (see Letters to Santa in 2026: USPS Operation Santa dates and the North Pole postmark, for families and PTAs)"
       ],
       "blocks": [
         {
@@ -784,7 +789,8 @@
             "Kid asking for Spotify? Set up a Spotify managed account with parental controls",
             "Teen getting a holiday or winter-break job? Federal work-hour rules for ages 14–17",
             "Giving an e-bike, e-scooter or hoverboard this holiday? Battery, charger and helmet checks from CPSC",
-            "Thinking about an AI chatbot toy this holiday? What to check before you buy"
+            "Thinking about an AI chatbot toy this holiday? What to check before you buy",
+            "Letters to Santa in 2026: USPS Operation Santa dates and the North Pole postmark, for families and PTAs"
           ]
         }
       ],
@@ -798,7 +804,7 @@
           "a": "No. Gifts are optional. A specific handwritten note from your child is often the most valued thank-you, and many PTAs cover a building-wide treat so families don't have to."
         }
       ],
-      "updated": "2026-11-16",
+      "updated": "2026-11-17",
       "seoTitle": "December school-parent checklist: winter break and gifts"
     },
     {
@@ -3726,7 +3732,7 @@
       "label": "Guide",
       "title": "Thinking about an AI chatbot toy this holiday? What to check before you buy",
       "seoTitle": "AI chatbot toys: what parents should check before buying",
-      "summary": "A new kind of toy is on holiday lists: stuffed animals and small robots that hold real conversations using an AI chatbot. Consumer group U.S. PIRG Education Fund bought and tested several and found real problems: some gave age-inappropriate answers, some told kids they could keep secrets even though the company receives what’s said, they record children’s voices, and none had all the parental controls PIRG thinks they should. The FBI has long advised families to research any internet-connected toy’s security and privacy before bringing it home. Here is a short checklist to use before you buy, and if you already have one.",
+      "summary": "A new kind of toy is on holiday lists: stuffed animals and small robots that hold real conversations using an AI chatbot. Consumer group U.S. PIRG Education Fund has tested them two years running and found real problems: some gave age-inappropriate answers, some told kids they could keep secrets even though the company receives what’s said, they record children’s voices, and none had all the parental controls PIRG thinks they should. The FBI has long advised families to research any internet-connected toy’s security and privacy before bringing it home. Here is a short checklist to use before you buy, and if you already have one.",
       "steps": [
         "Find out how it listens. PIRG found three designs: push-to-talk (records only while a button is held), a wake word (like a smart speaker), and always listening. Push-to-talk gives you the most control.",
         "Read the privacy policy before buying. Look for what is recorded, how long it’s kept, and which other companies receive it. PIRG found some toys name their tech partners and others share with unnamed “partners”.",
@@ -3744,7 +3750,7 @@
             "PIRG (December 11, 2025, updated January 7, 2026): AI toys connect to the internet and use a chatbot like ChatGPT; they have built-in microphones and the chatbot decides what to say back, so they won’t answer the same way twice.",
             "PIRG’s testing found some toys discussed age-inappropriate topics, some expressed dismay when told the user was leaving, and some said they could keep a secret. One toy maker suspended sales for a safety audit after PIRG’s first report, and PIRG found that toy better behaved when retested.",
             "PIRG: AI toys record children’s conversations, some collect more (one has a camera with facial recognition you can turn on), and several companies may receive a child’s data.",
-            "PIRG says its 2026 Trouble in Toyland report, which covers AI toys again, is scheduled for release on November 17, 2026. Check it for newer findings.",
+            "PIRG’s Trouble in Toyland 2026 report is now out (live November 17, 2026). It tested seven AI toys, its second year looking at them, and again found some with glitchy guardrails that let them discuss sexual topics, while others gave instructions on finding potentially dangerous objects in the home and how to light a match.",
             "FBI IC3 public service announcement (revised September 21, 2017): consider cybersecurity before bringing internet-connected toys home; research known security issues, read the company’s and third parties’ privacy policies, monitor children’s activity through the parent app where available, turn toys off when not in use, and report a suspected compromise at IC3.gov."
           ]
         },
@@ -3758,7 +3764,7 @@
           "h": "Sources",
           "p": [
             "U.S. PIRG Education Fund: The risks of AI toys for kids (December 11, 2025, updated January 7, 2026) — https://pirg.org/edfund/resources/ai-toys/",
-            "U.S. PIRG Education Fund: Trouble in Toyland archive (2026 report scheduled for November 17, 2026) — https://pirg.org/edfund/resources/trouble-in-toyland-archive/",
+            "U.S. PIRG Education Fund: Trouble in Toyland 2026 — https://pirg.org/edfund/resources/trouble-in-toyland-2026/",
             "FBI Internet Crime Complaint Center: Internet-Connected Toys Could Present Privacy and Contact Concerns for Children (revised PSA I-071717, September 21, 2017) — https://www.ic3.gov/PSA/2017/PSA170717"
           ]
         },
@@ -3771,7 +3777,7 @@
           ]
         }
       ],
-      "flag": "Checked against U.S. PIRG Education Fund’s AI toys page and the FBI IC3 internet-connected toys PSA on November 16, 2026. Listening modes, parental controls and privacy terms differ by toy and change with updates; check the toy maker’s current app and privacy policy before sharing with families. PIRG’s 2026 Trouble in Toyland report (due November 17, 2026) may add newer findings.",
+      "flag": "Checked against U.S. PIRG Education Fund’s AI toys page, its Trouble in Toyland 2026 report and the FBI IC3 internet-connected toys PSA on November 17, 2026. Listening modes, parental controls and privacy terms differ by toy and change with updates; check the toy maker’s current app and privacy policy before sharing with families.",
       "faq": [
         {
           "q": "Are AI toys banned or illegal?",
@@ -3788,7 +3794,87 @@
         "w": 1280,
         "h": 720
       },
-      "updated": "2026-11-16"
+      "updated": "2026-11-17"
+    },
+    {
+      "path": "/guides/letters-to-santa-usps-2026",
+      "group": "guides",
+      "label": "Guide",
+      "title": "Letters to Santa in 2026: USPS Operation Santa dates and the North Pole postmark, for families and PTAs",
+      "seoTitle": "Letters to Santa 2026: USPS Operation Santa dates, postmark",
+      "summary": "The Postal Service runs two different Santa traditions. In USPS Operation Santa, kids mail a letter to 123 Elf Road, North Pole, 88888 by Saturday, December 5, 2026; USPS blacks out personal details and posts letters online, where verified adopters can send a gift, though a reply isn’t guaranteed. With the North Pole postmark, you write Santa’s reply yourself and USPS mails it back with a North Pole postmark; it recommends sending between November 23 and December 1. Here are the steps, the 2026 dates, and how a PTA can join in without collecting families’ information.",
+      "steps": [
+        "Pick the tradition. Operation Santa: your child writes to Santa and a stranger may adopt the letter and send a gift. North Pole postmark: you write Santa’s reply and USPS delivers it with a North Pole postmark. You can do both.",
+        "Operation Santa letter: put it in a stamped envelope addressed to 123 Elf Road, North Pole, 88888. Write your full return address clearly on the envelope (include an apartment number) and on the letter itself. It must be postmarked by Saturday, December 5, 2026.",
+        "Set expectations kindly: USPS says there’s no guarantee a letter will be posted, adopted or answered, and adopters don’t have to fulfill big wishes. Talk with your child about one or two wishes, not a long list.",
+        "If you move after mailing, file a change of address with USPS so a gift can still reach you.",
+        "North Pole postmark: have your child write to Santa, then write a personal reply signed “From Santa” (mention something real from their year). Put both letters in an envelope addressed to your child, with the return address SANTA, NORTH POLE, and a First-Class stamp.",
+        "Put that stamped envelope inside a larger envelope, also with postage, addressed to: NORTH POLE POSTMARK, POSTMASTER, 4141 POSTMARK DR, ANCHORAGE AK 99530-9998. USPS recommends mailing between November 23 and December 1.",
+        "Want to adopt a letter instead? Create and verify an account on the USPS Operation Santa site, choose a letter (or a whole family), and ship by Saturday, December 12, 2026, the last day to adopt; the site closes at 8 p.m. ET. Adopters pay their own shipping."
+      ],
+      "blocks": [
+        {
+          "h": "2026 key dates (USPS)",
+          "ul": [
+            "Sept. 14: letters to 123 Elf Road start being accepted.",
+            "Nov. 2: adopter registration and ID verification opened.",
+            "Nov. 16: letter adoption started; new letters are added daily through Dec. 12.",
+            "Nov. 23 to Dec. 1: recommended window to mail North Pole postmark letters.",
+            "Dec. 5: last day to send letters to Santa (postmark date).",
+            "Dec. 12: last day to adopt letters (site closes at 8 p.m. ET) and the recommended ship-by date for delivery before Dec. 25."
+          ]
+        },
+        {
+          "h": "Privacy and safety",
+          "ul": [
+            "USPS says it redacts personal details, such as last names, addresses and school or community names, before letters are posted, and adopters don’t receive the letter writer’s personal information from the Postal Service.",
+            "Operation Santa is run only online, and it’s open to people in the continental U.S., Hawaii and Puerto Rico.",
+            "USPS is a federal agency and doesn’t accept money donations for the program, and it says spending on Operation Santa gifts isn’t tax-deductible. Be wary of anyone asking for cash or gift cards “for Santa letters.”"
+          ]
+        },
+        {
+          "h": "For PTAs",
+          "p": [
+            "A class or family-night letter-writing table is an easy, free activity: supply paper, envelopes and the 123 Elf Road address, and remind families that each family mails its own letter with its own return address. Don’t collect children’s letters, wishes or home addresses as a PTA. If a group of parents or staff want to adopt letters together, Operation Santa has a team option for adopting a whole family. If you’d spend PTA money on gifts, check your bylaws and treasurer first, and remember those purchases aren’t tax-deductible for donors."
+          ]
+        },
+        {
+          "h": "Sources",
+          "p": [
+            "USPS Operation Santa: FAQs (2026 key dates, how to send a letter, privacy) — https://www.uspsoperationsanta.com/faqs",
+            "USPS Operation Santa: How it works — https://www.uspsoperationsanta.com/how",
+            "USPS: Greetings from the North Pole, Letters from Santa (North Pole postmark steps) — https://about.usps.com/holidaynews/letters-from-santa.htm"
+          ]
+        },
+        {
+          "h": "Related",
+          "ul": [
+            "December school-parent checklist",
+            "Holiday food drive playbook for a PTA or PTO",
+            "Winter coat and clothing drive playbook for a PTA or PTO",
+            "Holiday gift card scams: what families and PTA volunteers should know",
+            "Fake package delivery texts: what parents and teens should know before the holidays"
+          ]
+        }
+      ],
+      "flag": "Checked against the USPS Operation Santa site and the USPS North Pole postmark page on November 17, 2026. USPS can change dates, addresses and rules; confirm on those pages before sharing in a newsletter. Post office holiday hours vary, so check your local post office.",
+      "faq": [
+        {
+          "q": "Does every letter to Santa get a gift?",
+          "a": "No. USPS says there’s no guarantee a letter will be posted, adopted or fulfilled. The North Pole postmark is the way to be sure your child gets a reply, because you write it."
+        },
+        {
+          "q": "Can teachers or the PTA mail the whole class’s letters?",
+          "a": "It’s simpler and more private for each family to mail its own letter with its own return address, because any gift is sent to that address. A PTA can host the writing activity without collecting anything."
+        }
+      ],
+      "image": {
+        "src": "/images/letters-to-santa-usps-2026.webp",
+        "alt": "A young child and a parent at a white kitchen table writing a letter to Santa with pencils, a plain envelope and a mug of cocoa beside them, a decorated holiday tree with warm lights blurred in the background, no brand logos",
+        "w": 1280,
+        "h": 720
+      },
+      "updated": "2026-11-17"
     }
   ],
   "static": [
